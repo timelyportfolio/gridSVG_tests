@@ -1288,9 +1288,30 @@
                 .attr("fill","lightgray");
             
             points.on("click",function(d) {alert(d.x +" "+ d.group+" " + d.y)});
+            
+            //if we want to move points then we need to preserve the old location
+            //but this does not work and will need to get the values
+            points[0].map(function(d){d.oldattributes = d.attributes});
+            
+            
 	//example of how we might use
 //            points.filter(function(d){return d.strip==="Waseca"}).attr("stroke-opacity","100")
 	//also might want to bind the legend or key to data
+            var legend = new Object();
+            legend.text  = d3.selectAll('.text [id*="key"]');
+            legend.points= d3.selectAll('.points [id*="key"]');            
+            legend.text.data( data.groups );
+            legend.points.data( data.groups );
+            legend.text.on("click", function(d){
+                                        points.filter(
+                                            function(point){
+                                                return point.group === d;
+                                            }
+                                        ).style("opacity",function(){return this.style.opacity==100 ? 0 : 100;});
+                                        legend.points.filter(function(point){return point === d}).style("opacity",function(){return this.style.opacity==100 ? 0 : 100;});
+                                    }
+                            );
+
 	//also might want to bind the strip to data
 	//could then define on events to provide tooltips with the data
             
