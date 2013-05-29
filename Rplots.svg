@@ -1,0 +1,648 @@
+<?xml version="1.0" encoding="ISO8859-1"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="683px" height="391px" viewBox="0 0 683 391" version="1.1">
+  <metadata xmlns:gridsvg="http://www.stat.auckland.ac.nz/~paul/R/gridSVG/">
+    <gridsvg:generator name="gridSVG" version="1.2-0" time="2013-05-29 11:11:37"/>
+    <gridsvg:argument name="name" value="Rplots.svg"/>
+    <gridsvg:argument name="exportCoords" value="none"/>
+    <gridsvg:argument name="exportMappings" value="none"/>
+    <gridsvg:argument name="exportJS" value="none"/>
+    <gridsvg:argument name="res" value="72"/>
+    <gridsvg:argument name="prefix" value=""/>
+    <gridsvg:argument name="addClasses" value="FALSE"/>
+    <gridsvg:argument name="indent" value="TRUE"/>
+    <gridsvg:argument name="htmlWrapper" value="FALSE"/>
+    <gridsvg:argument name="usePaths" value="vpPaths"/>
+    <gridsvg:argument name="uniqueNames" value="TRUE"/>
+    <gridsvg:separator name="id.sep" value="."/>
+    <gridsvg:separator name="gPath.sep" value="::"/>
+    <gridsvg:separator name="vpPath.sep" value="::"/>
+  </metadata>
+  <g transform="translate(0, 391) scale(1, -1)">
+    <g id="gridSVG" fill="none" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="1" font-size="16" font-family="Helvetica, Arial, FreeSans, Liberation Sans, Nimbus Sans L, sans-serif" opacity="1" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-opacity="1" fill-opacity="0" font-weight="normal" font-style="normal">
+      <g id="plot_01.background.1">
+        <rect id="plot_01.background.1.1" x="0" y="0" width="683" height="391" fill="none" stroke="none" stroke-opacity="0" fill-opacity="0"/>
+      </g>
+      <g id="plot_01.toplevel.vp.1" font-size="12">
+        <g id="plot_01.toplevel.vp::plot_01.figure.vp.1"/>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.1.1.vp.1.clipPath">
+            <rect x="119.34" y="43.01" width="496.4" height="312.98" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.1.1.vp.1" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.1.1.vp.1.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.1.1.off.vp.1">
+          <g id="plot_01.ticks.top.panel.1.1.1">
+            <polyline id="plot_01.ticks.top.panel.1.1.1.1" points="127.01,355.99 127.01,361.66" stroke="rgb(0,0,0)" opacity="1" stroke-dasharray="none" stroke-width="1" stroke-opacity="1" fill="none"/>
+            <polyline id="plot_01.ticks.top.panel.1.1.1.2" points="250.32,355.99 250.32,361.66" stroke="rgb(0,0,0)" opacity="1" stroke-dasharray="none" stroke-width="1" stroke-opacity="1" fill="none"/>
+            <polyline id="plot_01.ticks.top.panel.1.1.1.3" points="373.64,355.99 373.64,361.66" stroke="rgb(0,0,0)" opacity="1" stroke-dasharray="none" stroke-width="1" stroke-opacity="1" fill="none"/>
+            <polyline id="plot_01.ticks.top.panel.1.1.1.4" points="496.96,355.99 496.96,361.66" stroke="rgb(0,0,0)" opacity="1" stroke-dasharray="none" stroke-width="1" stroke-opacity="1" fill="none"/>
+          </g>
+        </g>
+        <g id="plot_01.toplevel.vp::plot_01.strip.left.1.1.off.vp.1">
+          <g id="plot_01.ticklabels.left.panel.1.1.1">
+            <g id="plot_01.ticklabels.left.panel.1.1.1.1" transform="translate(113.67, 47.8)" stroke-width="0.1">
+              <g transform="scale(1, -1)">
+                <text x="0" y="0" text-anchor="end" stroke="rgb(0,0,0)" opacity="1" stroke-opacity="1" fill="rgb(0,0,0)" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                  <tspan dy="4" x="0">Whitman County</tspan>
+                </text>
+              </g>
+            </g>
+            <g id="plot_01.ticklabels.left.panel.1.1.1.2" transform="translate(113.67, 55.78)" stroke-width="0.1">
+              <g transform="scale(1, -1)">
+                <text x="0" y="0" text-anchor="end" stroke="rgb(0,0,0)" opacity="1" stroke-opacity="1" fill="rgb(0,0,0)" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                  <tspan dy="4" x="0">Chelan County</tspan>
+                </text>
+              </g>
+            </g>
+            <g id="plot_01.ticklabels.left.panel.1.1.1.3" transform="translate(113.67, 63.77)" stroke-width="0.1">
+              <g transform="scale(1, -1)">
+                <text x="0" y="0" text-anchor="end" stroke="rgb(0,0,0)" opacity="1" stroke-opacity="1" fill="rgb(0,0,0)" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                  <tspan dy="4" x="0">San Juan County</tspan>
+                </text>
+              </g>
+            </g>
+            <g id="plot_01.ticklabels.left.panel.1.1.1.4" transform="translate(113.67, 71.75)" stroke-width="0.1">
+              <g transform="scale(1, -1)">
+                <text x="0" y="0" text-anchor="end" stroke="rgb(0,0,0)" opacity="1" stroke-opacity="1" fill="rgb(0,0,0)" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                  <tspan dy="4" x="0">Island County</tspan>
+                </text>
+              </g>
+            </g>
+            <g id="plot_01.ticklabels.left.panel.1.1.1.5" transform="translate(113.67, 79.74)" stroke-width="0.1">
+              <g transform="scale(1, -1)">
+                <text x="0" y="0" text-anchor="end" stroke="rgb(0,0,0)" opacity="1" stroke-opacity="1" fill="rgb(0,0,0)" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                  <tspan dy="4" x="0">Ferry County</tspan>
+                </text>
+              </g>
+            </g>
+            <g id="plot_01.ticklabels.left.panel.1.1.1.6" transform="translate(113.67, 87.72)" stroke-width="0.1">
+              <g transform="scale(1, -1)">
+                <text x="0" y="0" text-anchor="end" stroke="rgb(0,0,0)" opacity="1" stroke-opacity="1" fill="rgb(0,0,0)" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                  <tspan dy="4" x="0">Douglas County</tspan>
+                </text>
+              </g>
+            </g>
+            <g id="plot_01.ticklabels.left.panel.1.1.1.7" transform="translate(113.67, 95.7)" stroke-width="0.1">
+              <g transform="scale(1, -1)">
+                <text x="0" y="0" text-anchor="end" stroke="rgb(0,0,0)" opacity="1" stroke-opacity="1" fill="rgb(0,0,0)" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                  <tspan dy="4" x="0">Garfield County</tspan>
+                </text>
+              </g>
+            </g>
+            <g id="plot_01.ticklabels.left.panel.1.1.1.8" transform="translate(113.67, 103.69)" stroke-width="0.1">
+              <g transform="scale(1, -1)">
+                <text x="0" y="0" text-anchor="end" stroke="rgb(0,0,0)" opacity="1" stroke-opacity="1" fill="rgb(0,0,0)" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                  <tspan dy="4" x="0">Walla Walla County</tspan>
+                </text>
+              </g>
+            </g>
+            <g id="plot_01.ticklabels.left.panel.1.1.1.9" transform="translate(113.67, 111.67)" stroke-width="0.1">
+              <g transform="scale(1, -1)">
+                <text x="0" y="0" text-anchor="end" stroke="rgb(0,0,0)" opacity="1" stroke-opacity="1" fill="rgb(0,0,0)" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                  <tspan dy="4" x="0">Whatcom County</tspan>
+                </text>
+              </g>
+            </g>
+            <g id="plot_01.ticklabels.left.panel.1.1.1.10" transform="translate(113.67, 119.66)" stroke-width="0.1">
+              <g transform="scale(1, -1)">
+                <text x="0" y="0" text-anchor="end" stroke="rgb(0,0,0)" opacity="1" stroke-opacity="1" fill="rgb(0,0,0)" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                  <tspan dy="4" x="0">Asotin County</tspan>
+                </text>
+              </g>
+            </g>
+            <g id="plot_01.ticklabels.left.panel.1.1.1.11" transform="translate(113.67, 127.64)" stroke-width="0.1">
+              <g transform="scale(1, -1)">
+                <text x="0" y="0" text-anchor="end" stroke="rgb(0,0,0)" opacity="1" stroke-opacity="1" fill="rgb(0,0,0)" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                  <tspan dy="4" x="0">Adams County</tspan>
+                </text>
+              </g>
+            </g>
+            <g id="plot_01.ticklabels.left.panel.1.1.1.12" transform="translate(113.67, 135.63)" stroke-width="0.1">
+              <g transform="scale(1, -1)">
+                <text x="0" y="0" text-anchor="end" stroke="rgb(0,0,0)" opacity="1" stroke-opacity="1" fill="rgb(0,0,0)" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                  <tspan dy="4" x="0">Lincoln County</tspan>
+                </text>
+              </g>
+            </g>
+            <g id="plot_01.ticklabels.left.panel.1.1.1.13" transform="translate(113.67, 143.61)" stroke-width="0.1">
+              <g transform="scale(1, -1)">
+                <text x="0" y="0" text-anchor="end" stroke="rgb(0,0,0)" opacity="1" stroke-opacity="1" fill="rgb(0,0,0)" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                  <tspan dy="4" x="0">King County</tspan>
+                </text>
+              </g>
+            </g>
+            <g id="plot_01.ticklabels.left.panel.1.1.1.14" transform="translate(113.67, 151.59)" stroke-width="0.1">
+              <g transform="scale(1, -1)">
+                <text x="0" y="0" text-anchor="end" stroke="rgb(0,0,0)" opacity="1" stroke-opacity="1" fill="rgb(0,0,0)" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                  <tspan dy="4" x="0">Mason County</tspan>
+                </text>
+              </g>
+            </g>
+            <g id="plot_01.ticklabels.left.panel.1.1.1.15" transform="translate(113.67, 159.58)" stroke-width="0.1">
+              <g transform="scale(1, -1)">
+                <text x="0" y="0" text-anchor="end" stroke="rgb(0,0,0)" opacity="1" stroke-opacity="1" fill="rgb(0,0,0)" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                  <tspan dy="4" x="0">Clallam County</tspan>
+                </text>
+              </g>
+            </g>
+            <g id="plot_01.ticklabels.left.panel.1.1.1.16" transform="translate(113.67, 167.56)" stroke-width="0.1">
+              <g transform="scale(1, -1)">
+                <text x="0" y="0" text-anchor="end" stroke="rgb(0,0,0)" opacity="1" stroke-opacity="1" fill="rgb(0,0,0)" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                  <tspan dy="4" x="0">Jefferson County</tspan>
+                </text>
+              </g>
+            </g>
+            <g id="plot_01.ticklabels.left.panel.1.1.1.17" transform="translate(113.67, 175.55)" stroke-width="0.1">
+              <g transform="scale(1, -1)">
+                <text x="0" y="0" text-anchor="end" stroke="rgb(0,0,0)" opacity="1" stroke-opacity="1" fill="rgb(0,0,0)" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                  <tspan dy="4" x="0">Grant County</tspan>
+                </text>
+              </g>
+            </g>
+            <g id="plot_01.ticklabels.left.panel.1.1.1.18" transform="translate(113.67, 183.53)" stroke-width="0.1">
+              <g transform="scale(1, -1)">
+                <text x="0" y="0" text-anchor="end" stroke="rgb(0,0,0)" opacity="1" stroke-opacity="1" fill="rgb(0,0,0)" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                  <tspan dy="4" x="0">Benton County</tspan>
+                </text>
+              </g>
+            </g>
+            <g id="plot_01.ticklabels.left.panel.1.1.1.19" transform="translate(113.67, 191.52)" stroke-width="0.1">
+              <g transform="scale(1, -1)">
+                <text x="0" y="0" text-anchor="end" stroke="rgb(0,0,0)" opacity="1" stroke-opacity="1" fill="rgb(0,0,0)" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                  <tspan dy="4" x="0">Okanogan County</tspan>
+                </text>
+              </g>
+            </g>
+            <g id="plot_01.ticklabels.left.panel.1.1.1.20" transform="translate(113.67, 199.5)" stroke-width="0.1">
+              <g transform="scale(1, -1)">
+                <text x="0" y="0" text-anchor="end" stroke="rgb(0,0,0)" opacity="1" stroke-opacity="1" fill="rgb(0,0,0)" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                  <tspan dy="4" x="0">Yakima County</tspan>
+                </text>
+              </g>
+            </g>
+            <g id="plot_01.ticklabels.left.panel.1.1.1.21" transform="translate(113.67, 207.48)" stroke-width="0.1">
+              <g transform="scale(1, -1)">
+                <text x="0" y="0" text-anchor="end" stroke="rgb(0,0,0)" opacity="1" stroke-opacity="1" fill="rgb(0,0,0)" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                  <tspan dy="4" x="0">Skagit County</tspan>
+                </text>
+              </g>
+            </g>
+            <g id="plot_01.ticklabels.left.panel.1.1.1.22" transform="translate(113.67, 215.47)" stroke-width="0.1">
+              <g transform="scale(1, -1)">
+                <text x="0" y="0" text-anchor="end" stroke="rgb(0,0,0)" opacity="1" stroke-opacity="1" fill="rgb(0,0,0)" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                  <tspan dy="4" x="0">Kitsap County</tspan>
+                </text>
+              </g>
+            </g>
+            <g id="plot_01.ticklabels.left.panel.1.1.1.23" transform="translate(113.67, 223.45)" stroke-width="0.1">
+              <g transform="scale(1, -1)">
+                <text x="0" y="0" text-anchor="end" stroke="rgb(0,0,0)" opacity="1" stroke-opacity="1" fill="rgb(0,0,0)" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                  <tspan dy="4" x="0">Stevens County</tspan>
+                </text>
+              </g>
+            </g>
+            <g id="plot_01.ticklabels.left.panel.1.1.1.24" transform="translate(113.67, 231.44)" stroke-width="0.1">
+              <g transform="scale(1, -1)">
+                <text x="0" y="0" text-anchor="end" stroke="rgb(0,0,0)" opacity="1" stroke-opacity="1" fill="rgb(0,0,0)" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                  <tspan dy="4" x="0">Snohomish County</tspan>
+                </text>
+              </g>
+            </g>
+            <g id="plot_01.ticklabels.left.panel.1.1.1.25" transform="translate(113.67, 239.42)" stroke-width="0.1">
+              <g transform="scale(1, -1)">
+                <text x="0" y="0" text-anchor="end" stroke="rgb(0,0,0)" opacity="1" stroke-opacity="1" fill="rgb(0,0,0)" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                  <tspan dy="4" x="0">Clark County</tspan>
+                </text>
+              </g>
+            </g>
+            <g id="plot_01.ticklabels.left.panel.1.1.1.26" transform="translate(113.67, 247.41)" stroke-width="0.1">
+              <g transform="scale(1, -1)">
+                <text x="0" y="0" text-anchor="end" stroke="rgb(0,0,0)" opacity="1" stroke-opacity="1" fill="rgb(0,0,0)" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                  <tspan dy="4" x="0">Lewis County</tspan>
+                </text>
+              </g>
+            </g>
+            <g id="plot_01.ticklabels.left.panel.1.1.1.27" transform="translate(113.67, 255.39)" stroke-width="0.1">
+              <g transform="scale(1, -1)">
+                <text x="0" y="0" text-anchor="end" stroke="rgb(0,0,0)" opacity="1" stroke-opacity="1" fill="rgb(0,0,0)" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                  <tspan dy="4" x="0">Skamania County</tspan>
+                </text>
+              </g>
+            </g>
+            <g id="plot_01.ticklabels.left.panel.1.1.1.28" transform="translate(113.67, 263.37)" stroke-width="0.1">
+              <g transform="scale(1, -1)">
+                <text x="0" y="0" text-anchor="end" stroke="rgb(0,0,0)" opacity="1" stroke-opacity="1" fill="rgb(0,0,0)" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                  <tspan dy="4" x="0">Spokane County</tspan>
+                </text>
+              </g>
+            </g>
+            <g id="plot_01.ticklabels.left.panel.1.1.1.29" transform="translate(113.67, 271.36)" stroke-width="0.1">
+              <g transform="scale(1, -1)">
+                <text x="0" y="0" text-anchor="end" stroke="rgb(0,0,0)" opacity="1" stroke-opacity="1" fill="rgb(0,0,0)" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                  <tspan dy="4" x="0">Kittitas County</tspan>
+                </text>
+              </g>
+            </g>
+            <g id="plot_01.ticklabels.left.panel.1.1.1.30" transform="translate(113.67, 279.34)" stroke-width="0.1">
+              <g transform="scale(1, -1)">
+                <text x="0" y="0" text-anchor="end" stroke="rgb(0,0,0)" opacity="1" stroke-opacity="1" fill="rgb(0,0,0)" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                  <tspan dy="4" x="0">Pacific County</tspan>
+                </text>
+              </g>
+            </g>
+            <g id="plot_01.ticklabels.left.panel.1.1.1.31" transform="translate(113.67, 287.33)" stroke-width="0.1">
+              <g transform="scale(1, -1)">
+                <text x="0" y="0" text-anchor="end" stroke="rgb(0,0,0)" opacity="1" stroke-opacity="1" fill="rgb(0,0,0)" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                  <tspan dy="4" x="0">Klickitat County</tspan>
+                </text>
+              </g>
+            </g>
+            <g id="plot_01.ticklabels.left.panel.1.1.1.32" transform="translate(113.67, 295.31)" stroke-width="0.1">
+              <g transform="scale(1, -1)">
+                <text x="0" y="0" text-anchor="end" stroke="rgb(0,0,0)" opacity="1" stroke-opacity="1" fill="rgb(0,0,0)" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                  <tspan dy="4" x="0">Thurston County</tspan>
+                </text>
+              </g>
+            </g>
+            <g id="plot_01.ticklabels.left.panel.1.1.1.33" transform="translate(113.67, 303.3)" stroke-width="0.1">
+              <g transform="scale(1, -1)">
+                <text x="0" y="0" text-anchor="end" stroke="rgb(0,0,0)" opacity="1" stroke-opacity="1" fill="rgb(0,0,0)" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                  <tspan dy="4" x="0">Pierce County</tspan>
+                </text>
+              </g>
+            </g>
+            <g id="plot_01.ticklabels.left.panel.1.1.1.34" transform="translate(113.67, 311.28)" stroke-width="0.1">
+              <g transform="scale(1, -1)">
+                <text x="0" y="0" text-anchor="end" stroke="rgb(0,0,0)" opacity="1" stroke-opacity="1" fill="rgb(0,0,0)" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                  <tspan dy="4" x="0">Cowlitz County</tspan>
+                </text>
+              </g>
+            </g>
+            <g id="plot_01.ticklabels.left.panel.1.1.1.35" transform="translate(113.67, 319.26)" stroke-width="0.1">
+              <g transform="scale(1, -1)">
+                <text x="0" y="0" text-anchor="end" stroke="rgb(0,0,0)" opacity="1" stroke-opacity="1" fill="rgb(0,0,0)" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                  <tspan dy="4" x="0">Franklin County</tspan>
+                </text>
+              </g>
+            </g>
+            <g id="plot_01.ticklabels.left.panel.1.1.1.36" transform="translate(113.67, 327.25)" stroke-width="0.1">
+              <g transform="scale(1, -1)">
+                <text x="0" y="0" text-anchor="end" stroke="rgb(0,0,0)" opacity="1" stroke-opacity="1" fill="rgb(0,0,0)" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                  <tspan dy="4" x="0">Pend Oreille County</tspan>
+                </text>
+              </g>
+            </g>
+            <g id="plot_01.ticklabels.left.panel.1.1.1.37" transform="translate(113.67, 335.23)" stroke-width="0.1">
+              <g transform="scale(1, -1)">
+                <text x="0" y="0" text-anchor="end" stroke="rgb(0,0,0)" opacity="1" stroke-opacity="1" fill="rgb(0,0,0)" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                  <tspan dy="4" x="0">Grays Harbor County</tspan>
+                </text>
+              </g>
+            </g>
+            <g id="plot_01.ticklabels.left.panel.1.1.1.38" transform="translate(113.67, 343.22)" stroke-width="0.1">
+              <g transform="scale(1, -1)">
+                <text x="0" y="0" text-anchor="end" stroke="rgb(0,0,0)" opacity="1" stroke-opacity="1" fill="rgb(0,0,0)" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                  <tspan dy="4" x="0">Wahkiakum County</tspan>
+                </text>
+              </g>
+            </g>
+            <g id="plot_01.ticklabels.left.panel.1.1.1.39" transform="translate(113.67, 351.2)" stroke-width="0.1">
+              <g transform="scale(1, -1)">
+                <text x="0" y="0" text-anchor="end" stroke="rgb(0,0,0)" opacity="1" stroke-opacity="1" fill="rgb(0,0,0)" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                  <tspan dy="4" x="0">Columbia County</tspan>
+                </text>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g id="plot_01.toplevel.vp::plot_01.panel.1.1.off.vp.1">
+          <g id="plot_01.ticks.bottom.panel.1.1.1">
+            <polyline id="plot_01.ticks.bottom.panel.1.1.1.1" points="127.01,43.01 127.01,37.34" stroke="rgb(0,0,0)" opacity="1" stroke-dasharray="none" stroke-width="1" stroke-opacity="1" fill="none"/>
+            <polyline id="plot_01.ticks.bottom.panel.1.1.1.2" points="250.32,43.01 250.32,37.34" stroke="rgb(0,0,0)" opacity="1" stroke-dasharray="none" stroke-width="1" stroke-opacity="1" fill="none"/>
+            <polyline id="plot_01.ticks.bottom.panel.1.1.1.3" points="373.64,43.01 373.64,37.34" stroke="rgb(0,0,0)" opacity="1" stroke-dasharray="none" stroke-width="1" stroke-opacity="1" fill="none"/>
+            <polyline id="plot_01.ticks.bottom.panel.1.1.1.4" points="496.96,43.01 496.96,37.34" stroke="rgb(0,0,0)" opacity="1" stroke-dasharray="none" stroke-width="1" stroke-opacity="1" fill="none"/>
+          </g>
+          <g id="plot_01.ticklabels.bottom.panel.1.1.1">
+            <g id="plot_01.ticklabels.bottom.panel.1.1.1.1" transform="translate(250.32, 31.67)" stroke-width="0.1">
+              <g transform="scale(1, -1)">
+                <text x="0" y="0" text-anchor="middle" stroke="rgb(0,0,0)" opacity="1" stroke-opacity="1" fill="rgb(0,0,0)" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                  <tspan dy="8" x="0">200</tspan>
+                </text>
+              </g>
+            </g>
+            <g id="plot_01.ticklabels.bottom.panel.1.1.1.2" transform="translate(373.64, 31.67)" stroke-width="0.1">
+              <g transform="scale(1, -1)">
+                <text x="0" y="0" text-anchor="middle" stroke="rgb(0,0,0)" opacity="1" stroke-opacity="1" fill="rgb(0,0,0)" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                  <tspan dy="8" x="0">300</tspan>
+                </text>
+              </g>
+            </g>
+            <g id="plot_01.ticklabels.bottom.panel.1.1.1.3" transform="translate(496.96, 31.67)" stroke-width="0.1">
+              <g transform="scale(1, -1)">
+                <text x="0" y="0" text-anchor="middle" stroke="rgb(0,0,0)" opacity="1" stroke-opacity="1" fill="rgb(0,0,0)" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                  <tspan dy="8" x="0">400</tspan>
+                </text>
+              </g>
+            </g>
+          </g>
+        </g>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.1.1.vp.2.clipPath">
+            <rect x="119.34" y="43.01" width="496.4" height="312.98" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.1.1.vp.2" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.1.1.vp.2.clipPath)">
+          <g id="plot_01.rect.panel.1.1.1">
+            <rect id="plot_01.rect.panel.1.1.1.1" x="295.95" y="348.81" width="282.4" height="4.79" fill="rgb(233,183,73)" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="1" opacity="1" stroke-opacity="1" fill-opacity="1"/>
+            <rect id="plot_01.rect.panel.1.1.1.2" x="291.14" y="340.82" width="294.12" height="4.79" fill="rgb(232,197,43)" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="1" opacity="1" stroke-opacity="1" fill-opacity="1"/>
+            <rect id="plot_01.rect.panel.1.1.1.3" x="331.72" y="332.84" width="62.65" height="4.79" fill="rgb(241,227,226)" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="1" opacity="1" stroke-opacity="1" fill-opacity="1"/>
+            <rect id="plot_01.rect.panel.1.1.1.4" x="274.74" y="324.85" width="157.11" height="4.79" fill="rgb(237,182,148)" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="1" opacity="1" stroke-opacity="1" fill-opacity="1"/>
+            <rect id="plot_01.rect.panel.1.1.1.5" x="284.24" y="316.87" width="93.11" height="4.79" fill="rgb(233,183,73)" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="1" opacity="1" stroke-opacity="1" fill-opacity="1"/>
+            <rect id="plot_01.rect.panel.1.1.1.6" x="299.28" y="308.88" width="53.89" height="4.79" fill="rgb(237,178,133)" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="1" opacity="1" stroke-opacity="1" fill-opacity="1"/>
+            <rect id="plot_01.rect.panel.1.1.1.7" x="306.31" y="300.9" width="22.07" height="4.79" fill="rgb(233,183,73)" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="1" opacity="1" stroke-opacity="1" fill-opacity="1"/>
+            <rect id="plot_01.rect.panel.1.1.1.8" x="296.57" y="292.92" width="37.74" height="4.79" fill="rgb(233,183,73)" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="1" opacity="1" stroke-opacity="1" fill-opacity="1"/>
+            <rect id="plot_01.rect.panel.1.1.1.9" x="260.19" y="284.93" width="113.82" height="4.79" fill="rgb(230,230,0)" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="1" opacity="1" stroke-opacity="1" fill-opacity="1"/>
+            <rect id="plot_01.rect.panel.1.1.1.10" x="270.3" y="276.95" width="91.63" height="4.79" fill="rgb(235,177,103)" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="1" opacity="1" stroke-opacity="1" fill-opacity="1"/>
+            <rect id="plot_01.rect.panel.1.1.1.11" x="264.26" y="268.96" width="92" height="4.79" fill="rgb(189,220,0)" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="1" opacity="1" stroke-opacity="1" fill-opacity="1"/>
+            <rect id="plot_01.rect.panel.1.1.1.12" x="289.54" y="260.98" width="25.65" height="4.79" fill="rgb(231,206,29)" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="1" opacity="1" stroke-opacity="1" fill-opacity="1"/>
+            <rect id="plot_01.rect.panel.1.1.1.13" x="222.45" y="252.99" width="181.28" height="4.79" fill="rgb(133,207,0)" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="1" opacity="1" stroke-opacity="1" fill-opacity="1"/>
+            <rect id="plot_01.rect.panel.1.1.1.14" x="273.76" y="245.01" width="56.11" height="4.79" fill="rgb(239,194,179)" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="1" opacity="1" stroke-opacity="1" fill-opacity="1"/>
+            <rect id="plot_01.rect.panel.1.1.1.15" x="283.74" y="237.03" width="30.83" height="4.79" fill="rgb(234,179,88)" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="1" opacity="1" stroke-opacity="1" fill-opacity="1"/>
+            <rect id="plot_01.rect.panel.1.1.1.16" x="285.35" y="229.04" width="24.05" height="4.79" fill="rgb(232,197,43)" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="1" opacity="1" stroke-opacity="1" fill-opacity="1"/>
+            <rect id="plot_01.rect.panel.1.1.1.17" x="256.49" y="221.06" width="79.17" height="4.79" fill="rgb(230,217,14)" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="1" opacity="1" stroke-opacity="1" fill-opacity="1"/>
+            <rect id="plot_01.rect.panel.1.1.1.18" x="275.98" y="213.07" width="35.76" height="4.79" fill="rgb(233,183,73)" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="1" opacity="1" stroke-opacity="1" fill-opacity="1"/>
+            <rect id="plot_01.rect.panel.1.1.1.19" x="266.97" y="205.09" width="45.63" height="4.79" fill="rgb(234,179,88)" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="1" opacity="1" stroke-opacity="1" fill-opacity="1"/>
+            <rect id="plot_01.rect.panel.1.1.1.20" x="271.17" y="197.1" width="35.89" height="4.79" fill="rgb(209,225,0)" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="1" opacity="1" stroke-opacity="1" fill-opacity="1"/>
+            <rect id="plot_01.rect.panel.1.1.1.21" x="250.32" y="189.12" width="75.84" height="4.79" fill="rgb(189,220,0)" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="1" opacity="1" stroke-opacity="1" fill-opacity="1"/>
+            <rect id="plot_01.rect.panel.1.1.1.22" x="263.64" y="181.14" width="46.24" height="4.79" fill="rgb(233,189,58)" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="1" opacity="1" stroke-opacity="1" fill-opacity="1"/>
+            <rect id="plot_01.rect.panel.1.1.1.23" x="256.24" y="173.15" width="58.82" height="4.79" fill="rgb(234,179,88)" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="1" opacity="1" stroke-opacity="1" fill-opacity="1"/>
+            <rect id="plot_01.rect.panel.1.1.1.24" x="247.24" y="165.17" width="77.81" height="4.79" fill="rgb(151,211,0)" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="1" opacity="1" stroke-opacity="1" fill-opacity="1"/>
+            <rect id="plot_01.rect.panel.1.1.1.25" x="256.86" y="157.18" width="49.2" height="4.79" fill="rgb(230,217,14)" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="1" opacity="1" stroke-opacity="1" fill-opacity="1"/>
+            <rect id="plot_01.rect.panel.1.1.1.26" x="247.12" y="149.2" width="60.92" height="4.79" fill="rgb(238,187,164)" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="1" opacity="1" stroke-opacity="1" fill-opacity="1"/>
+            <rect id="plot_01.rect.panel.1.1.1.27" x="266.23" y="141.21" width="12.83" height="4.79" fill="rgb(209,225,0)" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="1" opacity="1" stroke-opacity="1" fill-opacity="1"/>
+            <rect id="plot_01.rect.panel.1.1.1.28" x="214.19" y="133.23" width="133.55" height="4.79" fill="rgb(25,175,0)" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="1" opacity="1" stroke-opacity="1" fill-opacity="1"/>
+            <rect id="plot_01.rect.panel.1.1.1.29" x="210" y="125.25" width="138.73" height="4.79" fill="rgb(116,202,0)" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="1" opacity="1" stroke-opacity="1" fill-opacity="1"/>
+            <rect id="plot_01.rect.panel.1.1.1.30" x="218.02" y="117.26" width="99.27" height="4.79" fill="rgb(189,220,0)" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="1" opacity="1" stroke-opacity="1" fill-opacity="1"/>
+            <rect id="plot_01.rect.panel.1.1.1.31" x="244.41" y="109.28" width="37.74" height="4.79" fill="rgb(170,216,0)" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="1" opacity="1" stroke-opacity="1" fill-opacity="1"/>
+            <rect id="plot_01.rect.panel.1.1.1.32" x="233.18" y="101.29" width="61.41" height="4.79" fill="rgb(189,220,0)" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="1" opacity="1" stroke-opacity="1" fill-opacity="1"/>
+            <rect id="plot_01.rect.panel.1.1.1.33" x="149.82" y="93.31" width="329.76" height="4.79" fill="none" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="1" opacity="1" stroke-opacity="1" fill-opacity="0"/>
+            <rect id="plot_01.rect.panel.1.1.1.34" x="221.59" y="85.32" width="83.86" height="4.79" fill="rgb(231,206,29)" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="1" opacity="1" stroke-opacity="1" fill-opacity="1"/>
+            <rect id="plot_01.rect.panel.1.1.1.35" x="171.28" y="77.34" width="210.63" height="4.79" fill="rgb(83,193,0)" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="1" opacity="1" stroke-opacity="1" fill-opacity="1"/>
+            <rect id="plot_01.rect.panel.1.1.1.36" x="231.33" y="69.36" width="53.27" height="4.79" fill="rgb(230,230,0)" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="1" opacity="1" stroke-opacity="1" fill-opacity="1"/>
+            <rect id="plot_01.rect.panel.1.1.1.37" x="201.37" y="61.37" width="108.03" height="4.79" fill="rgb(12,170,0)" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="1" opacity="1" stroke-opacity="1" fill-opacity="1"/>
+            <rect id="plot_01.rect.panel.1.1.1.38" x="218.02" y="53.39" width="54.51" height="4.79" fill="rgb(230,230,0)" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="1" opacity="1" stroke-opacity="1" fill-opacity="1"/>
+            <rect id="plot_01.rect.panel.1.1.1.39" x="197.67" y="45.4" width="82.38" height="4.79" fill="rgb(67,189,0)" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="1" opacity="1" stroke-opacity="1" fill-opacity="1"/>
+          </g>
+        </g>
+        <g id="plot_01.toplevel.vp::plot_01.panel.1.1.off.vp.2">
+          <g id="plot_01.border.panel.1.1.1">
+            <rect id="plot_01.border.panel.1.1.1.1" x="119.34" y="43.01" width="496.4" height="312.98" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="1" opacity="1" fill="none" stroke-opacity="1" fill-opacity="0"/>
+          </g>
+        </g>
+        <g id="plot_01.toplevel.vp::plot_01.legend.right.vp.1">
+          <g id="plot_01.toplevel.vp::plot_01.legend.right.vp::GRID.VP.90.1">
+            <g id="plot_01.colorkey.frame.1">
+              <g id="plot_01.toplevel.vp::plot_01.legend.right.vp::GRID.VP.90::GRID.VP.92.1">
+                <g id="GRID.cellGrob.1916.1">
+                  <g id="plot_01.toplevel.vp::plot_01.legend.right.vp::GRID.VP.90::GRID.VP.92::GRID.VP.91.1">
+                    <g id="plot_01.colorkey.image.1">
+                      <rect id="plot_01.colorkey.image.1.1" x="633.08" y="43.01" width="17.28" height="10.1" fill="rgb(0,166,0)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+                      <rect id="plot_01.colorkey.image.1.2" x="633.08" y="53.1" width="17.28" height="10.1" fill="rgb(12,170,0)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+                      <rect id="plot_01.colorkey.image.1.3" x="633.08" y="63.2" width="17.28" height="10.1" fill="rgb(25,175,0)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+                      <rect id="plot_01.colorkey.image.1.4" x="633.08" y="73.3" width="17.28" height="10.1" fill="rgb(38,179,0)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+                      <rect id="plot_01.colorkey.image.1.5" x="633.08" y="83.39" width="17.28" height="10.1" fill="rgb(53,184,0)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+                      <rect id="plot_01.colorkey.image.1.6" x="633.08" y="93.49" width="17.28" height="10.1" fill="rgb(67,189,0)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+                      <rect id="plot_01.colorkey.image.1.7" x="633.08" y="103.59" width="17.28" height="10.1" fill="rgb(83,193,0)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+                      <rect id="plot_01.colorkey.image.1.8" x="633.08" y="113.68" width="17.28" height="10.1" fill="rgb(99,198,0)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+                      <rect id="plot_01.colorkey.image.1.9" x="633.08" y="123.78" width="17.28" height="10.1" fill="rgb(116,202,0)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+                      <rect id="plot_01.colorkey.image.1.10" x="633.08" y="133.87" width="17.28" height="10.1" fill="rgb(133,207,0)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+                      <rect id="plot_01.colorkey.image.1.11" x="633.08" y="143.97" width="17.28" height="10.1" fill="rgb(151,211,0)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+                      <rect id="plot_01.colorkey.image.1.12" x="633.08" y="154.07" width="17.28" height="10.1" fill="rgb(170,216,0)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+                      <rect id="plot_01.colorkey.image.1.13" x="633.08" y="164.16" width="17.28" height="10.1" fill="rgb(189,220,0)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+                      <rect id="plot_01.colorkey.image.1.14" x="633.08" y="174.26" width="17.28" height="10.1" fill="rgb(209,225,0)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+                      <rect id="plot_01.colorkey.image.1.15" x="633.08" y="184.36" width="17.28" height="10.1" fill="rgb(230,230,0)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+                      <rect id="plot_01.colorkey.image.1.16" x="633.08" y="194.45" width="17.28" height="10.1" fill="rgb(230,217,14)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+                      <rect id="plot_01.colorkey.image.1.17" x="633.08" y="204.55" width="17.28" height="10.1" fill="rgb(231,206,29)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+                      <rect id="plot_01.colorkey.image.1.18" x="633.08" y="214.64" width="17.28" height="10.1" fill="rgb(232,197,43)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+                      <rect id="plot_01.colorkey.image.1.19" x="633.08" y="224.74" width="17.28" height="10.1" fill="rgb(233,189,58)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+                      <rect id="plot_01.colorkey.image.1.20" x="633.08" y="234.84" width="17.28" height="10.1" fill="rgb(233,183,73)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+                      <rect id="plot_01.colorkey.image.1.21" x="633.08" y="244.93" width="17.28" height="10.1" fill="rgb(234,179,88)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+                      <rect id="plot_01.colorkey.image.1.22" x="633.08" y="255.03" width="17.28" height="10.1" fill="rgb(235,177,103)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+                      <rect id="plot_01.colorkey.image.1.23" x="633.08" y="265.13" width="17.28" height="10.1" fill="rgb(236,177,118)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+                      <rect id="plot_01.colorkey.image.1.24" x="633.08" y="275.22" width="17.28" height="10.1" fill="rgb(237,178,133)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+                      <rect id="plot_01.colorkey.image.1.25" x="633.08" y="285.32" width="17.28" height="10.1" fill="rgb(237,182,148)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+                      <rect id="plot_01.colorkey.image.1.26" x="633.08" y="295.41" width="17.28" height="10.1" fill="rgb(238,187,164)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+                      <rect id="plot_01.colorkey.image.1.27" x="633.08" y="305.51" width="17.28" height="10.1" fill="rgb(239,194,179)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+                      <rect id="plot_01.colorkey.image.1.28" x="633.08" y="315.61" width="17.28" height="10.1" fill="rgb(240,203,195)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+                      <rect id="plot_01.colorkey.image.1.29" x="633.08" y="325.7" width="17.28" height="10.1" fill="rgb(241,214,211)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+                      <rect id="plot_01.colorkey.image.1.30" x="633.08" y="335.8" width="17.28" height="10.1" fill="rgb(241,227,226)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+                      <rect id="plot_01.colorkey.image.1.31" x="633.08" y="345.9" width="17.28" height="10.1" fill="rgb(242,242,242)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+                    </g>
+                  </g>
+                </g>
+              </g>
+              <g id="plot_01.toplevel.vp::plot_01.legend.right.vp::GRID.VP.90::GRID.VP.93.1">
+                <g id="GRID.cellGrob.1917.1">
+                  <g id="plot_01.colorkey.border.1">
+                    <rect id="plot_01.colorkey.border.1.1" x="633.08" y="43.01" width="17.28" height="312.98" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="1" opacity="1" fill="none" stroke-opacity="1" fill-opacity="0"/>
+                  </g>
+                </g>
+              </g>
+              <g id="plot_01.toplevel.vp::plot_01.legend.right.vp::GRID.VP.90::GRID.VP.95.1">
+                <g id="GRID.cellGrob.1918.1">
+                  <g id="plot_01.toplevel.vp::plot_01.legend.right.vp::GRID.VP.90::GRID.VP.95::GRID.VP.94.1">
+                    <g id="plot_01.colorkey.ticks.1">
+                      <polyline id="plot_01.colorkey.ticks.1.1" points="650.36,51.27 654.68,51.27" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="1" stroke-opacity="1" fill="none"/>
+                      <polyline id="plot_01.colorkey.ticks.1.2" points="650.36,85.5 654.68,85.5" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="1" stroke-opacity="1" fill="none"/>
+                      <polyline id="plot_01.colorkey.ticks.1.3" points="650.36,119.74 654.68,119.74" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="1" stroke-opacity="1" fill="none"/>
+                      <polyline id="plot_01.colorkey.ticks.1.4" points="650.36,153.97 654.68,153.97" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="1" stroke-opacity="1" fill="none"/>
+                      <polyline id="plot_01.colorkey.ticks.1.5" points="650.36,188.2 654.68,188.2" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="1" stroke-opacity="1" fill="none"/>
+                      <polyline id="plot_01.colorkey.ticks.1.6" points="650.36,222.44 654.68,222.44" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="1" stroke-opacity="1" fill="none"/>
+                      <polyline id="plot_01.colorkey.ticks.1.7" points="650.36,256.67 654.68,256.67" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="1" stroke-opacity="1" fill="none"/>
+                      <polyline id="plot_01.colorkey.ticks.1.8" points="650.36,290.9 654.68,290.9" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="1" stroke-opacity="1" fill="none"/>
+                      <polyline id="plot_01.colorkey.ticks.1.9" points="650.36,325.13 654.68,325.13" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="1" stroke-opacity="1" fill="none"/>
+                    </g>
+                  </g>
+                </g>
+              </g>
+              <g id="plot_01.toplevel.vp::plot_01.legend.right.vp::GRID.VP.90::GRID.VP.96.1">
+                <g id="GRID.cellGrob.1919.1">
+                  <g id="plot_01.toplevel.vp::plot_01.legend.right.vp::GRID.VP.90::GRID.VP.96::GRID.VP.89.1">
+                    <g id="plot_01.colorkey.labels.1">
+                      <g id="plot_01.colorkey.labels.1.1" transform="translate(659, 51.27)" stroke-width="0.1">
+                        <g transform="scale(1, -1)">
+                          <text x="0" y="0" text-anchor="start" stroke="rgb(0,0,0)" stroke-opacity="1" fill="rgb(0,0,0)" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                            <tspan dy="4" x="0">120</tspan>
+                          </text>
+                        </g>
+                      </g>
+                      <g id="plot_01.colorkey.labels.1.2" transform="translate(659, 85.5)" stroke-width="0.1">
+                        <g transform="scale(1, -1)">
+                          <text x="0" y="0" text-anchor="start" stroke="rgb(0,0,0)" stroke-opacity="1" fill="rgb(0,0,0)" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                            <tspan dy="4" x="0">130</tspan>
+                          </text>
+                        </g>
+                      </g>
+                      <g id="plot_01.colorkey.labels.1.3" transform="translate(659, 119.74)" stroke-width="0.1">
+                        <g transform="scale(1, -1)">
+                          <text x="0" y="0" text-anchor="start" stroke="rgb(0,0,0)" stroke-opacity="1" fill="rgb(0,0,0)" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                            <tspan dy="4" x="0">140</tspan>
+                          </text>
+                        </g>
+                      </g>
+                      <g id="plot_01.colorkey.labels.1.4" transform="translate(659, 153.97)" stroke-width="0.1">
+                        <g transform="scale(1, -1)">
+                          <text x="0" y="0" text-anchor="start" stroke="rgb(0,0,0)" stroke-opacity="1" fill="rgb(0,0,0)" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                            <tspan dy="4" x="0">150</tspan>
+                          </text>
+                        </g>
+                      </g>
+                      <g id="plot_01.colorkey.labels.1.5" transform="translate(659, 188.2)" stroke-width="0.1">
+                        <g transform="scale(1, -1)">
+                          <text x="0" y="0" text-anchor="start" stroke="rgb(0,0,0)" stroke-opacity="1" fill="rgb(0,0,0)" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                            <tspan dy="4" x="0">160</tspan>
+                          </text>
+                        </g>
+                      </g>
+                      <g id="plot_01.colorkey.labels.1.6" transform="translate(659, 222.44)" stroke-width="0.1">
+                        <g transform="scale(1, -1)">
+                          <text x="0" y="0" text-anchor="start" stroke="rgb(0,0,0)" stroke-opacity="1" fill="rgb(0,0,0)" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                            <tspan dy="4" x="0">170</tspan>
+                          </text>
+                        </g>
+                      </g>
+                      <g id="plot_01.colorkey.labels.1.7" transform="translate(659, 256.67)" stroke-width="0.1">
+                        <g transform="scale(1, -1)">
+                          <text x="0" y="0" text-anchor="start" stroke="rgb(0,0,0)" stroke-opacity="1" fill="rgb(0,0,0)" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                            <tspan dy="4" x="0">180</tspan>
+                          </text>
+                        </g>
+                      </g>
+                      <g id="plot_01.colorkey.labels.1.8" transform="translate(659, 290.9)" stroke-width="0.1">
+                        <g transform="scale(1, -1)">
+                          <text x="0" y="0" text-anchor="start" stroke="rgb(0,0,0)" stroke-opacity="1" fill="rgb(0,0,0)" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                            <tspan dy="4" x="0">190</tspan>
+                          </text>
+                        </g>
+                      </g>
+                      <g id="plot_01.colorkey.labels.1.9" transform="translate(659, 325.13)" stroke-width="0.1">
+                        <g transform="scale(1, -1)">
+                          <text x="0" y="0" text-anchor="start" stroke="rgb(0,0,0)" stroke-opacity="1" fill="rgb(0,0,0)" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                            <tspan dy="4" x="0">200</tspan>
+                          </text>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g id="plot_01.toplevel.vp::plot_01..1"/>
+      </g>
+      <g id="plot_01.toplevel.vp.2" font-size="12">
+        <g id="plot_01.toplevel.vp::plot_01.figure.vp.2"/>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.1.1.vp.3.clipPath">
+            <rect x="119.34" y="43.01" width="496.4" height="312.98" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.1.1.vp.3" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.1.1.vp.3.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.1.1.off.vp.2"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.left.1.1.off.vp.2"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.1.1.off.vp.3"/>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.1.1.vp.4.clipPath">
+            <rect x="119.34" y="43.01" width="496.4" height="312.98" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.1.1.vp.4" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.1.1.vp.4.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.1.1.off.vp.4"/>
+        <g id="plot_01.toplevel.vp::plot_01.legend.right.vp.2">
+          <g id="plot_01.toplevel.vp::plot_01.legend.right.vp::GRID.VP.90.2">
+            <g id="plot_01.toplevel.vp::plot_01.legend.right.vp::GRID.VP.90::GRID.VP.92.2">
+              <g id="plot_01.toplevel.vp::plot_01.legend.right.vp::GRID.VP.90::GRID.VP.92::GRID.VP.91.2"/>
+            </g>
+            <g id="plot_01.toplevel.vp::plot_01.legend.right.vp::GRID.VP.90::GRID.VP.93.2"/>
+            <g id="plot_01.toplevel.vp::plot_01.legend.right.vp::GRID.VP.90::GRID.VP.95.2">
+              <g id="plot_01.toplevel.vp::plot_01.legend.right.vp::GRID.VP.90::GRID.VP.95::GRID.VP.94.2"/>
+            </g>
+            <g id="plot_01.toplevel.vp::plot_01.legend.right.vp::GRID.VP.90::GRID.VP.96.2">
+              <g id="plot_01.toplevel.vp::plot_01.legend.right.vp::GRID.VP.90::GRID.VP.96::GRID.VP.89.2"/>
+            </g>
+          </g>
+        </g>
+        <g id="plot_01.toplevel.vp::plot_01..2"/>
+      </g>
+      <g id="plot_01.toplevel.vp.3" font-size="12">
+        <g id="plot_01.toplevel.vp::plot_01.figure.vp.3"/>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.1.1.vp.5.clipPath">
+            <rect x="119.34" y="43.01" width="496.4" height="312.98" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.1.1.vp.5" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.1.1.vp.5.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.1.1.off.vp.3"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.left.1.1.off.vp.3"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.1.1.off.vp.5"/>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.1.1.vp.6.clipPath">
+            <rect x="119.34" y="43.01" width="496.4" height="312.98" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.1.1.vp.6" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.1.1.vp.6.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.1.1.off.vp.6"/>
+        <g id="plot_01.toplevel.vp::plot_01.legend.right.vp.3">
+          <g id="plot_01.toplevel.vp::plot_01.legend.right.vp::GRID.VP.90.3">
+            <g id="plot_01.toplevel.vp::plot_01.legend.right.vp::GRID.VP.90::GRID.VP.92.3">
+              <g id="plot_01.toplevel.vp::plot_01.legend.right.vp::GRID.VP.90::GRID.VP.92::GRID.VP.91.3"/>
+            </g>
+            <g id="plot_01.toplevel.vp::plot_01.legend.right.vp::GRID.VP.90::GRID.VP.93.3"/>
+            <g id="plot_01.toplevel.vp::plot_01.legend.right.vp::GRID.VP.90::GRID.VP.95.3">
+              <g id="plot_01.toplevel.vp::plot_01.legend.right.vp::GRID.VP.90::GRID.VP.95::GRID.VP.94.3"/>
+            </g>
+            <g id="plot_01.toplevel.vp::plot_01.legend.right.vp::GRID.VP.90::GRID.VP.96.3">
+              <g id="plot_01.toplevel.vp::plot_01.legend.right.vp::GRID.VP.90::GRID.VP.96::GRID.VP.89.3"/>
+            </g>
+          </g>
+        </g>
+        <g id="plot_01.toplevel.vp::plot_01..3"/>
+      </g>
+      <g id="plot_01.toplevel.vp.4" font-size="12">
+        <g id="plot_01.toplevel.vp::plot_01.figure.vp.4"/>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.1.1.vp.7.clipPath">
+            <rect x="119.34" y="43.01" width="496.4" height="312.98" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.1.1.vp.7" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.1.1.vp.7.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.1.1.off.vp.4"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.left.1.1.off.vp.4"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.1.1.off.vp.7"/>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.1.1.vp.8.clipPath">
+            <rect x="119.34" y="43.01" width="496.4" height="312.98" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.1.1.vp.8" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.1.1.vp.8.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.1.1.off.vp.8"/>
+        <g id="plot_01.toplevel.vp::plot_01.legend.right.vp.4">
+          <g id="plot_01.toplevel.vp::plot_01.legend.right.vp::GRID.VP.90.4">
+            <g id="plot_01.toplevel.vp::plot_01.legend.right.vp::GRID.VP.90::GRID.VP.92.4">
+              <g id="plot_01.toplevel.vp::plot_01.legend.right.vp::GRID.VP.90::GRID.VP.92::GRID.VP.91.4"/>
+            </g>
+            <g id="plot_01.toplevel.vp::plot_01.legend.right.vp::GRID.VP.90::GRID.VP.93.4"/>
+            <g id="plot_01.toplevel.vp::plot_01.legend.right.vp::GRID.VP.90::GRID.VP.95.4">
+              <g id="plot_01.toplevel.vp::plot_01.legend.right.vp::GRID.VP.90::GRID.VP.95::GRID.VP.94.4"/>
+            </g>
+            <g id="plot_01.toplevel.vp::plot_01.legend.right.vp::GRID.VP.90::GRID.VP.96.4">
+              <g id="plot_01.toplevel.vp::plot_01.legend.right.vp::GRID.VP.90::GRID.VP.96::GRID.VP.89.4"/>
+            </g>
+          </g>
+        </g>
+        <g id="plot_01.toplevel.vp::plot_01..4"/>
+      </g>
+    </g>
+  </g>
+</svg>

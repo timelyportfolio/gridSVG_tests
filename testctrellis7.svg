@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="ISO8859-1"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="683px" height="391px" viewBox="0 0 683 391" version="1.1">
+  <metadata xmlns:gridsvg="http://www.stat.auckland.ac.nz/~paul/R/gridSVG/">
+    <gridsvg:generator name="gridSVG" version="1.2-0" time="2013-05-29 10:34:05"/>
+    <gridsvg:argument name="name" value="testctrellis7.svg"/>
+    <gridsvg:argument name="exportCoords" value="none"/>
+    <gridsvg:argument name="exportMappings" value="none"/>
+    <gridsvg:argument name="exportJS" value="none"/>
+    <gridsvg:argument name="res" value="72"/>
+    <gridsvg:argument name="prefix" value=""/>
+    <gridsvg:argument name="addClasses" value="FALSE"/>
+    <gridsvg:argument name="indent" value="TRUE"/>
+    <gridsvg:argument name="htmlWrapper" value="FALSE"/>
+    <gridsvg:argument name="usePaths" value="vpPaths"/>
+    <gridsvg:argument name="uniqueNames" value="TRUE"/>
+    <gridsvg:separator name="id.sep" value="."/>
+    <gridsvg:separator name="gPath.sep" value="::"/>
+    <gridsvg:separator name="vpPath.sep" value="::"/>
+  </metadata>
+  <g transform="translate(0, 391) scale(1, -1)">
+    <g id="gridSVG" fill="none" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="1" font-size="16" font-family="Helvetica, Arial, FreeSans, Liberation Sans, Nimbus Sans L, sans-serif" opacity="1" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-opacity="1" fill-opacity="0" font-weight="normal" font-style="normal">
+      <g id="plot_01.background.1">
+        <rect id="plot_01.background.1.1" x="0" y="0" width="683" height="391" fill="none" stroke="none" stroke-opacity="0" fill-opacity="0"/>
+      </g>
+      <g id="plot_01.toplevel.vp.1" font-size="12">
+        <g id="plot_01.toplevel.vp::plot_01.xlab.vp.1">
+          <g id="plot_01.xlab.1">
+            <g id="plot_01.xlab.1.1" transform="translate(326.42, 17)" stroke-width="0.1">
+              <g transform="scale(1, -1)">
+                <text x="0" y="0" text-anchor="middle" opacity="1" stroke="rgb(0,0,0)" stroke-opacity="1" fill="rgb(0,0,0)" fill-opacity="1" font-size="12" font-weight="normal" font-style="normal">
+                  <tspan dy="5" x="0">Proportion</tspan>
+                </text>
+              </g>
+            </g>
+            <g id="plot_01.xlab.1.2" transform="translate(548.58, 17)" stroke-width="0.1">
+              <g transform="scale(1, -1)">
+                <text x="0" y="0" text-anchor="middle" opacity="1" stroke="rgb(0,0,0)" stroke-opacity="1" fill="rgb(0,0,0)" fill-opacity="1" font-size="12" font-weight="normal" font-style="normal">
+                  <tspan dy="5" x="0">Freq</tspan>
+                </text>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g id="plot_01.toplevel.vp::plot_01.figure.vp.1"/>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.1.1.vp.1.clipPath">
+            <rect x="215.34" y="53.01" width="222.16" height="255.59" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.1.1.vp.1" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.1.1.vp.1.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.1.1.off.vp.1"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.left.1.1.off.vp.1">
+          <g id="plot_01.ticklabels.left.panel.1.1.1">
+            <g id="plot_01.ticklabels.left.panel.1.1.1.1" transform="translate(209.67, 74.31)" stroke-width="0.1">
+              <g transform="scale(1, -1)">
+                <text x="0" y="0" text-anchor="end" stroke="rgb(0,0,0)" opacity="1" stroke-opacity="1" fill="rgb(0,0,0)" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                  <tspan dy="4" x="0">Biological Sciences</tspan>
+                </text>
+              </g>
+            </g>
+            <g id="plot_01.ticklabels.left.panel.1.1.1.2" transform="translate(209.67, 109.81)" stroke-width="0.1">
+              <g transform="scale(1, -1)">
+                <text x="0" y="0" text-anchor="end" stroke="rgb(0,0,0)" opacity="1" stroke-opacity="1" fill="rgb(0,0,0)" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                  <tspan dy="4" x="0">Chemistry</tspan>
+                </text>
+              </g>
+            </g>
+            <g id="plot_01.ticklabels.left.panel.1.1.1.3" transform="translate(209.67, 145.31)" stroke-width="0.1">
+              <g transform="scale(1, -1)">
+                <text x="0" y="0" text-anchor="end" stroke="rgb(0,0,0)" opacity="1" stroke-opacity="1" fill="rgb(0,0,0)" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                  <tspan dy="4" x="0">Earth, Atmospheric, and Ocean Sciences</tspan>
+                </text>
+              </g>
+            </g>
+            <g id="plot_01.ticklabels.left.panel.1.1.1.4" transform="translate(209.67, 180.8)" stroke-width="0.1">
+              <g transform="scale(1, -1)">
+                <text x="0" y="0" text-anchor="end" stroke="rgb(0,0,0)" opacity="1" stroke-opacity="1" fill="rgb(0,0,0)" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                  <tspan dy="4" x="0">Engineering</tspan>
+                </text>
+              </g>
+            </g>
+            <g id="plot_01.ticklabels.left.panel.1.1.1.5" transform="translate(209.67, 216.3)" stroke-width="0.1">
+              <g transform="scale(1, -1)">
+                <text x="0" y="0" text-anchor="end" stroke="rgb(0,0,0)" opacity="1" stroke-opacity="1" fill="rgb(0,0,0)" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                  <tspan dy="4" x="0">Medical Sciences</tspan>
+                </text>
+              </g>
+            </g>
+            <g id="plot_01.ticklabels.left.panel.1.1.1.6" transform="translate(209.67, 251.8)" stroke-width="0.1">
+              <g transform="scale(1, -1)">
+                <text x="0" y="0" text-anchor="end" stroke="rgb(0,0,0)" opacity="1" stroke-opacity="1" fill="rgb(0,0,0)" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                  <tspan dy="4" x="0">Physics and Astronomy</tspan>
+                </text>
+              </g>
+            </g>
+            <g id="plot_01.ticklabels.left.panel.1.1.1.7" transform="translate(209.67, 287.3)" stroke-width="0.1">
+              <g transform="scale(1, -1)">
+                <text x="0" y="0" text-anchor="end" stroke="rgb(0,0,0)" opacity="1" stroke-opacity="1" fill="rgb(0,0,0)" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                  <tspan dy="4" x="0">Social and Behavioral Sciences</tspan>
+                </text>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g id="plot_01.toplevel.vp::plot_01.panel.1.1.off.vp.1">
+          <g id="plot_01.ticks.bottom.panel.1.1.1">
+            <polyline id="plot_01.ticks.bottom.panel.1.1.1.1" points="228.98,53.01 228.98,47.34" stroke="rgb(0,0,0)" opacity="1" stroke-dasharray="none" stroke-width="1" stroke-opacity="1" fill="none"/>
+            <polyline id="plot_01.ticks.bottom.panel.1.1.1.2" points="267.96,53.01 267.96,47.34" stroke="rgb(0,0,0)" opacity="1" stroke-dasharray="none" stroke-width="1" stroke-opacity="1" fill="none"/>
+            <polyline id="plot_01.ticks.bottom.panel.1.1.1.3" points="306.93,53.01 306.93,47.34" stroke="rgb(0,0,0)" opacity="1" stroke-dasharray="none" stroke-width="1" stroke-opacity="1" fill="none"/>
+            <polyline id="plot_01.ticks.bottom.panel.1.1.1.4" points="345.91,53.01 345.91,47.34" stroke="rgb(0,0,0)" opacity="1" stroke-dasharray="none" stroke-width="1" stroke-opacity="1" fill="none"/>
+            <polyline id="plot_01.ticks.bottom.panel.1.1.1.5" points="384.88,53.01 384.88,47.34" stroke="rgb(0,0,0)" opacity="1" stroke-dasharray="none" stroke-width="1" stroke-opacity="1" fill="none"/>
+            <polyline id="plot_01.ticks.bottom.panel.1.1.1.6" points="423.86,53.01 423.86,47.34" stroke="rgb(0,0,0)" opacity="1" stroke-dasharray="none" stroke-width="1" stroke-opacity="1" fill="none"/>
+          </g>
+          <g id="plot_01.ticklabels.bottom.panel.1.1.1">
+            <g id="plot_01.ticklabels.bottom.panel.1.1.1.1" transform="translate(228.98, 41.67)" stroke-width="0.1">
+              <g transform="scale(1, -1)">
+                <text x="0" y="0" text-anchor="middle" stroke="rgb(0,0,0)" opacity="1" stroke-opacity="1" fill="rgb(0,0,0)" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                  <tspan dy="8" x="0">0.0</tspan>
+                </text>
+              </g>
+            </g>
+            <g id="plot_01.ticklabels.bottom.panel.1.1.1.2" transform="translate(267.96, 41.67)" stroke-width="0.1">
+              <g transform="scale(1, -1)">
+                <text x="0" y="0" text-anchor="middle" stroke="rgb(0,0,0)" opacity="1" stroke-opacity="1" fill="rgb(0,0,0)" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                  <tspan dy="8" x="0">0.2</tspan>
+                </text>
+              </g>
+            </g>
+            <g id="plot_01.ticklabels.bottom.panel.1.1.1.3" transform="translate(306.93, 41.67)" stroke-width="0.1">
+              <g transform="scale(1, -1)">
+                <text x="0" y="0" text-anchor="middle" stroke="rgb(0,0,0)" opacity="1" stroke-opacity="1" fill="rgb(0,0,0)" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                  <tspan dy="8" x="0">0.4</tspan>
+                </text>
+              </g>
+            </g>
+            <g id="plot_01.ticklabels.bottom.panel.1.1.1.4" transform="translate(345.91, 41.67)" stroke-width="0.1">
+              <g transform="scale(1, -1)">
+                <text x="0" y="0" text-anchor="middle" stroke="rgb(0,0,0)" opacity="1" stroke-opacity="1" fill="rgb(0,0,0)" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                  <tspan dy="8" x="0">0.6</tspan>
+                </text>
+              </g>
+            </g>
+            <g id="plot_01.ticklabels.bottom.panel.1.1.1.5" transform="translate(384.88, 41.67)" stroke-width="0.1">
+              <g transform="scale(1, -1)">
+                <text x="0" y="0" text-anchor="middle" stroke="rgb(0,0,0)" opacity="1" stroke-opacity="1" fill="rgb(0,0,0)" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                  <tspan dy="8" x="0">0.8</tspan>
+                </text>
+              </g>
+            </g>
+            <g id="plot_01.ticklabels.bottom.panel.1.1.1.6" transform="translate(423.86, 41.67)" stroke-width="0.1">
+              <g transform="scale(1, -1)">
+                <text x="0" y="0" text-anchor="middle" stroke="rgb(0,0,0)" opacity="1" stroke-opacity="1" fill="rgb(0,0,0)" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                  <tspan dy="8" x="0">1.0</tspan>
+                </text>
+              </g>
+            </g>
+          </g>
+        </g>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.1.1.vp.2.clipPath">
+            <rect x="215.34" y="53.01" width="222.16" height="255.59" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.1.1.vp.2" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.1.1.vp.2.clipPath)">
+          <g id="plot_01.barchart.abline.v.panel.1.1.1">
+            <polyline id="plot_01.barchart.abline.v.panel.1.1.1.1" points="228.98,53.01 228.98,308.6" stroke="rgb(230,230,230)" stroke-dasharray="none" stroke-width="1" opacity="1" stroke-opacity="1" fill="none"/>
+          </g>
+          <g id="plot_01.barchart.pos.1.rect.panel.1.1.1">
+            <rect id="plot_01.barchart.pos.1.rect.panel.1.1.1.1" x="228.98" y="62.47" width="94.82" height="23.67" fill="rgb(204,255,255)" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="1" opacity="1" stroke-opacity="1" fill-opacity="1"/>
+            <rect id="plot_01.barchart.pos.1.rect.panel.1.1.1.2" x="323.8" y="62.47" width="35.93" height="23.67" fill="rgb(255,204,255)" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="1" opacity="1" stroke-opacity="1" fill-opacity="1"/>
+            <rect id="plot_01.barchart.pos.1.rect.panel.1.1.1.3" x="359.73" y="62.47" width="28.87" height="23.67" fill="rgb(204,255,204)" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="1" opacity="1" stroke-opacity="1" fill-opacity="1"/>
+            <rect id="plot_01.barchart.pos.1.rect.panel.1.1.1.4" x="388.61" y="62.47" width="26.34" height="23.67" fill="rgb(255,229,204)" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="1" opacity="1" stroke-opacity="1" fill-opacity="1"/>
+            <rect id="plot_01.barchart.pos.1.rect.panel.1.1.1.5" x="414.95" y="62.47" width="8.91" height="23.67" fill="rgb(204,230,255)" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="1" opacity="1" stroke-opacity="1" fill-opacity="1"/>
+          </g>
+          <g id="plot_01.barchart.pos.2.rect.panel.1.1.1">
+            <rect id="plot_01.barchart.pos.2.rect.panel.1.1.1.1" x="228.98" y="97.97" width="77.18" height="23.67" fill="rgb(204,255,255)" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="1" opacity="1" stroke-opacity="1" fill-opacity="1"/>
+            <rect id="plot_01.barchart.pos.2.rect.panel.1.1.1.2" x="306.16" y="97.97" width="27.48" height="23.67" fill="rgb(255,204,255)" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="1" opacity="1" stroke-opacity="1" fill-opacity="1"/>
+            <rect id="plot_01.barchart.pos.2.rect.panel.1.1.1.3" x="333.65" y="97.97" width="26.06" height="23.67" fill="rgb(204,255,204)" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="1" opacity="1" stroke-opacity="1" fill-opacity="1"/>
+            <rect id="plot_01.barchart.pos.2.rect.panel.1.1.1.4" x="359.7" y="97.97" width="49.17" height="23.67" fill="rgb(255,229,204)" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="1" opacity="1" stroke-opacity="1" fill-opacity="1"/>
+            <rect id="plot_01.barchart.pos.2.rect.panel.1.1.1.5" x="408.87" y="97.97" width="14.99" height="23.67" fill="rgb(204,230,255)" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="1" opacity="1" stroke-opacity="1" fill-opacity="1"/>
+          </g>
+          <g id="plot_01.barchart.pos.3.rect.panel.1.1.1">
+            <rect id="plot_01.barchart.pos.3.rect.panel.1.1.1.1" x="228.98" y="133.47" width="82.42" height="23.67" fill="rgb(204,255,255)" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="1" opacity="1" stroke-opacity="1" fill-opacity="1"/>
+            <rect id="plot_01.barchart.pos.3.rect.panel.1.1.1.2" x="311.4" y="133.47" width="18.02" height="23.67" fill="rgb(255,204,255)" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="1" opacity="1" stroke-opacity="1" fill-opacity="1"/>
+            <rect id="plot_01.barchart.pos.3.rect.panel.1.1.1.3" x="329.42" y="133.47" width="18.02" height="23.67" fill="rgb(204,255,204)" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="1" opacity="1" stroke-opacity="1" fill-opacity="1"/>
+            <rect id="plot_01.barchart.pos.3.rect.panel.1.1.1.4" x="347.45" y="133.47" width="57.19" height="23.67" fill="rgb(255,229,204)" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="1" opacity="1" stroke-opacity="1" fill-opacity="1"/>
+            <rect id="plot_01.barchart.pos.3.rect.panel.1.1.1.5" x="404.63" y="133.47" width="19.22" height="23.67" fill="rgb(204,230,255)" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="1" opacity="1" stroke-opacity="1" fill-opacity="1"/>
+          </g>
+          <g id="plot_01.barchart.pos.4.rect.panel.1.1.1">
+            <rect id="plot_01.barchart.pos.4.rect.panel.1.1.1.1" x="228.98" y="168.97" width="50.62" height="23.67" fill="rgb(204,255,255)" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="1" opacity="1" stroke-opacity="1" fill-opacity="1"/>
+            <rect id="plot_01.barchart.pos.4.rect.panel.1.1.1.2" x="279.6" y="168.97" width="40.08" height="23.67" fill="rgb(255,204,255)" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="1" opacity="1" stroke-opacity="1" fill-opacity="1"/>
+            <rect id="plot_01.barchart.pos.4.rect.panel.1.1.1.3" x="319.68" y="168.97" width="24.88" height="23.67" fill="rgb(204,255,204)" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="1" opacity="1" stroke-opacity="1" fill-opacity="1"/>
+            <rect id="plot_01.barchart.pos.4.rect.panel.1.1.1.4" x="344.56" y="168.97" width="44.66" height="23.67" fill="rgb(255,229,204)" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="1" opacity="1" stroke-opacity="1" fill-opacity="1"/>
+            <rect id="plot_01.barchart.pos.4.rect.panel.1.1.1.5" x="389.22" y="168.97" width="34.64" height="23.67" fill="rgb(204,230,255)" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="1" opacity="1" stroke-opacity="1" fill-opacity="1"/>
+          </g>
+          <g id="plot_01.barchart.pos.5.rect.panel.1.1.1">
+            <rect id="plot_01.barchart.pos.5.rect.panel.1.1.1.1" x="228.98" y="204.47" width="70.58" height="23.67" fill="rgb(204,255,255)" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="1" opacity="1" stroke-opacity="1" fill-opacity="1"/>
+            <rect id="plot_01.barchart.pos.5.rect.panel.1.1.1.2" x="299.56" y="204.47" width="47.17" height="23.67" fill="rgb(255,204,255)" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="1" opacity="1" stroke-opacity="1" fill-opacity="1"/>
+            <rect id="plot_01.barchart.pos.5.rect.panel.1.1.1.3" x="346.73" y="204.47" width="28.23" height="23.67" fill="rgb(204,255,204)" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="1" opacity="1" stroke-opacity="1" fill-opacity="1"/>
+            <rect id="plot_01.barchart.pos.5.rect.panel.1.1.1.4" x="374.97" y="204.47" width="23.41" height="23.67" fill="rgb(255,229,204)" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="1" opacity="1" stroke-opacity="1" fill-opacity="1"/>
+            <rect id="plot_01.barchart.pos.5.rect.panel.1.1.1.5" x="398.38" y="204.47" width="25.48" height="23.67" fill="rgb(204,230,255)" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="1" opacity="1" stroke-opacity="1" fill-opacity="1"/>
+          </g>
+          <g id="plot_01.barchart.pos.6.rect.panel.1.1.1">
+            <rect id="plot_01.barchart.pos.6.rect.panel.1.1.1.1" x="228.98" y="239.97" width="94.04" height="23.67" fill="rgb(204,255,255)" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="1" opacity="1" stroke-opacity="1" fill-opacity="1"/>
+            <rect id="plot_01.barchart.pos.6.rect.panel.1.1.1.2" x="323.02" y="239.97" width="32.31" height="23.67" fill="rgb(255,204,255)" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="1" opacity="1" stroke-opacity="1" fill-opacity="1"/>
+            <rect id="plot_01.barchart.pos.6.rect.panel.1.1.1.3" x="355.33" y="239.97" width="16.29" height="23.67" fill="rgb(204,255,204)" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="1" opacity="1" stroke-opacity="1" fill-opacity="1"/>
+            <rect id="plot_01.barchart.pos.6.rect.panel.1.1.1.4" x="371.62" y="239.97" width="37.15" height="23.67" fill="rgb(255,229,204)" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="1" opacity="1" stroke-opacity="1" fill-opacity="1"/>
+            <rect id="plot_01.barchart.pos.6.rect.panel.1.1.1.5" x="408.77" y="239.97" width="15.08" height="23.67" fill="rgb(204,230,255)" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="1" opacity="1" stroke-opacity="1" fill-opacity="1"/>
+          </g>
+          <g id="plot_01.barchart.pos.7.rect.panel.1.1.1">
+            <rect id="plot_01.barchart.pos.7.rect.panel.1.1.1.1" x="228.98" y="275.47" width="84.29" height="23.67" fill="rgb(204,255,255)" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="1" opacity="1" stroke-opacity="1" fill-opacity="1"/>
+            <rect id="plot_01.barchart.pos.7.rect.panel.1.1.1.2" x="313.27" y="275.47" width="34.75" height="23.67" fill="rgb(255,204,255)" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="1" opacity="1" stroke-opacity="1" fill-opacity="1"/>
+            <rect id="plot_01.barchart.pos.7.rect.panel.1.1.1.3" x="348.01" y="275.47" width="25.38" height="23.67" fill="rgb(204,255,204)" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="1" opacity="1" stroke-opacity="1" fill-opacity="1"/>
+            <rect id="plot_01.barchart.pos.7.rect.panel.1.1.1.4" x="373.4" y="275.47" width="31.67" height="23.67" fill="rgb(255,229,204)" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="1" opacity="1" stroke-opacity="1" fill-opacity="1"/>
+            <rect id="plot_01.barchart.pos.7.rect.panel.1.1.1.5" x="405.07" y="275.47" width="18.79" height="23.67" fill="rgb(204,230,255)" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="1" opacity="1" stroke-opacity="1" fill-opacity="1"/>
+          </g>
+        </g>
+        <g id="plot_01.toplevel.vp::plot_01.panel.1.1.off.vp.2">
+          <g id="plot_01.border.panel.1.1.1">
+            <rect id="plot_01.border.panel.1.1.1.1" x="215.34" y="53.01" width="222.16" height="255.59" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="1" opacity="1" fill="none" stroke-opacity="1" fill-opacity="0"/>
+          </g>
+        </g>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.2.1.vp.1.clipPath">
+            <rect x="437.5" y="53.01" width="222.16" height="255.59" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.2.1.vp.1" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.2.1.vp.1.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.2.1.off.vp.1"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.left.2.1.off.vp.1"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.2.1.off.vp.1">
+          <g id="plot_01.ticks.bottom.panel.2.1.1">
+            <polyline id="plot_01.ticks.bottom.panel.2.1.1.1" points="451.14,53.01 451.14,47.34" stroke="rgb(0,0,0)" opacity="1" stroke-dasharray="none" stroke-width="1" stroke-opacity="1" fill="none"/>
+            <polyline id="plot_01.ticks.bottom.panel.2.1.1.2" points="525.17,53.01 525.17,47.34" stroke="rgb(0,0,0)" opacity="1" stroke-dasharray="none" stroke-width="1" stroke-opacity="1" fill="none"/>
+            <polyline id="plot_01.ticks.bottom.panel.2.1.1.3" points="599.2,53.01 599.2,47.34" stroke="rgb(0,0,0)" opacity="1" stroke-dasharray="none" stroke-width="1" stroke-opacity="1" fill="none"/>
+          </g>
+          <g id="plot_01.ticklabels.bottom.panel.2.1.1">
+            <g id="plot_01.ticklabels.bottom.panel.2.1.1.1" transform="translate(451.14, 41.67)" stroke-width="0.1">
+              <g transform="scale(1, -1)">
+                <text x="0" y="0" text-anchor="middle" stroke="rgb(0,0,0)" opacity="1" stroke-opacity="1" fill="rgb(0,0,0)" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                  <tspan dy="8" x="0">0</tspan>
+                </text>
+              </g>
+            </g>
+            <g id="plot_01.ticklabels.bottom.panel.2.1.1.2" transform="translate(525.17, 41.67)" stroke-width="0.1">
+              <g transform="scale(1, -1)">
+                <text x="0" y="0" text-anchor="middle" stroke="rgb(0,0,0)" opacity="1" stroke-opacity="1" fill="rgb(0,0,0)" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                  <tspan dy="8" x="0">5000</tspan>
+                </text>
+              </g>
+            </g>
+            <g id="plot_01.ticklabels.bottom.panel.2.1.1.3" transform="translate(599.2, 41.67)" stroke-width="0.1">
+              <g transform="scale(1, -1)">
+                <text x="0" y="0" text-anchor="middle" stroke="rgb(0,0,0)" opacity="1" stroke-opacity="1" fill="rgb(0,0,0)" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                  <tspan dy="8" x="0">10000</tspan>
+                </text>
+              </g>
+            </g>
+          </g>
+        </g>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.2.1.vp.2.clipPath">
+            <rect x="437.5" y="53.01" width="222.16" height="255.59" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.2.1.vp.2" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.2.1.vp.2.clipPath)">
+          <g id="plot_01.barchart.abline.v.panel.2.1.1">
+            <polyline id="plot_01.barchart.abline.v.panel.2.1.1.1" points="451.14,53.01 451.14,308.6" stroke="rgb(230,230,230)" stroke-dasharray="none" stroke-width="1" opacity="1" stroke-opacity="1" fill="none"/>
+          </g>
+          <g id="plot_01.barchart.rect.panel.2.1.1">
+            <rect id="plot_01.barchart.rect.panel.2.1.1.1" x="451.14" y="62.47" width="194.88" height="23.67" fill="rgb(0,255,255)" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="1" opacity="1" stroke-opacity="1" fill-opacity="1"/>
+            <rect id="plot_01.barchart.rect.panel.2.1.1.2" x="451.14" y="97.97" width="32.34" height="23.67" fill="rgb(0,255,255)" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="1" opacity="1" stroke-opacity="1" fill-opacity="1"/>
+            <rect id="plot_01.barchart.rect.panel.2.1.1.3" x="451.14" y="133.47" width="12.01" height="23.67" fill="rgb(0,255,255)" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="1" opacity="1" stroke-opacity="1" fill-opacity="1"/>
+            <rect id="plot_01.barchart.rect.panel.2.1.1.4" x="451.14" y="168.97" width="33.4" height="23.67" fill="rgb(0,255,255)" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="1" opacity="1" stroke-opacity="1" fill-opacity="1"/>
+            <rect id="plot_01.barchart.rect.panel.2.1.1.5" x="451.14" y="204.47" width="8.38" height="23.67" fill="rgb(0,255,255)" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="1" opacity="1" stroke-opacity="1" fill-opacity="1"/>
+            <rect id="plot_01.barchart.rect.panel.2.1.1.6" x="451.14" y="239.97" width="30.99" height="23.67" fill="rgb(0,255,255)" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="1" opacity="1" stroke-opacity="1" fill-opacity="1"/>
+            <rect id="plot_01.barchart.rect.panel.2.1.1.7" x="451.14" y="275.47" width="46.83" height="23.67" fill="rgb(0,255,255)" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="1" opacity="1" stroke-opacity="1" fill-opacity="1"/>
+          </g>
+        </g>
+        <g id="plot_01.toplevel.vp::plot_01.panel.2.1.off.vp.2">
+          <g id="plot_01.border.panel.2.1.1">
+            <rect id="plot_01.border.panel.2.1.1.1" x="437.5" y="53.01" width="222.16" height="255.59" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="1" opacity="1" fill="none" stroke-opacity="1" fill-opacity="0"/>
+          </g>
+        </g>
+        <g id="plot_01.toplevel.vp::plot_01.legend.top.vp.1">
+          <g id="plot_01.toplevel.vp::plot_01.legend.top.vp::GRID.VP.28.1">
+            <g id="plot_01.key.frame.1">
+              <g id="plot_01.toplevel.vp::plot_01.legend.top.vp::GRID.VP.28::GRID.VP.29.1">
+                <g id="GRID.cellGrob.609.1">
+                  <g id="plot_01.key.background.1">
+                    <rect id="plot_01.key.background.1.1" x="318" y="314.6" width="239" height="64.4" fill="none" opacity="1" stroke="none" stroke-opacity="0" fill-opacity="0"/>
+                  </g>
+                </g>
+              </g>
+              <g id="plot_01.toplevel.vp::plot_01.legend.top.vp::GRID.VP.28::GRID.VP.30.1">
+                <g id="GRID.cellGrob.610.1">
+                  <g id="plot_01.key.text.1.1.1">
+                    <g id="plot_01.key.text.1.1.1.1" transform="translate(501, 372.56)" stroke-width="0.1">
+                      <g transform="scale(1, -1)">
+                        <text x="0" y="0" text-anchor="end" stroke="rgb(0,0,0)" opacity="1" stroke-opacity="1" fill="rgb(0,0,0)" fill-opacity="1" font-size="12" font-weight="normal" font-style="normal">
+                          <tspan dy="5" x="0">Expected or Additional Training</tspan>
+                        </text>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+              <g id="plot_01.toplevel.vp::plot_01.legend.top.vp::GRID.VP.28::GRID.VP.31.1">
+                <g id="GRID.cellGrob.611.1">
+                  <g id="plot_01.key.text.1.2.1">
+                    <g id="plot_01.key.text.1.2.1.1" transform="translate(501, 359.68)" stroke-width="0.1">
+                      <g transform="scale(1, -1)">
+                        <text x="0" y="0" text-anchor="end" stroke="rgb(0,0,0)" opacity="1" stroke-opacity="1" fill="rgb(0,0,0)" fill-opacity="1" font-size="12" font-weight="normal" font-style="normal">
+                          <tspan dy="5" x="0">Work with Specific Person</tspan>
+                        </text>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+              <g id="plot_01.toplevel.vp::plot_01.legend.top.vp::GRID.VP.28::GRID.VP.32.1">
+                <g id="GRID.cellGrob.612.1">
+                  <g id="plot_01.key.text.1.3.1">
+                    <g id="plot_01.key.text.1.3.1.1" transform="translate(501, 346.8)" stroke-width="0.1">
+                      <g transform="scale(1, -1)">
+                        <text x="0" y="0" text-anchor="end" stroke="rgb(0,0,0)" opacity="1" stroke-opacity="1" fill="rgb(0,0,0)" fill-opacity="1" font-size="12" font-weight="normal" font-style="normal">
+                          <tspan dy="5" x="0">Training Outside PhD Field</tspan>
+                        </text>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+              <g id="plot_01.toplevel.vp::plot_01.legend.top.vp::GRID.VP.28::GRID.VP.33.1">
+                <g id="GRID.cellGrob.613.1">
+                  <g id="plot_01.key.text.1.4.1">
+                    <g id="plot_01.key.text.1.4.1.1" transform="translate(501, 333.92)" stroke-width="0.1">
+                      <g transform="scale(1, -1)">
+                        <text x="0" y="0" text-anchor="end" stroke="rgb(0,0,0)" opacity="1" stroke-opacity="1" fill="rgb(0,0,0)" fill-opacity="1" font-size="12" font-weight="normal" font-style="normal">
+                          <tspan dy="5" x="0">Other Employment Not Available</tspan>
+                        </text>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+              <g id="plot_01.toplevel.vp::plot_01.legend.top.vp::GRID.VP.28::GRID.VP.34.1">
+                <g id="GRID.cellGrob.614.1">
+                  <g id="plot_01.key.text.1.5.1">
+                    <g id="plot_01.key.text.1.5.1.1" transform="translate(501, 321.04)" stroke-width="0.1">
+                      <g transform="scale(1, -1)">
+                        <text x="0" y="0" text-anchor="end" stroke="rgb(0,0,0)" opacity="1" stroke-opacity="1" fill="rgb(0,0,0)" fill-opacity="1" font-size="12" font-weight="normal" font-style="normal">
+                          <tspan dy="5" x="0">Other</tspan>
+                        </text>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+              <g id="plot_01.toplevel.vp::plot_01.legend.top.vp::GRID.VP.28::GRID.VP.35.1">
+                <g id="GRID.cellGrob.615.1">
+                  <g id="plot_01.key.rect.2.1.1">
+                    <rect id="plot_01.key.rect.2.1.1.1" x="515" y="366.12" width="35" height="12.88" opacity="1" fill="rgb(204,255,255)" stroke="rgb(0,0,0)" stroke-opacity="1" fill-opacity="1"/>
+                  </g>
+                </g>
+              </g>
+              <g id="plot_01.toplevel.vp::plot_01.legend.top.vp::GRID.VP.28::GRID.VP.36.1">
+                <g id="GRID.cellGrob.616.1">
+                  <g id="plot_01.key.rect.2.2.1">
+                    <rect id="plot_01.key.rect.2.2.1.1" x="515" y="353.24" width="35" height="12.88" opacity="1" fill="rgb(255,204,255)" stroke="rgb(0,0,0)" stroke-opacity="1" fill-opacity="1"/>
+                  </g>
+                </g>
+              </g>
+              <g id="plot_01.toplevel.vp::plot_01.legend.top.vp::GRID.VP.28::GRID.VP.37.1">
+                <g id="GRID.cellGrob.617.1">
+                  <g id="plot_01.key.rect.2.3.1">
+                    <rect id="plot_01.key.rect.2.3.1.1" x="515" y="340.36" width="35" height="12.88" opacity="1" fill="rgb(204,255,204)" stroke="rgb(0,0,0)" stroke-opacity="1" fill-opacity="1"/>
+                  </g>
+                </g>
+              </g>
+              <g id="plot_01.toplevel.vp::plot_01.legend.top.vp::GRID.VP.28::GRID.VP.38.1">
+                <g id="GRID.cellGrob.618.1">
+                  <g id="plot_01.key.rect.2.4.1">
+                    <rect id="plot_01.key.rect.2.4.1.1" x="515" y="327.48" width="35" height="12.88" opacity="1" fill="rgb(255,229,204)" stroke="rgb(0,0,0)" stroke-opacity="1" fill-opacity="1"/>
+                  </g>
+                </g>
+              </g>
+              <g id="plot_01.toplevel.vp::plot_01.legend.top.vp::GRID.VP.28::GRID.VP.39.1">
+                <g id="GRID.cellGrob.619.1">
+                  <g id="plot_01.key.rect.2.5.1">
+                    <rect id="plot_01.key.rect.2.5.1.1" x="515" y="314.6" width="35" height="12.88" opacity="1" fill="rgb(204,230,255)" stroke="rgb(0,0,0)" stroke-opacity="1" fill-opacity="1"/>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g id="plot_01.toplevel.vp::plot_01..1"/>
+      </g>
+    </g>
+  </g>
+</svg>

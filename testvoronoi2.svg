@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="ISO8859-1"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="683px" height="391px" viewBox="0 0 683 391" version="1.1">
+  <metadata xmlns:gridsvg="http://www.stat.auckland.ac.nz/~paul/R/gridSVG/">
+    <gridsvg:generator name="gridSVG" version="1.2-0" time="2013-05-29 11:01:43"/>
+    <gridsvg:argument name="name" value="testvoronoi2.svg"/>
+    <gridsvg:argument name="exportCoords" value="none"/>
+    <gridsvg:argument name="exportMappings" value="none"/>
+    <gridsvg:argument name="exportJS" value="none"/>
+    <gridsvg:argument name="res" value="72"/>
+    <gridsvg:argument name="prefix" value=""/>
+    <gridsvg:argument name="addClasses" value="FALSE"/>
+    <gridsvg:argument name="indent" value="TRUE"/>
+    <gridsvg:argument name="htmlWrapper" value="FALSE"/>
+    <gridsvg:argument name="usePaths" value="vpPaths"/>
+    <gridsvg:argument name="uniqueNames" value="TRUE"/>
+    <gridsvg:separator name="id.sep" value="."/>
+    <gridsvg:separator name="gPath.sep" value="::"/>
+    <gridsvg:separator name="vpPath.sep" value="::"/>
+  </metadata>
+  <g transform="translate(0, 391) scale(1, -1)">
+    <g id="gridSVG" fill="none" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="1" font-size="16" font-family="Helvetica, Arial, FreeSans, Liberation Sans, Nimbus Sans L, sans-serif" opacity="1" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-opacity="1" fill-opacity="0" font-weight="normal" font-style="normal">
+      <g id="plot_01.background.1">
+        <rect id="plot_01.background.1.1" x="0" y="0" width="683" height="391" fill="none" stroke="none" stroke-opacity="0" fill-opacity="0"/>
+      </g>
+      <g id="plot_01.toplevel.vp.1" font-size="12">
+        <g id="plot_01.toplevel.vp::plot_01.xlab.vp.1">
+          <g id="plot_01.xlab.1">
+            <g id="plot_01.xlab.1.1" transform="translate(333.54, 17)" stroke-width="0.1">
+              <g transform="scale(1, -1)">
+                <text x="0" y="0" text-anchor="middle" opacity="1" stroke="rgb(0,0,0)" stroke-opacity="1" fill="rgb(0,0,0)" fill-opacity="1" font-size="12" font-weight="normal" font-style="normal">
+                  <tspan dy="5" x="0">x</tspan>
+                </text>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g id="plot_01.toplevel.vp::plot_01.ylab.vp.1">
+          <g id="plot_01.ylab.1">
+            <g id="plot_01.ylab.1.1" transform="translate(11, 204.5)" stroke-width="0.1">
+              <g transform="scale(1, -1)">
+                <text x="0" y="0" transform="rotate(-90)" text-anchor="middle" opacity="1" stroke="rgb(0,0,0)" stroke-opacity="1" fill="rgb(0,0,0)" fill-opacity="1" font-size="12" font-weight="normal" font-style="normal">
+                  <tspan dy="5" x="0">y</tspan>
+                </text>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g id="plot_01.toplevel.vp::plot_01.figure.vp.1"/>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.1.1.vp.1.clipPath">
+            <rect x="45.01" y="53.01" width="577.06" height="302.98" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.1.1.vp.1" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.1.1.vp.1.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.1.1.off.vp.1">
+          <g id="plot_01.ticks.top.panel.1.1.1">
+            <polyline id="plot_01.ticks.top.panel.1.1.1.1" points="55.83,355.99 55.83,361.66" stroke="rgb(0,0,0)" opacity="1" stroke-dasharray="none" stroke-width="1" stroke-opacity="1" fill="none"/>
+            <polyline id="plot_01.ticks.top.panel.1.1.1.2" points="179.5,355.99 179.5,361.66" stroke="rgb(0,0,0)" opacity="1" stroke-dasharray="none" stroke-width="1" stroke-opacity="1" fill="none"/>
+            <polyline id="plot_01.ticks.top.panel.1.1.1.3" points="303.17,355.99 303.17,361.66" stroke="rgb(0,0,0)" opacity="1" stroke-dasharray="none" stroke-width="1" stroke-opacity="1" fill="none"/>
+            <polyline id="plot_01.ticks.top.panel.1.1.1.4" points="426.84,355.99 426.84,361.66" stroke="rgb(0,0,0)" opacity="1" stroke-dasharray="none" stroke-width="1" stroke-opacity="1" fill="none"/>
+            <polyline id="plot_01.ticks.top.panel.1.1.1.5" points="550.51,355.99 550.51,361.66" stroke="rgb(0,0,0)" opacity="1" stroke-dasharray="none" stroke-width="1" stroke-opacity="1" fill="none"/>
+          </g>
+        </g>
+        <g id="plot_01.toplevel.vp::plot_01.strip.left.1.1.off.vp.1">
+          <g id="plot_01.ticks.left.panel.1.1.1">
+            <polyline id="plot_01.ticks.left.panel.1.1.1.1" points="45.01,60.99 39.34,60.99" stroke="rgb(0,0,0)" opacity="1" stroke-dasharray="none" stroke-width="1" stroke-opacity="1" fill="none"/>
+            <polyline id="plot_01.ticks.left.panel.1.1.1.2" points="45.01,125.52 39.34,125.52" stroke="rgb(0,0,0)" opacity="1" stroke-dasharray="none" stroke-width="1" stroke-opacity="1" fill="none"/>
+            <polyline id="plot_01.ticks.left.panel.1.1.1.3" points="45.01,190.06 39.34,190.06" stroke="rgb(0,0,0)" opacity="1" stroke-dasharray="none" stroke-width="1" stroke-opacity="1" fill="none"/>
+            <polyline id="plot_01.ticks.left.panel.1.1.1.4" points="45.01,254.59 39.34,254.59" stroke="rgb(0,0,0)" opacity="1" stroke-dasharray="none" stroke-width="1" stroke-opacity="1" fill="none"/>
+            <polyline id="plot_01.ticks.left.panel.1.1.1.5" points="45.01,319.13 39.34,319.13" stroke="rgb(0,0,0)" opacity="1" stroke-dasharray="none" stroke-width="1" stroke-opacity="1" fill="none"/>
+          </g>
+          <g id="plot_01.ticklabels.left.panel.1.1.1">
+            <g id="plot_01.ticklabels.left.panel.1.1.1.1" transform="translate(33.67, 60.99)" stroke-width="0.1">
+              <g transform="scale(1, -1)">
+                <text x="0" y="0" text-anchor="end" stroke="rgb(0,0,0)" opacity="1" stroke-opacity="1" fill="rgb(0,0,0)" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                  <tspan dy="4" x="0">0</tspan>
+                </text>
+              </g>
+            </g>
+            <g id="plot_01.ticklabels.left.panel.1.1.1.2" transform="translate(33.67, 125.52)" stroke-width="0.1">
+              <g transform="scale(1, -1)">
+                <text x="0" y="0" text-anchor="end" stroke="rgb(0,0,0)" opacity="1" stroke-opacity="1" fill="rgb(0,0,0)" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                  <tspan dy="4" x="0">2</tspan>
+                </text>
+              </g>
+            </g>
+            <g id="plot_01.ticklabels.left.panel.1.1.1.3" transform="translate(33.67, 190.06)" stroke-width="0.1">
+              <g transform="scale(1, -1)">
+                <text x="0" y="0" text-anchor="end" stroke="rgb(0,0,0)" opacity="1" stroke-opacity="1" fill="rgb(0,0,0)" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                  <tspan dy="4" x="0">4</tspan>
+                </text>
+              </g>
+            </g>
+            <g id="plot_01.ticklabels.left.panel.1.1.1.4" transform="translate(33.67, 254.59)" stroke-width="0.1">
+              <g transform="scale(1, -1)">
+                <text x="0" y="0" text-anchor="end" stroke="rgb(0,0,0)" opacity="1" stroke-opacity="1" fill="rgb(0,0,0)" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                  <tspan dy="4" x="0">6</tspan>
+                </text>
+              </g>
+            </g>
+            <g id="plot_01.ticklabels.left.panel.1.1.1.5" transform="translate(33.67, 319.13)" stroke-width="0.1">
+              <g transform="scale(1, -1)">
+                <text x="0" y="0" text-anchor="end" stroke="rgb(0,0,0)" opacity="1" stroke-opacity="1" fill="rgb(0,0,0)" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                  <tspan dy="4" x="0">8</tspan>
+                </text>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g id="plot_01.toplevel.vp::plot_01.panel.1.1.off.vp.1">
+          <g id="plot_01.ticks.bottom.panel.1.1.1">
+            <polyline id="plot_01.ticks.bottom.panel.1.1.1.1" points="55.83,53.01 55.83,47.34" stroke="rgb(0,0,0)" opacity="1" stroke-dasharray="none" stroke-width="1" stroke-opacity="1" fill="none"/>
+            <polyline id="plot_01.ticks.bottom.panel.1.1.1.2" points="179.5,53.01 179.5,47.34" stroke="rgb(0,0,0)" opacity="1" stroke-dasharray="none" stroke-width="1" stroke-opacity="1" fill="none"/>
+            <polyline id="plot_01.ticks.bottom.panel.1.1.1.3" points="303.17,53.01 303.17,47.34" stroke="rgb(0,0,0)" opacity="1" stroke-dasharray="none" stroke-width="1" stroke-opacity="1" fill="none"/>
+            <polyline id="plot_01.ticks.bottom.panel.1.1.1.4" points="426.84,53.01 426.84,47.34" stroke="rgb(0,0,0)" opacity="1" stroke-dasharray="none" stroke-width="1" stroke-opacity="1" fill="none"/>
+            <polyline id="plot_01.ticks.bottom.panel.1.1.1.5" points="550.51,53.01 550.51,47.34" stroke="rgb(0,0,0)" opacity="1" stroke-dasharray="none" stroke-width="1" stroke-opacity="1" fill="none"/>
+          </g>
+          <g id="plot_01.ticklabels.bottom.panel.1.1.1">
+            <g id="plot_01.ticklabels.bottom.panel.1.1.1.1" transform="translate(179.5, 41.67)" stroke-width="0.1">
+              <g transform="scale(1, -1)">
+                <text x="0" y="0" text-anchor="middle" stroke="rgb(0,0,0)" opacity="1" stroke-opacity="1" fill="rgb(0,0,0)" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                  <tspan dy="8" x="0">2</tspan>
+                </text>
+              </g>
+            </g>
+            <g id="plot_01.ticklabels.bottom.panel.1.1.1.2" transform="translate(303.17, 41.67)" stroke-width="0.1">
+              <g transform="scale(1, -1)">
+                <text x="0" y="0" text-anchor="middle" stroke="rgb(0,0,0)" opacity="1" stroke-opacity="1" fill="rgb(0,0,0)" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                  <tspan dy="8" x="0">4</tspan>
+                </text>
+              </g>
+            </g>
+            <g id="plot_01.ticklabels.bottom.panel.1.1.1.3" transform="translate(426.84, 41.67)" stroke-width="0.1">
+              <g transform="scale(1, -1)">
+                <text x="0" y="0" text-anchor="middle" stroke="rgb(0,0,0)" opacity="1" stroke-opacity="1" fill="rgb(0,0,0)" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                  <tspan dy="8" x="0">6</tspan>
+                </text>
+              </g>
+            </g>
+            <g id="plot_01.ticklabels.bottom.panel.1.1.1.4" transform="translate(550.51, 41.67)" stroke-width="0.1">
+              <g transform="scale(1, -1)">
+                <text x="0" y="0" text-anchor="middle" stroke="rgb(0,0,0)" opacity="1" stroke-opacity="1" fill="rgb(0,0,0)" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                  <tspan dy="8" x="0">8</tspan>
+                </text>
+              </g>
+            </g>
+          </g>
+          <g id="plot_01.ticks.right.panel.1.1.1">
+            <polyline id="plot_01.ticks.right.panel.1.1.1.1" points="622.07,60.99 627.74,60.99" stroke="rgb(0,0,0)" opacity="1" stroke-dasharray="none" stroke-width="1" stroke-opacity="1" fill="none"/>
+            <polyline id="plot_01.ticks.right.panel.1.1.1.2" points="622.07,125.52 627.74,125.52" stroke="rgb(0,0,0)" opacity="1" stroke-dasharray="none" stroke-width="1" stroke-opacity="1" fill="none"/>
+            <polyline id="plot_01.ticks.right.panel.1.1.1.3" points="622.07,190.06 627.74,190.06" stroke="rgb(0,0,0)" opacity="1" stroke-dasharray="none" stroke-width="1" stroke-opacity="1" fill="none"/>
+            <polyline id="plot_01.ticks.right.panel.1.1.1.4" points="622.07,254.59 627.74,254.59" stroke="rgb(0,0,0)" opacity="1" stroke-dasharray="none" stroke-width="1" stroke-opacity="1" fill="none"/>
+            <polyline id="plot_01.ticks.right.panel.1.1.1.5" points="622.07,319.13 627.74,319.13" stroke="rgb(0,0,0)" opacity="1" stroke-dasharray="none" stroke-width="1" stroke-opacity="1" fill="none"/>
+          </g>
+        </g>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.1.1.vp.2.clipPath">
+            <rect x="45.01" y="53.01" width="577.06" height="302.98" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.1.1.vp.2" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.1.1.vp.2.clipPath)">
+          <g id="GRID.polygon.1472.1">
+            <polygon id="GRID.polygon.1472.1.1" points="80.31,71.21 4.71,81.71 4.71,34.22 92.06,34.22" fill="rgb(128,255,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+            <polygon id="GRID.polygon.1472.1.2" points="144.6,78.72 102.02,81.36 80.31,71.21 92.06,34.22 150.25,34.22" fill="rgb(161,255,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+            <polygon id="GRID.polygon.1472.1.3" points="212.31,72.77 207.74,76.79 146.13,79.22 144.6,78.72 150.25,34.22 211.63,34.22" fill="rgb(179,255,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+            <polygon id="GRID.polygon.1472.1.4" points="282.74,76.88 212.31,72.77 211.63,34.22 282.91,34.22" fill="rgb(212,255,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+            <polygon id="GRID.polygon.1472.1.5" points="346.69,77.15 340.12,80.25 285.69,79.09 282.74,76.88 282.91,34.22 340.52,34.22" fill="rgb(212,255,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+            <polygon id="GRID.polygon.1472.1.6" points="399.15,75.86 392.17,79.21 346.69,77.15 340.52,34.22 416.56,34.22" fill="rgb(212,255,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+            <polygon id="GRID.polygon.1472.1.7" points="466.28,77.92 461.45,80.56 399.15,75.86 416.56,34.22 444.15,34.22" fill="rgb(212,255,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+            <polygon id="GRID.polygon.1472.1.8" points="517.58,75.82 515.63,76.76 466.28,77.92 444.15,34.22 529.83,34.22" fill="rgb(194,255,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+            <polygon id="GRID.polygon.1472.1.9" points="580.67,82.53 580.15,82.86 517.58,75.82 529.83,34.22 575.7,34.22" fill="rgb(194,255,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+            <polygon id="GRID.polygon.1472.1.10" points="662.05,68.56 580.67,82.53 575.7,34.22 662.05,34.22" fill="rgb(179,255,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+            <polygon id="GRID.polygon.1472.1.11" points="94.54,110.55 92.95,111.14 4.71,109.06 4.71,81.71 80.31,71.21 102.02,81.36" fill="rgb(179,255,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+            <polygon id="GRID.polygon.1472.1.12" points="159.46,111.08 146.87,116.77 94.54,110.55 102.02,81.36 144.6,78.72 146.13,79.22" fill="rgb(194,255,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+            <polygon id="GRID.polygon.1472.1.13" points="216.25,104.77 208.37,109.61 159.46,111.08 146.13,79.22 207.74,76.79" fill="rgb(212,255,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+            <polygon id="GRID.polygon.1472.1.14" points="272.65,103.16 266.32,105.55 216.25,104.77 207.74,76.79 212.31,72.77 282.74,76.88 285.69,79.09" fill="rgb(230,255,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+            <polygon id="GRID.polygon.1472.1.15" points="340.36,107.87 329.43,113.29 272.65,103.16 285.69,79.09 340.12,80.25" fill="rgb(245,255,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+            <polygon id="GRID.polygon.1472.1.16" points="405.89,109.92 398.74,112.94 340.36,107.87 340.12,80.25 346.69,77.15 392.17,79.21" fill="rgb(245,255,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+            <polygon id="GRID.polygon.1472.1.17" points="451.28,109.71 449.3,110.41 405.89,109.92 392.17,79.21 399.15,75.86 461.45,80.56" fill="rgb(245,255,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+            <polygon id="GRID.polygon.1472.1.18" points="518.94,115.15 451.28,109.71 461.45,80.56 466.28,77.92 515.63,76.76" fill="rgb(230,255,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+            <polygon id="GRID.polygon.1472.1.19" points="583.56,107.72 519.45,115.41 518.94,115.15 515.63,76.76 517.58,75.82 580.15,82.86" fill="rgb(212,255,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+            <polygon id="GRID.polygon.1472.1.20" points="662.05,110.24 593.85,111.88 583.56,107.72 580.15,82.86 580.67,82.53 662.05,68.56" fill="rgb(194,255,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+            <polygon id="GRID.polygon.1472.1.21" points="86.99,145.5 4.71,146.35 4.71,109.06 92.95,111.14" fill="rgb(194,255,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+            <polygon id="GRID.polygon.1472.1.22" points="148.65,136.7 139.9,142.44 92.82,147.85 86.99,145.5 92.95,111.14 94.54,110.55 146.87,116.77" fill="rgb(212,255,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+            <polygon id="GRID.polygon.1472.1.23" points="215.79,138.07 205.68,143.93 148.65,136.7 146.87,116.77 159.46,111.08 208.37,109.61" fill="rgb(245,255,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+            <polygon id="GRID.polygon.1472.1.24" points="273.62,139.81 270.63,141.34 215.79,138.07 208.37,109.61 216.25,104.77 266.32,105.55" fill="rgb(255,245,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+            <polygon id="GRID.polygon.1472.1.25" points="325.28,135.8 273.62,139.81 266.32,105.55 272.65,103.16 329.43,113.29" fill="rgb(255,245,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+            <polygon id="GRID.polygon.1472.1.26" points="387.76,140.12 327.12,136.72 325.28,135.8 329.43,113.29 340.36,107.87 398.74,112.94" fill="rgb(255,230,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+            <polygon id="GRID.polygon.1472.1.27" points="452.37,138.53 394.48,145.94 387.76,140.12 398.74,112.94 405.89,109.92 449.3,110.41" fill="rgb(255,230,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+            <polygon id="GRID.polygon.1472.1.28" points="519.98,135.57 516.38,137.85 466.49,146.09 452.37,138.53 449.3,110.41 451.28,109.71 518.94,115.15 519.45,115.41" fill="rgb(255,245,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+            <polygon id="GRID.polygon.1472.1.29" points="589.47,139.59 574.93,147.71 519.98,135.57 519.45,115.41 583.56,107.72 593.85,111.88" fill="rgb(230,255,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+            <polygon id="GRID.polygon.1472.1.30" points="662.05,147.45 589.47,139.59 593.85,111.88 662.05,110.24" fill="rgb(212,255,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+            <polygon id="GRID.polygon.1472.1.31" points="99.33,170.27 82.98,177.72 4.71,178.51 4.71,146.35 86.99,145.5 92.82,147.85" fill="rgb(212,255,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+            <polygon id="GRID.polygon.1472.1.32" points="161.34,174.18 145.3,179.64 99.33,170.27 92.82,147.85 139.9,142.44" fill="rgb(230,255,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+            <polygon id="GRID.polygon.1472.1.33" points="199.61,172.88 161.34,174.18 139.9,142.44 148.65,136.7 205.68,143.93" fill="rgb(245,255,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+            <polygon id="GRID.polygon.1472.1.34" points="271.92,171.87 269.63,173.18 203.75,174.67 199.61,172.88 205.68,143.93 215.79,138.07 270.63,141.34" fill="rgb(255,230,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+            <polygon id="GRID.polygon.1472.1.35" points="332.12,170.31 330.66,171.01 271.92,171.87 270.63,141.34 273.62,139.81 325.28,135.8 327.12,136.72" fill="rgb(255,212,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+            <polygon id="GRID.polygon.1472.1.36" points="395.37,165.86 391.04,168.41 332.12,170.31 327.12,136.72 387.76,140.12 394.48,145.94" fill="rgb(255,194,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+            <polygon id="GRID.polygon.1472.1.37" points="460.13,170.84 395.37,165.86 394.48,145.94 452.37,138.53 466.49,146.09" fill="rgb(255,212,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+            <polygon id="GRID.polygon.1472.1.38" points="517.8,178.02 466.19,174.8 460.13,170.84 466.49,146.09 516.38,137.85" fill="rgb(255,230,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+            <polygon id="GRID.polygon.1472.1.39" points="577.01,167.24 517.87,178.04 517.8,178.02 516.38,137.85 519.98,135.57 574.93,147.71" fill="rgb(255,245,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+            <polygon id="GRID.polygon.1472.1.40" points="662.05,175.75 586.17,170.84 577.01,167.24 574.93,147.71 589.47,139.59 662.05,147.45" fill="rgb(230,255,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+            <polygon id="GRID.polygon.1472.1.41" points="92.08,212.08 88.13,213.99 4.71,199.81 4.71,178.51 82.98,177.72" fill="rgb(212,255,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+            <polygon id="GRID.polygon.1472.1.42" points="135.43,205.06 92.08,212.08 82.98,177.72 99.33,170.27 145.3,179.64" fill="rgb(230,255,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+            <polygon id="GRID.polygon.1472.1.43" points="209.79,202.93 203.22,208.61 149.39,210.58 135.43,205.06 145.3,179.64 161.34,174.18 199.61,172.88 203.75,174.67" fill="rgb(255,230,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+            <polygon id="GRID.polygon.1472.1.44" points="277.31,205.4 209.79,202.93 203.75,174.67 269.63,173.18" fill="rgb(255,194,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+            <polygon id="GRID.polygon.1472.1.45" points="334.66,205.2 322.28,209.47 278.17,205.97 277.31,205.4 269.63,173.18 271.92,171.87 330.66,171.01" fill="rgb(255,179,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+            <polygon id="GRID.polygon.1472.1.46" points="393.17,204.48 388.48,207.12 334.66,205.2 330.66,171.01 332.12,170.31 391.04,168.41" fill="rgb(255,161,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+            <polygon id="GRID.polygon.1472.1.47" points="447.34,202.09 393.17,204.48 391.04,168.41 395.37,165.86 460.13,170.84 466.19,174.8" fill="rgb(255,179,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+            <polygon id="GRID.polygon.1472.1.48" points="527.41,202.88 526.21,204.13 458.36,208.82 447.34,202.09 466.19,174.8 517.8,178.02 517.87,178.04" fill="rgb(255,194,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+            <polygon id="GRID.polygon.1472.1.49" points="579.62,202.32 527.41,202.88 517.87,178.04 577.01,167.24 586.17,170.84" fill="rgb(255,245,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+            <polygon id="GRID.polygon.1472.1.50" points="662.05,203.84 596.93,209.76 579.62,202.32 586.17,170.84 662.05,175.75" fill="rgb(245,255,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+            <polygon id="GRID.polygon.1472.1.51" points="86.42,235.84 75.18,242.12 4.71,242.04 4.71,199.81 88.13,213.99" fill="rgb(212,255,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+            <polygon id="GRID.polygon.1472.1.52" points="156.96,236.73 141.51,245.93 86.42,235.84 88.13,213.99 92.08,212.08 135.43,205.06 149.39,210.58" fill="rgb(245,255,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+            <polygon id="GRID.polygon.1472.1.53" points="214,232.95 206.9,236.32 156.96,236.73 149.39,210.58 203.22,208.61" fill="rgb(255,230,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+            <polygon id="GRID.polygon.1472.1.54" points="255.64,235.78 214,232.95 203.22,208.61 209.79,202.93 277.31,205.4 278.17,205.97" fill="rgb(255,194,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+            <polygon id="GRID.polygon.1472.1.55" points="325.65,240.71 268.03,244.59 255.64,235.78 278.17,205.97 322.28,209.47" fill="rgb(255,161,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+            <polygon id="GRID.polygon.1472.1.56" points="396.58,240.92 396.19,241.21 332.57,243.81 325.65,240.71 322.28,209.47 334.66,205.2 388.48,207.12" fill="rgb(255,128,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+            <polygon id="GRID.polygon.1472.1.57" points="464.33,234.93 459.52,237.65 396.58,240.92 388.48,207.12 393.17,204.48 447.34,202.09 458.36,208.82" fill="rgb(255,161,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+            <polygon id="GRID.polygon.1472.1.58" points="527.06,232.96 526.26,233.25 464.33,234.93 458.36,208.82 526.21,204.13" fill="rgb(255,194,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+            <polygon id="GRID.polygon.1472.1.59" points="577.28,237.89 573.33,239.39 527.06,232.96 526.21,204.13 527.41,202.88 579.62,202.32 596.93,209.76" fill="rgb(255,230,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+            <polygon id="GRID.polygon.1472.1.60" points="662.05,240.77 577.28,237.89 596.93,209.76 662.05,203.84" fill="rgb(245,255,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+            <polygon id="GRID.polygon.1472.1.61" points="79.05,272.16 78.5,272.61 4.71,281.77 4.71,242.04 75.18,242.12" fill="rgb(194,255,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+            <polygon id="GRID.polygon.1472.1.62" points="148.9,266.73 79.05,272.16 75.18,242.12 86.42,235.84 141.51,245.93" fill="rgb(230,255,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+            <polygon id="GRID.polygon.1472.1.63" points="200.96,266.38 156.01,270.42 148.9,266.73 141.51,245.93 156.96,236.73 206.9,236.32" fill="rgb(255,230,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+            <polygon id="GRID.polygon.1472.1.64" points="263.04,264.22 216.78,271.34 200.96,266.38 206.9,236.32 214,232.95 255.64,235.78 268.03,244.59" fill="rgb(255,212,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+            <polygon id="GRID.polygon.1472.1.65" points="328.78,269.94 271.76,269.24 263.04,264.22 268.03,244.59 325.65,240.71 332.57,243.81" fill="rgb(255,179,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+            <polygon id="GRID.polygon.1472.1.66" points="399.54,267.54 385.15,276.33 335.41,274.79 328.78,269.94 332.57,243.81 396.19,241.21" fill="rgb(255,161,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+            <polygon id="GRID.polygon.1472.1.67" points="472.19,270.76 460.01,277 399.54,267.54 396.19,241.21 396.58,240.92 459.52,237.65" fill="rgb(255,179,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+            <polygon id="GRID.polygon.1472.1.68" points="511.81,269.72 472.19,270.76 459.52,237.65 464.33,234.93 526.26,233.25" fill="rgb(255,212,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+            <polygon id="GRID.polygon.1472.1.69" points="580.62,268.86 519.78,272.68 511.81,269.72 526.26,233.25 527.06,232.96 573.33,239.39" fill="rgb(255,230,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+            <polygon id="GRID.polygon.1472.1.70" points="662.05,271.34 586.09,271.62 580.62,268.86 573.33,239.39 577.28,237.89 662.05,240.77" fill="rgb(245,255,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+            <polygon id="GRID.polygon.1472.1.71" points="97.74,301.12 88.8,307.47 4.71,307.5 4.71,281.77 78.5,272.61" fill="rgb(194,255,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+            <polygon id="GRID.polygon.1472.1.72" points="151.42,298.01 97.74,301.12 78.5,272.61 79.05,272.16 148.9,266.73 156.01,270.42" fill="rgb(230,255,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+            <polygon id="GRID.polygon.1472.1.73" points="221.26,303.01 207.96,309.09 158.9,302.34 151.42,298.01 156.01,270.42 200.96,266.38 216.78,271.34" fill="rgb(255,245,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+            <polygon id="GRID.polygon.1472.1.74" points="276.16,301.05 275.16,301.68 221.26,303.01 216.78,271.34 263.04,264.22 271.76,269.24" fill="rgb(255,212,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+            <polygon id="GRID.polygon.1472.1.75" points="322.21,295.64 276.16,301.05 271.76,269.24 328.78,269.94 335.41,274.79" fill="rgb(255,194,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+            <polygon id="GRID.polygon.1472.1.76" points="390.94,302.53 345.37,307.46 322.21,295.64 335.41,274.79 385.15,276.33" fill="rgb(255,194,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+            <polygon id="GRID.polygon.1472.1.77" points="458.38,295.64 449.58,301.12 394.9,304.25 390.94,302.53 385.15,276.33 399.54,267.54 460.01,277" fill="rgb(255,194,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+            <polygon id="GRID.polygon.1472.1.78" points="526.6,301.11 513.62,305.82 458.38,295.64 460.01,277 472.19,270.76 511.81,269.72 519.78,272.68" fill="rgb(255,230,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+            <polygon id="GRID.polygon.1472.1.79" points="575.14,305.31 526.6,301.11 519.78,272.68 580.62,268.86 586.09,271.62" fill="rgb(255,245,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+            <polygon id="GRID.polygon.1472.1.80" points="662.05,304.78 582.78,310.77 575.14,305.31 586.09,271.62 662.05,271.34" fill="rgb(230,255,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+            <polygon id="GRID.polygon.1472.1.81" points="95.89,331.91 74.77,340.62 4.71,332.37 4.71,307.5 88.8,307.47" fill="rgb(179,255,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+            <polygon id="GRID.polygon.1472.1.82" points="137.36,337.81 95.89,331.91 88.8,307.47 97.74,301.12 151.42,298.01 158.9,302.34" fill="rgb(212,255,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+            <polygon id="GRID.polygon.1472.1.83" points="211.65,329.44 147.08,344.15 137.36,337.81 158.9,302.34 207.96,309.09" fill="rgb(230,255,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+            <polygon id="GRID.polygon.1472.1.84" points="288.44,331.13 264.13,340.32 222.06,335.68 211.65,329.44 207.96,309.09 221.26,303.01 275.16,301.68" fill="rgb(255,245,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+            <polygon id="GRID.polygon.1472.1.85" points="330.71,336.67 288.44,331.13 275.16,301.68 276.16,301.05 322.21,295.64 345.37,307.46" fill="rgb(255,230,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+            <polygon id="GRID.polygon.1472.1.86" points="399.38,335.45 392.07,339 330.9,336.79 330.71,336.67 345.37,307.46 390.94,302.53 394.9,304.25" fill="rgb(255,230,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+            <polygon id="GRID.polygon.1472.1.87" points="459.18,333.49 454.31,335.9 399.38,335.45 394.9,304.25 449.58,301.12" fill="rgb(255,230,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+            <polygon id="GRID.polygon.1472.1.88" points="504.01,331.52 459.18,333.49 449.58,301.12 458.38,295.64 513.62,305.82" fill="rgb(255,245,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+            <polygon id="GRID.polygon.1472.1.89" points="577.59,331.81 519.14,338.18 504.01,331.52 513.62,305.82 526.6,301.11 575.14,305.31 582.78,310.77" fill="rgb(245,255,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+            <polygon id="GRID.polygon.1472.1.90" points="662.05,337.82 584.87,337.16 577.59,331.81 582.78,310.77 662.05,304.78" fill="rgb(212,255,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+            <polygon id="GRID.polygon.1472.1.91" points="79.26,376.68 4.71,376.68 4.71,332.37 74.77,340.62" fill="rgb(161,255,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+            <polygon id="GRID.polygon.1472.1.92" points="152.75,376.68 79.26,376.68 74.77,340.62 95.89,331.91 137.36,337.81 147.08,344.15" fill="rgb(179,255,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+            <polygon id="GRID.polygon.1472.1.93" points="199.37,376.68 152.75,376.68 147.08,344.15 211.65,329.44 222.06,335.68" fill="rgb(212,255,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+            <polygon id="GRID.polygon.1472.1.94" points="267.84,376.68 199.37,376.68 222.06,335.68 264.13,340.32" fill="rgb(230,255,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+            <polygon id="GRID.polygon.1472.1.95" points="325.92,376.68 267.84,376.68 264.13,340.32 288.44,331.13 330.71,336.67 330.9,336.79" fill="rgb(245,255,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+            <polygon id="GRID.polygon.1472.1.96" points="397.19,376.68 325.92,376.68 330.9,336.79 392.07,339" fill="rgb(245,255,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+            <polygon id="GRID.polygon.1472.1.97" points="459.64,376.68 397.19,376.68 392.07,339 399.38,335.45 454.31,335.9" fill="rgb(245,255,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+            <polygon id="GRID.polygon.1472.1.98" points="518.7,376.68 459.64,376.68 454.31,335.9 459.18,333.49 504.01,331.52 519.14,338.18" fill="rgb(230,255,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+            <polygon id="GRID.polygon.1472.1.99" points="587.96,376.68 518.7,376.68 519.14,338.18 577.59,331.81 584.87,337.16" fill="rgb(212,255,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+            <polygon id="GRID.polygon.1472.1.100" points="662.05,376.68 587.96,376.68 584.87,337.16 662.05,337.82" fill="rgb(194,255,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+          </g>
+        </g>
+        <g id="plot_01.toplevel.vp::plot_01.panel.1.1.off.vp.2">
+          <g id="plot_01.border.panel.1.1.1">
+            <rect id="plot_01.border.panel.1.1.1.1" x="45.01" y="53.01" width="577.06" height="302.98" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="1" opacity="1" fill="none" stroke-opacity="1" fill-opacity="0"/>
+          </g>
+        </g>
+        <g id="plot_01.toplevel.vp::plot_01.legend.right.vp.1">
+          <g id="plot_01.toplevel.vp::plot_01.legend.right.vp::GRID.VP.58.1">
+            <g id="plot_01.colorkey.frame.1">
+              <g id="plot_01.toplevel.vp::plot_01.legend.right.vp::GRID.VP.58::GRID.VP.60.1">
+                <g id="GRID.cellGrob.1464.1">
+                  <g id="plot_01.toplevel.vp::plot_01.legend.right.vp::GRID.VP.58::GRID.VP.60::GRID.VP.59.1">
+                    <g id="plot_01.colorkey.image.1">
+                      <rect id="plot_01.colorkey.image.1.1" x="645.08" y="53.01" width="17.28" height="18.94" fill="rgb(255,128,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+                      <rect id="plot_01.colorkey.image.1.2" x="645.08" y="71.94" width="17.28" height="18.94" fill="rgb(255,145,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+                      <rect id="plot_01.colorkey.image.1.3" x="645.08" y="90.88" width="17.28" height="18.94" fill="rgb(255,161,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+                      <rect id="plot_01.colorkey.image.1.4" x="645.08" y="109.82" width="17.28" height="18.94" fill="rgb(255,179,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+                      <rect id="plot_01.colorkey.image.1.5" x="645.08" y="128.75" width="17.28" height="18.94" fill="rgb(255,194,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+                      <rect id="plot_01.colorkey.image.1.6" x="645.08" y="147.69" width="17.28" height="18.94" fill="rgb(255,212,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+                      <rect id="plot_01.colorkey.image.1.7" x="645.08" y="166.63" width="17.28" height="18.94" fill="rgb(255,230,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+                      <rect id="plot_01.colorkey.image.1.8" x="645.08" y="185.56" width="17.28" height="18.94" fill="rgb(255,245,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+                      <rect id="plot_01.colorkey.image.1.9" x="645.08" y="204.5" width="17.28" height="18.94" fill="rgb(245,255,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+                      <rect id="plot_01.colorkey.image.1.10" x="645.08" y="223.44" width="17.28" height="18.94" fill="rgb(230,255,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+                      <rect id="plot_01.colorkey.image.1.11" x="645.08" y="242.37" width="17.28" height="18.94" fill="rgb(212,255,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+                      <rect id="plot_01.colorkey.image.1.12" x="645.08" y="261.31" width="17.28" height="18.94" fill="rgb(194,255,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+                      <rect id="plot_01.colorkey.image.1.13" x="645.08" y="280.25" width="17.28" height="18.94" fill="rgb(179,255,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+                      <rect id="plot_01.colorkey.image.1.14" x="645.08" y="299.18" width="17.28" height="18.94" fill="rgb(161,255,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+                      <rect id="plot_01.colorkey.image.1.15" x="645.08" y="318.12" width="17.28" height="18.94" fill="rgb(145,255,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+                      <rect id="plot_01.colorkey.image.1.16" x="645.08" y="337.06" width="17.28" height="18.94" fill="rgb(128,255,255)" stroke="none" opacity="1" stroke-opacity="0" fill-opacity="1"/>
+                    </g>
+                  </g>
+                </g>
+              </g>
+              <g id="plot_01.toplevel.vp::plot_01.legend.right.vp::GRID.VP.58::GRID.VP.61.1">
+                <g id="GRID.cellGrob.1465.1">
+                  <g id="plot_01.colorkey.border.1">
+                    <rect id="plot_01.colorkey.border.1.1" x="645.08" y="53.01" width="17.28" height="302.98" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="1" opacity="1" fill="none" stroke-opacity="1" fill-opacity="0"/>
+                  </g>
+                </g>
+              </g>
+              <g id="plot_01.toplevel.vp::plot_01.legend.right.vp::GRID.VP.58::GRID.VP.63.1">
+                <g id="GRID.cellGrob.1466.1">
+                  <g id="plot_01.toplevel.vp::plot_01.legend.right.vp::GRID.VP.58::GRID.VP.63::GRID.VP.62.1">
+                    <g id="plot_01.colorkey.ticks.1">
+                      <polyline id="plot_01.colorkey.ticks.1.1" points="662.36,63.79 666.68,63.79" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="1" stroke-opacity="1" fill="none"/>
+                      <polyline id="plot_01.colorkey.ticks.1.2" points="662.36,101.29 666.68,101.29" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="1" stroke-opacity="1" fill="none"/>
+                      <polyline id="plot_01.colorkey.ticks.1.3" points="662.36,138.78 666.68,138.78" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="1" stroke-opacity="1" fill="none"/>
+                      <polyline id="plot_01.colorkey.ticks.1.4" points="662.36,176.28 666.68,176.28" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="1" stroke-opacity="1" fill="none"/>
+                      <polyline id="plot_01.colorkey.ticks.1.5" points="662.36,213.78 666.68,213.78" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="1" stroke-opacity="1" fill="none"/>
+                      <polyline id="plot_01.colorkey.ticks.1.6" points="662.36,251.27 666.68,251.27" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="1" stroke-opacity="1" fill="none"/>
+                      <polyline id="plot_01.colorkey.ticks.1.7" points="662.36,288.77 666.68,288.77" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="1" stroke-opacity="1" fill="none"/>
+                      <polyline id="plot_01.colorkey.ticks.1.8" points="662.36,326.27 666.68,326.27" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="1" stroke-opacity="1" fill="none"/>
+                    </g>
+                  </g>
+                </g>
+              </g>
+              <g id="plot_01.toplevel.vp::plot_01.legend.right.vp::GRID.VP.58::GRID.VP.64.1">
+                <g id="GRID.cellGrob.1467.1">
+                  <g id="plot_01.toplevel.vp::plot_01.legend.right.vp::GRID.VP.58::GRID.VP.64::GRID.VP.57.1">
+                    <g id="plot_01.colorkey.labels.1">
+                      <g id="plot_01.colorkey.labels.1.1" transform="translate(671, 63.79)" stroke-width="0.1">
+                        <g transform="scale(1, -1)">
+                          <text x="0" y="0" text-anchor="start" stroke="rgb(0,0,0)" stroke-opacity="1" fill="rgb(0,0,0)" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                            <tspan dy="4" x="0">0</tspan>
+                          </text>
+                        </g>
+                      </g>
+                      <g id="plot_01.colorkey.labels.1.2" transform="translate(671, 101.29)" stroke-width="0.1">
+                        <g transform="scale(1, -1)">
+                          <text x="0" y="0" text-anchor="start" stroke="rgb(0,0,0)" stroke-opacity="1" fill="rgb(0,0,0)" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                            <tspan dy="4" x="0">1</tspan>
+                          </text>
+                        </g>
+                      </g>
+                      <g id="plot_01.colorkey.labels.1.3" transform="translate(671, 138.78)" stroke-width="0.1">
+                        <g transform="scale(1, -1)">
+                          <text x="0" y="0" text-anchor="start" stroke="rgb(0,0,0)" stroke-opacity="1" fill="rgb(0,0,0)" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                            <tspan dy="4" x="0">2</tspan>
+                          </text>
+                        </g>
+                      </g>
+                      <g id="plot_01.colorkey.labels.1.4" transform="translate(671, 176.28)" stroke-width="0.1">
+                        <g transform="scale(1, -1)">
+                          <text x="0" y="0" text-anchor="start" stroke="rgb(0,0,0)" stroke-opacity="1" fill="rgb(0,0,0)" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                            <tspan dy="4" x="0">3</tspan>
+                          </text>
+                        </g>
+                      </g>
+                      <g id="plot_01.colorkey.labels.1.5" transform="translate(671, 213.78)" stroke-width="0.1">
+                        <g transform="scale(1, -1)">
+                          <text x="0" y="0" text-anchor="start" stroke="rgb(0,0,0)" stroke-opacity="1" fill="rgb(0,0,0)" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                            <tspan dy="4" x="0">4</tspan>
+                          </text>
+                        </g>
+                      </g>
+                      <g id="plot_01.colorkey.labels.1.6" transform="translate(671, 251.27)" stroke-width="0.1">
+                        <g transform="scale(1, -1)">
+                          <text x="0" y="0" text-anchor="start" stroke="rgb(0,0,0)" stroke-opacity="1" fill="rgb(0,0,0)" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                            <tspan dy="4" x="0">5</tspan>
+                          </text>
+                        </g>
+                      </g>
+                      <g id="plot_01.colorkey.labels.1.7" transform="translate(671, 288.77)" stroke-width="0.1">
+                        <g transform="scale(1, -1)">
+                          <text x="0" y="0" text-anchor="start" stroke="rgb(0,0,0)" stroke-opacity="1" fill="rgb(0,0,0)" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                            <tspan dy="4" x="0">6</tspan>
+                          </text>
+                        </g>
+                      </g>
+                      <g id="plot_01.colorkey.labels.1.8" transform="translate(671, 326.27)" stroke-width="0.1">
+                        <g transform="scale(1, -1)">
+                          <text x="0" y="0" text-anchor="start" stroke="rgb(0,0,0)" stroke-opacity="1" fill="rgb(0,0,0)" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                            <tspan dy="4" x="0">7</tspan>
+                          </text>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g id="plot_01.toplevel.vp::plot_01..1"/>
+      </g>
+    </g>
+  </g>
+</svg>

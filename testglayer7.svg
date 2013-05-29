@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="ISO8859-1"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="683px" height="391px" viewBox="0 0 683 391" version="1.1">
+  <metadata xmlns:gridsvg="http://www.stat.auckland.ac.nz/~paul/R/gridSVG/">
+    <gridsvg:generator name="gridSVG" version="1.2-0" time="2013-05-29 10:48:29"/>
+    <gridsvg:argument name="name" value="testglayer7.svg"/>
+    <gridsvg:argument name="exportCoords" value="none"/>
+    <gridsvg:argument name="exportMappings" value="none"/>
+    <gridsvg:argument name="exportJS" value="none"/>
+    <gridsvg:argument name="res" value="72"/>
+    <gridsvg:argument name="prefix" value=""/>
+    <gridsvg:argument name="addClasses" value="FALSE"/>
+    <gridsvg:argument name="indent" value="TRUE"/>
+    <gridsvg:argument name="htmlWrapper" value="FALSE"/>
+    <gridsvg:argument name="usePaths" value="vpPaths"/>
+    <gridsvg:argument name="uniqueNames" value="TRUE"/>
+    <gridsvg:separator name="id.sep" value="."/>
+    <gridsvg:separator name="gPath.sep" value="::"/>
+    <gridsvg:separator name="vpPath.sep" value="::"/>
+  </metadata>
+  <g transform="translate(0, 391) scale(1, -1)">
+    <g id="gridSVG" fill="none" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="1" font-size="16" font-family="Helvetica, Arial, FreeSans, Liberation Sans, Nimbus Sans L, sans-serif" opacity="1" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-opacity="1" fill-opacity="0" font-weight="normal" font-style="normal">
+      <g id="plot_01.background.1">
+        <rect id="plot_01.background.1.1" x="0" y="0" width="683" height="391" fill="none" stroke="none" stroke-opacity="0" fill-opacity="0"/>
+      </g>
+      <g id="plot_01.toplevel.vp.1" font-size="12">
+        <g id="plot_01.toplevel.vp::plot_01.xlab.vp.1">
+          <g id="plot_01.xlab.1">
+            <g id="plot_01.xlab.1.1" transform="translate(355, 17)" stroke-width="0.1">
+              <g transform="scale(1, -1)">
+                <text x="0" y="0" text-anchor="middle" opacity="1" stroke="rgb(0,0,0)" stroke-opacity="1" fill="rgb(0,0,0)" fill-opacity="1" font-size="12" font-weight="normal" font-style="normal">
+                  <tspan dy="5" x="0">Freq</tspan>
+                </text>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g id="plot_01.toplevel.vp::plot_01.figure.vp.1"/>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.1.1.vp.1.clipPath">
+            <rect x="50.34" y="53.01" width="609.32" height="302.98" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.1.1.vp.1" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.1.1.vp.1.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.1.1.off.vp.1">
+          <g id="plot_01.ticks.top.panel.1.1.1">
+            <polyline id="plot_01.ticks.top.panel.1.1.1.1" points="186.64,355.99 186.64,361.66" stroke="rgb(0,0,0)" opacity="1" stroke-dasharray="none" stroke-width="1" stroke-opacity="1" fill="none"/>
+            <polyline id="plot_01.ticks.top.panel.1.1.1.2" points="357.13,355.99 357.13,361.66" stroke="rgb(0,0,0)" opacity="1" stroke-dasharray="none" stroke-width="1" stroke-opacity="1" fill="none"/>
+            <polyline id="plot_01.ticks.top.panel.1.1.1.3" points="527.62,355.99 527.62,361.66" stroke="rgb(0,0,0)" opacity="1" stroke-dasharray="none" stroke-width="1" stroke-opacity="1" fill="none"/>
+          </g>
+        </g>
+        <g id="plot_01.toplevel.vp::plot_01.strip.left.1.1.off.vp.1">
+          <g id="plot_01.ticklabels.left.panel.1.1.1">
+            <g id="plot_01.ticklabels.left.panel.1.1.1.1" transform="translate(44.67, 87.97)" stroke-width="0.1">
+              <g transform="scale(1, -1)">
+                <text x="0" y="0" text-anchor="end" stroke="rgb(0,0,0)" opacity="1" stroke-opacity="1" fill="rgb(0,0,0)" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                  <tspan dy="4" x="0">50-54</tspan>
+                </text>
+              </g>
+            </g>
+            <g id="plot_01.ticklabels.left.panel.1.1.1.2" transform="translate(44.67, 146.23)" stroke-width="0.1">
+              <g transform="scale(1, -1)">
+                <text x="0" y="0" text-anchor="end" stroke="rgb(0,0,0)" opacity="1" stroke-opacity="1" fill="rgb(0,0,0)" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                  <tspan dy="4" x="0">55-59</tspan>
+                </text>
+              </g>
+            </g>
+            <g id="plot_01.ticklabels.left.panel.1.1.1.3" transform="translate(44.67, 204.5)" stroke-width="0.1">
+              <g transform="scale(1, -1)">
+                <text x="0" y="0" text-anchor="end" stroke="rgb(0,0,0)" opacity="1" stroke-opacity="1" fill="rgb(0,0,0)" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                  <tspan dy="4" x="0">60-64</tspan>
+                </text>
+              </g>
+            </g>
+            <g id="plot_01.ticklabels.left.panel.1.1.1.4" transform="translate(44.67, 262.77)" stroke-width="0.1">
+              <g transform="scale(1, -1)">
+                <text x="0" y="0" text-anchor="end" stroke="rgb(0,0,0)" opacity="1" stroke-opacity="1" fill="rgb(0,0,0)" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                  <tspan dy="4" x="0">65-69</tspan>
+                </text>
+              </g>
+            </g>
+            <g id="plot_01.ticklabels.left.panel.1.1.1.5" transform="translate(44.67, 321.03)" stroke-width="0.1">
+              <g transform="scale(1, -1)">
+                <text x="0" y="0" text-anchor="end" stroke="rgb(0,0,0)" opacity="1" stroke-opacity="1" fill="rgb(0,0,0)" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                  <tspan dy="4" x="0">70-74</tspan>
+                </text>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g id="plot_01.toplevel.vp::plot_01.panel.1.1.off.vp.1">
+          <g id="plot_01.ticks.bottom.panel.1.1.1">
+            <polyline id="plot_01.ticks.bottom.panel.1.1.1.1" points="186.64,53.01 186.64,47.34" stroke="rgb(0,0,0)" opacity="1" stroke-dasharray="none" stroke-width="1" stroke-opacity="1" fill="none"/>
+            <polyline id="plot_01.ticks.bottom.panel.1.1.1.2" points="357.13,53.01 357.13,47.34" stroke="rgb(0,0,0)" opacity="1" stroke-dasharray="none" stroke-width="1" stroke-opacity="1" fill="none"/>
+            <polyline id="plot_01.ticks.bottom.panel.1.1.1.3" points="527.62,53.01 527.62,47.34" stroke="rgb(0,0,0)" opacity="1" stroke-dasharray="none" stroke-width="1" stroke-opacity="1" fill="none"/>
+          </g>
+          <g id="plot_01.ticklabels.bottom.panel.1.1.1">
+            <g id="plot_01.ticklabels.bottom.panel.1.1.1.1" transform="translate(186.64, 41.67)" stroke-width="0.1">
+              <g transform="scale(1, -1)">
+                <text x="0" y="0" text-anchor="middle" stroke="rgb(0,0,0)" opacity="1" stroke-opacity="1" fill="rgb(0,0,0)" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                  <tspan dy="8" x="0">20</tspan>
+                </text>
+              </g>
+            </g>
+            <g id="plot_01.ticklabels.bottom.panel.1.1.1.2" transform="translate(357.13, 41.67)" stroke-width="0.1">
+              <g transform="scale(1, -1)">
+                <text x="0" y="0" text-anchor="middle" stroke="rgb(0,0,0)" opacity="1" stroke-opacity="1" fill="rgb(0,0,0)" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                  <tspan dy="8" x="0">40</tspan>
+                </text>
+              </g>
+            </g>
+            <g id="plot_01.ticklabels.bottom.panel.1.1.1.3" transform="translate(527.62, 41.67)" stroke-width="0.1">
+              <g transform="scale(1, -1)">
+                <text x="0" y="0" text-anchor="middle" stroke="rgb(0,0,0)" opacity="1" stroke-opacity="1" fill="rgb(0,0,0)" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                  <tspan dy="8" x="0">60</tspan>
+                </text>
+              </g>
+            </g>
+          </g>
+        </g>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.1.1.vp.2.clipPath">
+            <rect x="50.34" y="53.01" width="609.32" height="302.98" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.1.1.vp.2" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.1.1.vp.2.clipPath)">
+          <g id="plot_01.dotplot.abline.h.panel.1.1.1">
+            <polyline id="plot_01.dotplot.abline.h.panel.1.1.1.1" points="50.34,87.97 659.66,87.97" stroke="rgb(230,230,230)" stroke-dasharray="none" stroke-width="1" opacity="1" stroke-opacity="1" fill="none"/>
+            <polyline id="plot_01.dotplot.abline.h.panel.1.1.1.2" points="50.34,146.23 659.66,146.23" stroke="rgb(230,230,230)" stroke-dasharray="none" stroke-width="1" opacity="1" stroke-opacity="1" fill="none"/>
+            <polyline id="plot_01.dotplot.abline.h.panel.1.1.1.3" points="50.34,204.5 659.66,204.5" stroke="rgb(230,230,230)" stroke-dasharray="none" stroke-width="1" opacity="1" stroke-opacity="1" fill="none"/>
+            <polyline id="plot_01.dotplot.abline.h.panel.1.1.1.4" points="50.34,262.77 659.66,262.77" stroke="rgb(230,230,230)" stroke-dasharray="none" stroke-width="1" opacity="1" stroke-opacity="1" fill="none"/>
+            <polyline id="plot_01.dotplot.abline.h.panel.1.1.1.5" points="50.34,321.03 659.66,321.03" stroke="rgb(230,230,230)" stroke-dasharray="none" stroke-width="1" opacity="1" stroke-opacity="1" fill="none"/>
+          </g>
+          <g id="plot_01.xyplot.points.group.1.panel.1.1.1">
+            <defs>
+              <symbol id="gridSVG.pch1" viewBox="-5 -5 10 10" overflow="visible">
+                <circle cx="0" cy="0" r="3.75"/>
+              </symbol>
+            </defs>
+            <use id="plot_01.xyplot.points.group.1.panel.1.1.1.1" xlink:href="#gridSVG.pch1" x="115.88" y="87.97" width="12" height="12" transform="translate(-6,-6)" stroke="rgb(0,128,255)" stroke-width="1" opacity="1" fill="none" font-size="6.4" stroke-opacity="1" fill-opacity="0" font-weight="normal" font-style="normal"/>
+            <use id="plot_01.xyplot.points.group.1.panel.1.1.1.2" xlink:href="#gridSVG.pch1" x="170.44" y="146.23" width="12" height="12" transform="translate(-6,-6)" stroke="rgb(0,128,255)" stroke-width="1" opacity="1" fill="none" font-size="6.4" stroke-opacity="1" fill-opacity="0" font-weight="normal" font-style="normal"/>
+            <use id="plot_01.xyplot.points.group.1.panel.1.1.1.3" xlink:href="#gridSVG.pch1" x="245.46" y="204.5" width="12" height="12" transform="translate(-6,-6)" stroke="rgb(0,128,255)" stroke-width="1" opacity="1" fill="none" font-size="6.4" stroke-opacity="1" fill-opacity="0" font-weight="normal" font-style="normal"/>
+            <use id="plot_01.xyplot.points.group.1.panel.1.1.1.4" xlink:href="#gridSVG.pch1" x="365.66" y="262.77" width="12" height="12" transform="translate(-6,-6)" stroke="rgb(0,128,255)" stroke-width="1" opacity="1" fill="none" font-size="6.4" stroke-opacity="1" fill-opacity="0" font-weight="normal" font-style="normal"/>
+            <use id="plot_01.xyplot.points.group.1.panel.1.1.1.5" xlink:href="#gridSVG.pch1" x="578.77" y="321.03" width="12" height="12" transform="translate(-6,-6)" stroke="rgb(0,128,255)" stroke-width="1" opacity="1" fill="none" font-size="6.4" stroke-opacity="1" fill-opacity="0" font-weight="normal" font-style="normal"/>
+          </g>
+          <g id="plot_01.xyplot.lines.group.1.panel.1.1.1">
+            <polyline id="plot_01.xyplot.lines.group.1.panel.1.1.1.1" points="115.88,87.97 170.44,146.23 245.46,204.5 365.66,262.77 578.77,321.03" stroke-dasharray="none" stroke="rgb(0,128,255)" stroke-width="1" opacity="1" stroke-opacity="1" fill="none"/>
+          </g>
+          <g id="plot_01.xyplot.points.group.2.panel.1.1.1">
+            <use id="plot_01.xyplot.points.group.2.panel.1.1.1.1" xlink:href="#gridSVG.pch1" x="90.31" y="87.97" width="12" height="12" transform="translate(-6,-6)" stroke="rgb(255,0,255)" stroke-width="1" opacity="1" fill="none" font-size="6.4" stroke-opacity="1" fill-opacity="0" font-weight="normal" font-style="normal"/>
+            <use id="plot_01.xyplot.points.group.2.panel.1.1.1.2" xlink:href="#gridSVG.pch1" x="115.88" y="146.23" width="12" height="12" transform="translate(-6,-6)" stroke="rgb(255,0,255)" stroke-width="1" opacity="1" fill="none" font-size="6.4" stroke-opacity="1" fill-opacity="0" font-weight="normal" font-style="normal"/>
+            <use id="plot_01.xyplot.points.group.2.panel.1.1.1.3" xlink:href="#gridSVG.pch1" x="189.2" y="204.5" width="12" height="12" transform="translate(-6,-6)" stroke="rgb(255,0,255)" stroke-width="1" opacity="1" fill="none" font-size="6.4" stroke-opacity="1" fill-opacity="0" font-weight="normal" font-style="normal"/>
+            <use id="plot_01.xyplot.points.group.2.panel.1.1.1.4" xlink:href="#gridSVG.pch1" x="279.56" y="262.77" width="12" height="12" transform="translate(-6,-6)" stroke="rgb(255,0,255)" stroke-width="1" opacity="1" fill="none" font-size="6.4" stroke-opacity="1" fill-opacity="0" font-weight="normal" font-style="normal"/>
+            <use id="plot_01.xyplot.points.group.2.panel.1.1.1.5" xlink:href="#gridSVG.pch1" x="479.03" y="321.03" width="12" height="12" transform="translate(-6,-6)" stroke="rgb(255,0,255)" stroke-width="1" opacity="1" fill="none" font-size="6.4" stroke-opacity="1" fill-opacity="0" font-weight="normal" font-style="normal"/>
+          </g>
+          <g id="plot_01.xyplot.lines.group.2.panel.1.1.1">
+            <polyline id="plot_01.xyplot.lines.group.2.panel.1.1.1.1" points="90.31,87.97 115.88,146.23 189.2,204.5 279.56,262.77 479.03,321.03" stroke-dasharray="none" stroke="rgb(255,0,255)" stroke-width="1" opacity="1" stroke-opacity="1" fill="none"/>
+          </g>
+          <g id="plot_01.xyplot.points.group.3.panel.1.1.1">
+            <use id="plot_01.xyplot.points.group.3.panel.1.1.1.1" xlink:href="#gridSVG.pch1" x="147.43" y="87.97" width="12" height="12" transform="translate(-6,-6)" stroke="rgb(0,100,0)" stroke-width="1" opacity="1" fill="none" font-size="6.4" stroke-opacity="1" fill-opacity="0" font-weight="normal" font-style="normal"/>
+            <use id="plot_01.xyplot.points.group.3.panel.1.1.1.2" xlink:href="#gridSVG.pch1" x="223.29" y="146.23" width="12" height="12" transform="translate(-6,-6)" stroke="rgb(0,100,0)" stroke-width="1" opacity="1" fill="none" font-size="6.4" stroke-opacity="1" fill-opacity="0" font-weight="normal" font-style="normal"/>
+            <use id="plot_01.xyplot.points.group.3.panel.1.1.1.3" xlink:href="#gridSVG.pch1" x="331.56" y="204.5" width="12" height="12" transform="translate(-6,-6)" stroke="rgb(0,100,0)" stroke-width="1" opacity="1" fill="none" font-size="6.4" stroke-opacity="1" fill-opacity="0" font-weight="normal" font-style="normal"/>
+            <use id="plot_01.xyplot.points.group.3.panel.1.1.1.4" xlink:href="#gridSVG.pch1" x="481.59" y="262.77" width="12" height="12" transform="translate(-6,-6)" stroke="rgb(0,100,0)" stroke-width="1" opacity="1" fill="none" font-size="6.4" stroke-opacity="1" fill-opacity="0" font-weight="normal" font-style="normal"/>
+            <use id="plot_01.xyplot.points.group.3.panel.1.1.1.5" xlink:href="#gridSVG.pch1" x="622.25" y="321.03" width="12" height="12" transform="translate(-6,-6)" stroke="rgb(0,100,0)" stroke-width="1" opacity="1" fill="none" font-size="6.4" stroke-opacity="1" fill-opacity="0" font-weight="normal" font-style="normal"/>
+          </g>
+          <g id="plot_01.xyplot.lines.group.3.panel.1.1.1">
+            <polyline id="plot_01.xyplot.lines.group.3.panel.1.1.1.1" points="147.43,87.97 223.29,146.23 331.56,204.5 481.59,262.77 622.25,321.03" stroke-dasharray="none" stroke="rgb(0,100,0)" stroke-width="1" opacity="1" stroke-opacity="1" fill="none"/>
+          </g>
+          <g id="plot_01.xyplot.points.group.4.panel.1.1.1">
+            <use id="plot_01.xyplot.points.group.4.panel.1.1.1.1" xlink:href="#gridSVG.pch1" x="87.75" y="87.97" width="12" height="12" transform="translate(-6,-6)" stroke="rgb(255,0,0)" stroke-width="1" opacity="1" fill="none" font-size="6.4" stroke-opacity="1" fill-opacity="0" font-weight="normal" font-style="normal"/>
+            <use id="plot_01.xyplot.points.group.4.panel.1.1.1.2" xlink:href="#gridSVG.pch1" x="132.08" y="146.23" width="12" height="12" transform="translate(-6,-6)" stroke="rgb(255,0,0)" stroke-width="1" opacity="1" fill="none" font-size="6.4" stroke-opacity="1" fill-opacity="0" font-weight="normal" font-style="normal"/>
+            <use id="plot_01.xyplot.points.group.4.panel.1.1.1.3" xlink:href="#gridSVG.pch1" x="180.67" y="204.5" width="12" height="12" transform="translate(-6,-6)" stroke="rgb(255,0,0)" stroke-width="1" opacity="1" fill="none" font-size="6.4" stroke-opacity="1" fill-opacity="0" font-weight="normal" font-style="normal"/>
+            <use id="plot_01.xyplot.points.group.4.panel.1.1.1.4" xlink:href="#gridSVG.pch1" x="315.36" y="262.77" width="12" height="12" transform="translate(-6,-6)" stroke="rgb(255,0,0)" stroke-width="1" opacity="1" fill="none" font-size="6.4" stroke-opacity="1" fill-opacity="0" font-weight="normal" font-style="normal"/>
+            <use id="plot_01.xyplot.points.group.4.panel.1.1.1.5" xlink:href="#gridSVG.pch1" x="442.38" y="321.03" width="12" height="12" transform="translate(-6,-6)" stroke="rgb(255,0,0)" stroke-width="1" opacity="1" fill="none" font-size="6.4" stroke-opacity="1" fill-opacity="0" font-weight="normal" font-style="normal"/>
+          </g>
+          <g id="plot_01.xyplot.lines.group.4.panel.1.1.1">
+            <polyline id="plot_01.xyplot.lines.group.4.panel.1.1.1.1" points="87.75,87.97 132.08,146.23 180.67,204.5 315.36,262.77 442.38,321.03" stroke-dasharray="none" stroke="rgb(255,0,0)" stroke-width="1" opacity="1" stroke-opacity="1" fill="none"/>
+          </g>
+        </g>
+        <g id="plot_01.toplevel.vp::plot_01.panel.1.1.off.vp.2">
+          <g id="plot_01.border.panel.1.1.1">
+            <rect id="plot_01.border.panel.1.1.1.1" x="50.34" y="53.01" width="609.32" height="302.98" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="1" opacity="1" fill="none" stroke-opacity="1" fill-opacity="0"/>
+          </g>
+        </g>
+        <g id="plot_01.toplevel.vp::plot_01..1"/>
+      </g>
+    </g>
+  </g>
+</svg>
