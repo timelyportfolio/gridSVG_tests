@@ -24,9 +24,9 @@
                  .attr("fill", function (d) {
                  return this.attributes["stroke"].value;
                  })
-                 .attr("width", "6")
-                 .attr("height", "6")
-                 .attr("transform", "translate(-3,-3)");
+                 .attr("width", "8")
+                 .attr("height", "8")
+                 .attr("transform", "translate(-4,-4)");
                  
                  points.on("click", function (d) { alert(d.x + " " + d.group + " " + d.y) });
                  
@@ -76,8 +76,8 @@
                  //bind y axis labels to the data or do differently and inspect the text for the value
                  var ylabels = d3.selectAll('[id*="ticklabels.left.panel"] text');
                  ylabels
-                 .attr("font-size", "4")
-                 .attr("y", "-3");
+                 .attr("font-size", "8")
+                 .attr("y", "-2");
                  
                  var ylabelsdata = Array();
                  ylabels[0].forEach(function (d, i) {
