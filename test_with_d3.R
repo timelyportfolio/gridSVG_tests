@@ -4,6 +4,7 @@ require(rjson)
 require(devtools)
 setwd("c:/users/kent.tleavell_nt/dropbox/development/r/gridsvg/pkg")
 load_all()
+setwd("c:/users/kent.tleavell_nt/dropbox/development/r/gridsvg_tests")
 
 p1 <- dotplot(
   variety ~ yield | site,
@@ -48,13 +49,75 @@ getlist <- function(p) {
     list(
       strips = p$condlevels,
       groups = unique(unlist(groups)),
-      data = data
+      data = rapply(
+        data,
+        f=function(x){
+          return(
+            if(is.factor(x)){
+              factor(gsub(x, pattern="[.]", replacement=""))
+            } else x
+          )
+        },
+        how="replace"
+      )
     )
   )
 }
 
+rapply(
+  p1$panel.args,
+  f=function(x){
+    return(
+      if(is.factor(x)){
+        factor(gsub(x, pattern="[.]", replacement=""))
+      } else x
+    )
+  },
+  how="replace"
+)
+
 setwd("c:/users/kent.tleavell_nt/dropbox/development/r/gridsvg_tests")
 p1
-grid.export( "d3test.svg", addClasses = TRUE )
 
-toJSON( getlist( p1 ) )
+
+
+htmlbegin <- '
+<!DOCTYPE html>
+<meta charset="utf-8">
+<html>
+  <head>
+    <style>
+    </style>
+    <script src = "js/d3.v3.js"></script>
+  </head>
+
+  <body>
+'
+
+exportlist <- grid.export( "d3test.svg", addClasses = TRUE )
+
+data <- toJSON( getlist( p1 ) )
+
+jscode <- c(
+  '
+      <script>
+        var data = 
+    ',
+    data
+)
+
+htmlend <- '</script>\n</body>\n<html>'
+
+
+htmlfile <- file("d3test_fromR.html", "wt")
+writeLines(
+  con = htmlfile,
+  text = paste0(c(
+    htmlbegin,
+    saveXML(exportlist[[1]]),
+    jscode,
+    readLines("d3testcode.js"),
+    htmlend
+  ))
+)
+close(htmlfile)
