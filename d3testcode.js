@@ -28,7 +28,7 @@
                  .attr("height", "8")
                  .attr("transform", "translate(-4,-4)");
                  
-                 points.on("click", function (d) { alert(d.x + " " + d.group + " " + d.y) });
+                 points.on("click", function (d) { debugger;alert(d.x + " " + d.group + " " + d.y) });
                  
                  //if we want to move points then we need to preserve the old location
                  //but this does not work and will need to get the values

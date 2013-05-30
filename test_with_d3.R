@@ -6,14 +6,27 @@ setwd("c:/users/kent.tleavell_nt/dropbox/development/r/gridsvg/pkg")
 load_all()
 setwd("c:/users/kent.tleavell_nt/dropbox/development/r/gridsvg_tests")
 
+
+x11( width = 5, height = 10 )
+#will need to work through this behavior
+#trellis object groups might be in a different order than panel.args
+#either fix this in data each time or add a test in the export of the trellis object
+barley$year <- factor(barley$year,levels = c("1931","1932"))
+
 p1 <- dotplot(
   variety ~ yield | site,
   data = barley,
   groups = year,
+  pch = 19,
   key = simpleKey(levels(barley$year), space = "right"),
   xlab = "Barley Yield (bushels/acre) ",
   aspect=0.5, layout = c(1,6),
-  ylab=NULL
+  ylab=NULL,
+  scales = list(
+    x = list(
+      tck = c(1,0)
+    )
+  )
 )
 
 #set up a function to pull the groups
@@ -49,32 +62,22 @@ getlist <- function(p) {
     list(
       strips = p$condlevels,
       groups = unique(unlist(groups)),
-      data = rapply(
-        data,
-        f=function(x){
-          return(
-            if(is.factor(x)){
-              factor(gsub(x, pattern="[.]", replacement=""))
-            } else x
-          )
-        },
-        how="replace"
-      )
+      data = data
+#        rapply(
+#        data,
+#        f=function(x){
+#          return(
+#            if(is.factor(x)){
+#              factor(gsub(x, pattern="[.]", replacement=""))
+#            } else x
+#          )
+#        },
+#        how="replace"
+#      )
     )
   )
 }
 
-rapply(
-  p1$panel.args,
-  f=function(x){
-    return(
-      if(is.factor(x)){
-        factor(gsub(x, pattern="[.]", replacement=""))
-      } else x
-    )
-  },
-  how="replace"
-)
 
 setwd("c:/users/kent.tleavell_nt/dropbox/development/r/gridsvg_tests")
 p1
