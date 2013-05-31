@@ -453,12 +453,12 @@
       function mousemove() {
         var x0 = d3.mouse(this)[0];
         d3.entries(data.groups).forEach(function (group, i1) {
-          var i = bisectDate( pointsToArray(g.select("polyline").attr("points"), pointsdata), x0, 1)//,
+          var i = bisectDate( g.select("path").datum(), x0, 1)//,
                         //d0 = group[i1][i - 1],
                         //d1 = group[i1][i];
 
           var d;
-          d = pointsToArray(g.select("polyline").attr("points"), pointsdata)[i];
+          d = g.select("path").datum()[i];
           //if (Boolean(d1)) { d = x0 - d0.x > d1.x - x0 ? d1 : d0 } else { d = d0 };
           d3.select("#focus-" + i1)
             .attr("transform", "translate(" + d.x + "," + ((+d3.select("rect").attr("height")) - d.y) + ")")
