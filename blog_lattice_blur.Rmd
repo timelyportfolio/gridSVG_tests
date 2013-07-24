@@ -2,9 +2,8 @@
 require(lattice)
 require(gridSVG)
 
-trellis.par.set(superpose.symbol=list(pch=21, fill=rgb(1,1,1,.5)),
-                background=list(col="grey90"),
-                panel.background=list(col="grey90"))
+#just for fun use one of the themes from latticeExtra
+trellis.par.set(theEconomist.theme())
 xyplot(Sepal.Length + Sepal.Width ~ Petal.Length + Petal.Width | Species,
        data = iris, scales = "free", layout = c(2, 2),
        auto.key = list(x = .55, y = .7, corner = c(0, 0)))
@@ -33,6 +32,26 @@ cat(
 )
 ```
 but I think the use case would favor writing the script as below.
+```
+function highlight(i) {
+    for (row=1; row<3; row++) {
+        for (col=1; col<3; col++) {
+            for (j=1; j<5; j++) {
+                var target = 
+                    document.getElementById("plot_01.xyplot.points.group." 
+                                            + j + ".panel." + 
+                                            row + "." + col + ".1");
+                if (i == j) {
+                    target.setAttribute("filter", "none");            
+                } else {
+                    target.setAttribute("filter", "url(#point-blur.1)");
+                }
+            }
+        }
+    }
+}
+```
+
 
 <script>
 function highlight(i) {
@@ -52,4 +71,5 @@ function highlight(i) {
         }
     }
 }
+
 </script>
