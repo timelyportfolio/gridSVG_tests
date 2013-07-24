@@ -17,10 +17,12 @@ p1 <- xyplot(
   japanReserves,
   scales = list(y = list(rot = 1)),
   lattice.options = theEconomist.opts(),
+  par.settings = theEconomist.theme(box="transparent"),
   main = "Japan Foreign Reserves excluding Gold"
 )
 
 p1
 
+#update(p1,panel=panel.xyarea)
 
-grid.export("d3testline.svg", addClasses = TRUE)
+grid.export("d3testarea.svg", addClasses = TRUE)

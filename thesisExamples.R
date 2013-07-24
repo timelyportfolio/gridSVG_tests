@@ -1,0 +1,33 @@
+
+install.packages(c("ggplot2", "selectr", "hexbin", "shiny", "Rook", "httpuv"))
+install.packages("httpuv", repos=c(RStudio="http://rstudio.org/_packages", CRAN="http://cran.rstudio.com/"))
+
+require(devtools)
+install_github(user = "pmur002", repo = "animaker")
+setwd("c:/users/kent.tleavell_nt/dropbox/development/r/gridsvg/pkg")
+build()
+load_all()
+install_github(user = "sjp", repo = "sjpMScThesis")
+
+
+
+require(ggplot2)
+require(selectr)
+require(hexbin)
+require(shiny)
+require(Rook)
+require(XML)
+require(sjpMScThesis)
+listThesisExamples()
+thesisExample("loess")
+thesisExample("loessShiny")
+stopThesisExample()
+thesisExample("arima")
+stopThesisExample()
+thesisExample("hexbin")
+stopThesisExample()
+listThesisExamples()
+thesisExample("mds")
+stopThesisExample()
+thesisExample("sampvar")
+stopThesisExample()
