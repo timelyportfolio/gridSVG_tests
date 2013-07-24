@@ -23,6 +23,8 @@ for (i in legendSymbols) {
 
 grid.export("")$svg
 ```
+<script>
 ```{r results = "asis"}
-cat("<script>",readLines("C:/Users/Kent.TLEAVELL_NT/Dropbox/development/r/gridSVG_tests/highlight-blur.js"),"</script>")
+cat(readLines("C:/Users/Kent.TLEAVELL_NT/Dropbox/development/r/gridSVG_tests/highlight-blur.js"))
 ```
+</script>
