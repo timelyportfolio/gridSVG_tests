@@ -1,8 +1,15 @@
+# gridSVG + open_notebook()
+
+The [blog posts about `gridSVG`](http://stattech.wordpress.fos.auckland.ac.nz/) offer some very fine examples.  I thought combining these with `rCharts` and `slidify` would provide a powerful combination.  Here are some quick experiments adding another layer of interactivity with `open_notebook()`.
+
+## Example 1 - Filters in Statistical Graphics
+
 ```{r results='asis', cache = F, fig.keep='none'}
-require(lattice)
+require(latticeExtra)
 require(gridSVG)
 
 #just for fun use one of the themes from latticeExtra
+tp<-trellis.par.get()
 trellis.par.set(theEconomist.theme())
 xyplot(Sepal.Length + Sepal.Width ~ Petal.Length + Petal.Width | Species,
        data = iris, scales = "free", layout = c(2, 2),
@@ -73,3 +80,66 @@ function highlight(i) {
 }
 
 </script>
+
+
+
+## Example 2 - Gradient Fills in Statistical Graphics
+```{r results='asis', cache = F, fig.keep='none',eval=FALSE}
+xyplot(y ~ x, ylim=extendrange(c(y+delta, y-delta)), 
+       pch=21, col="white", bg="black",
+       panel=function(x, y, ...) {
+           lrect(x-barwidth, y-delta, x+barwidth, y+delta,
+                 border="transparent",
+                 identifier="bar")
+           panel.xyplot(x, y, ...)
+       })
+lg <- linearGradient(c("white", "black", "white"),
+                     x0=.5, y0=0, x1=.5, y1=1)
+registerGradientFill("lg", lg)
+grid.gradientFill("bar.rect", label=rep("lg", 10), 
+                  grep=TRUE, group=FALSE)
+grid.export("")$svg
+```
+
+```{r results='asis', cache = F, fig.keep='none'}
+trellis.par.set(ggplot2like())
+plotdat <- aggregate(hp ~ gear + vs, data = mtcars, mean)
+plotdat$gear <- factor(plotdat$gear)
+plotdat$vs <- factor(plotdat$vs)
+barchart(hp ~ gear, groups = vs, data = plotdat,
+         xlab = "Number of Gears", ylab = "Mean Horsepower",
+         auto.key = list(space = "right"), horizontal = FALSE)
+fills <- c("#CCFFFF", "#FFCCFF")
+val0pat <- pattern(gTree(children=gList(
+                             rectGrob(gp=gpar(col=NA, fill=fills[1])),
+                             linesGrob(gp=gpar(col="black")))),
+                   width = unit(2, "mm"), height = unit(2, "mm"),
+                   dev.width = 1, dev.height = 1)
+val1pat <- pattern(gTree(children=gList(
+                             rectGrob(gp=gpar(col=NA, fill=fills[2])),
+                             filterGrob(circleGrob(r=.4, gp=gpar(lwd=5)), 
+                                        filterEffect(feGaussianBlur(sd=10))))),
+                   width = unit(2, "mm"), height = unit(2, "mm"),
+                   dev.width = 1, dev.height = 1)
+grid.export("")$svg
+```
+
+```{r results='asis', cache = F, fig.keep='none'}
+require(quantmod)
+japanReserves <- getSymbols(
+  "TRESEGJPM052N",
+  src = "FRED",
+  auto.assign = FALSE
+)
+
+p1 <- xyplot(
+  japanReserves,
+  scales = list(y = list(rot = 1)),
+  lattice.options = theEconomist.opts(),
+  par.settings = theEconomist.theme(box="transparent"),
+  main = "Japan Foreign Reserves excluding Gold"
+)
+
+p1
+grid.export("")$svg
+```
