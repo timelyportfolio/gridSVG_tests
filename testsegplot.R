@@ -1,3 +1,6 @@
+library(latticeExtra)
+library(gridSVG)
+
 #documentation of seqplot
 
 #markers don't show on 5
