@@ -1,0 +1,584 @@
+<?xml version="1.0" encoding="ISO8859-1"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="766px" height="587px" viewBox="0 0 766 587" version="1.1">
+  <metadata xmlns:gridsvg="http://www.stat.auckland.ac.nz/~paul/R/gridSVG/">
+    <gridsvg:generator name="gridSVG" version="1.3-1" time="2013-09-23 11:31:54"/>
+    <gridsvg:argument name="name" value="testhexbin.svg"/>
+    <gridsvg:argument name="exportCoords" value="none"/>
+    <gridsvg:argument name="exportMappings" value="none"/>
+    <gridsvg:argument name="exportJS" value="none"/>
+    <gridsvg:argument name="res" value="100"/>
+    <gridsvg:argument name="prefix" value=""/>
+    <gridsvg:argument name="addClasses" value="TRUE"/>
+    <gridsvg:argument name="indent" value="TRUE"/>
+    <gridsvg:argument name="htmlWrapper" value="FALSE"/>
+    <gridsvg:argument name="usePaths" value="vpPaths"/>
+    <gridsvg:argument name="uniqueNames" value="TRUE"/>
+    <gridsvg:separator name="id.sep" value="."/>
+    <gridsvg:separator name="gPath.sep" value="::"/>
+    <gridsvg:separator name="vpPath.sep" value="::"/>
+  </metadata>
+  <g transform="translate(0, 587) scale(1, -1)">
+    <g id="gridSVG" fill="rgb(255,255,255)" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="1.04" font-size="16.67" font-family="Helvetica, Arial, FreeSans, Liberation Sans, Nimbus Sans L, sans-serif" opacity="1" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-opacity="1" fill-opacity="1" font-weight="normal" font-style="normal">
+      <g id="qkuqd.off.1" class="pushedvp viewport">
+        <g id="GRID.rect.300.1" class="rect grob gDesc">
+          <rect id="GRID.rect.300.1.1" x="141.5" y="102" width="403" height="403"/>
+        </g>
+        <g id="GRID.xaxis.301.1" class="forcedgrob xaxis axis gTree grob gDesc">
+          <g id="major.1" class="lines grob gDesc">
+            <polyline id="major.1.1" points="193.11,102 520.38,102" fill="none"/>
+          </g>
+          <g id="ticks.1" class="segments grob gDesc">
+            <polyline id="ticks.1.1" points="193.11,102 193.11,92" fill="none"/>
+            <polyline id="ticks.1.2" points="247.65,102 247.65,92" fill="none"/>
+            <polyline id="ticks.1.3" points="302.2,102 302.2,92" fill="none"/>
+            <polyline id="ticks.1.4" points="356.74,102 356.74,92" fill="none"/>
+            <polyline id="ticks.1.5" points="411.29,102 411.29,92" fill="none"/>
+            <polyline id="ticks.1.6" points="465.83,102 465.83,92" fill="none"/>
+            <polyline id="ticks.1.7" points="520.38,102 520.38,92" fill="none"/>
+          </g>
+          <g id="labels.1" class="text grob gDesc">
+            <g id="labels.1.1" transform="translate(193.11, 72)" stroke-width="0.1">
+              <g id="labels.1.1.scale" transform="scale(1, -1)">
+                <text x="0" y="0" id="labels.1.1.text" text-anchor="middle" fill="rgb(0,0,0)" fill-opacity="1">
+                  <tspan id="labels.1.1.tspan.1" dy="6.5" x="0">62</tspan>
+                </text>
+              </g>
+            </g>
+            <g id="labels.1.2" transform="translate(247.65, 72)" stroke-width="0.1">
+              <g id="labels.1.2.scale" transform="scale(1, -1)">
+                <text x="0" y="0" id="labels.1.2.text" text-anchor="middle" fill="rgb(0,0,0)" fill-opacity="1">
+                  <tspan id="labels.1.2.tspan.1" dy="6.5" x="0">64</tspan>
+                </text>
+              </g>
+            </g>
+            <g id="labels.1.3" transform="translate(302.2, 72)" stroke-width="0.1">
+              <g id="labels.1.3.scale" transform="scale(1, -1)">
+                <text x="0" y="0" id="labels.1.3.text" text-anchor="middle" fill="rgb(0,0,0)" fill-opacity="1">
+                  <tspan id="labels.1.3.tspan.1" dy="6.5" x="0">66</tspan>
+                </text>
+              </g>
+            </g>
+            <g id="labels.1.4" transform="translate(356.74, 72)" stroke-width="0.1">
+              <g id="labels.1.4.scale" transform="scale(1, -1)">
+                <text x="0" y="0" id="labels.1.4.text" text-anchor="middle" fill="rgb(0,0,0)" fill-opacity="1">
+                  <tspan id="labels.1.4.tspan.1" dy="6.5" x="0">68</tspan>
+                </text>
+              </g>
+            </g>
+            <g id="labels.1.5" transform="translate(411.29, 72)" stroke-width="0.1">
+              <g id="labels.1.5.scale" transform="scale(1, -1)">
+                <text x="0" y="0" id="labels.1.5.text" text-anchor="middle" fill="rgb(0,0,0)" fill-opacity="1">
+                  <tspan id="labels.1.5.tspan.1" dy="6.5" x="0">70</tspan>
+                </text>
+              </g>
+            </g>
+            <g id="labels.1.6" transform="translate(465.83, 72)" stroke-width="0.1">
+              <g id="labels.1.6.scale" transform="scale(1, -1)">
+                <text x="0" y="0" id="labels.1.6.text" text-anchor="middle" fill="rgb(0,0,0)" fill-opacity="1">
+                  <tspan id="labels.1.6.tspan.1" dy="6.5" x="0">72</tspan>
+                </text>
+              </g>
+            </g>
+            <g id="labels.1.7" transform="translate(520.38, 72)" stroke-width="0.1">
+              <g id="labels.1.7.scale" transform="scale(1, -1)">
+                <text x="0" y="0" id="labels.1.7.text" text-anchor="middle" fill="rgb(0,0,0)" fill-opacity="1">
+                  <tspan id="labels.1.7.tspan.1" dy="6.5" x="0">74</tspan>
+                </text>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g id="GRID.yaxis.302.1" class="forcedgrob yaxis axis gTree grob gDesc">
+          <g id="major.2" class="lines grob gDesc">
+            <polyline id="major.2.1" points="141.5,144.4 141.5,468.67" fill="none"/>
+          </g>
+          <g id="ticks.2" class="segments grob gDesc">
+            <polyline id="ticks.2.1" points="141.5,144.4 131.5,144.4" fill="none"/>
+            <polyline id="ticks.2.2" points="141.5,225.46 131.5,225.46" fill="none"/>
+            <polyline id="ticks.2.3" points="141.5,306.53 131.5,306.53" fill="none"/>
+            <polyline id="ticks.2.4" points="141.5,387.6 131.5,387.6" fill="none"/>
+            <polyline id="ticks.2.5" points="141.5,468.67 131.5,468.67" fill="none"/>
+          </g>
+          <g id="labels.2" class="text grob gDesc">
+            <g id="labels.2.1" transform="translate(121.5, 144.4)" stroke-width="0.1">
+              <g id="labels.2.1.scale" transform="scale(1, -1)">
+                <text x="0" y="0" id="labels.2.1.text" text-anchor="end" fill="rgb(0,0,0)" fill-opacity="1">
+                  <tspan id="labels.2.1.tspan.1" dy="6.5" x="0">30</tspan>
+                </text>
+              </g>
+            </g>
+            <g id="labels.2.2" transform="translate(121.5, 225.46)" stroke-width="0.1">
+              <g id="labels.2.2.scale" transform="scale(1, -1)">
+                <text x="0" y="0" id="labels.2.2.text" text-anchor="end" fill="rgb(0,0,0)" fill-opacity="1">
+                  <tspan id="labels.2.2.tspan.1" dy="6.5" x="0">32</tspan>
+                </text>
+              </g>
+            </g>
+            <g id="labels.2.3" transform="translate(121.5, 306.53)" stroke-width="0.1">
+              <g id="labels.2.3.scale" transform="scale(1, -1)">
+                <text x="0" y="0" id="labels.2.3.text" text-anchor="end" fill="rgb(0,0,0)" fill-opacity="1">
+                  <tspan id="labels.2.3.tspan.1" dy="6.5" x="0">34</tspan>
+                </text>
+              </g>
+            </g>
+            <g id="labels.2.4" transform="translate(121.5, 387.6)" stroke-width="0.1">
+              <g id="labels.2.4.scale" transform="scale(1, -1)">
+                <text x="0" y="0" id="labels.2.4.text" text-anchor="end" fill="rgb(0,0,0)" fill-opacity="1">
+                  <tspan id="labels.2.4.tspan.1" dy="6.5" x="0">36</tspan>
+                </text>
+              </g>
+            </g>
+            <g id="labels.2.5" transform="translate(121.5, 468.67)" stroke-width="0.1">
+              <g id="labels.2.5.scale" transform="scale(1, -1)">
+                <text x="0" y="0" id="labels.2.5.text" text-anchor="end" fill="rgb(0,0,0)" fill-opacity="1">
+                  <tspan id="labels.2.5.tspan.1" dy="6.5" x="0">38</tspan>
+                </text>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g id="GRID.text.303.1" class="text grob gDesc">
+          <g id="GRID.text.303.1.1" transform="translate(343, 62)" stroke-width="0.1">
+            <g id="GRID.text.303.1.1.scale" transform="scale(1, -1)">
+              <text x="0" y="0" id="GRID.text.303.1.1.text" text-anchor="middle" font-size="22.22" fill="rgb(0,0,0)" fill-opacity="1">
+                <tspan id="GRID.text.303.1.1.tspan.1" dy="8.5" x="0">lon</tspan>
+              </text>
+            </g>
+          </g>
+        </g>
+        <g id="GRID.text.304.1" class="text grob gDesc">
+          <g id="GRID.text.304.1.1" transform="translate(101.5, 303.5)" stroke-width="0.1">
+            <g id="GRID.text.304.1.1.scale" transform="scale(1, -1)">
+              <text x="0" y="0" id="GRID.text.304.1.1.text" transform="rotate(-90)" text-anchor="middle" font-size="22.22" fill="rgb(0,0,0)" fill-opacity="1">
+                <tspan id="GRID.text.304.1.1.tspan.1" dy="8.5" x="0">lat</tspan>
+              </text>
+            </g>
+          </g>
+        </g>
+      </g>
+      <defs>
+        <clipPath id="qkuqd.on.1.clipPath">
+          <rect x="141.5" y="102" width="403" height="403" fill="none" stroke="none"/>
+        </clipPath>
+      </defs>
+      <g id="qkuqd.on.1" clip-path="url(#qkuqd.on.1.clipPath)" class="pushedvp viewport">
+        <g id="GRID.polygon.305.1" class="polygon grob gDesc">
+          <polygon id="GRID.polygon.305.1.1" points="259.68,126.19 259.68,115.6 250.43,110.31 241.17,115.6 241.17,126.19 250.43,131.48" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.2" points="250.43,142.06 250.43,131.48 241.17,126.19 231.91,131.48 231.91,142.06 241.17,147.36" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.3" points="305.97,142.06 305.97,131.48 296.71,126.19 287.46,131.48 287.46,142.06 296.71,147.36" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.4" points="204.14,157.94 204.14,147.36 194.88,142.06 185.63,147.36 185.63,157.94 194.88,163.24" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.5" points="296.71,157.94 296.71,147.36 287.46,142.06 278.2,147.36 278.2,157.94 287.46,163.24" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.6" points="315.23,157.94 315.23,147.36 305.97,142.06 296.71,147.36 296.71,157.94 305.97,163.24" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.7" points="231.91,173.82 231.91,163.24 222.66,157.94 213.4,163.24 213.4,173.82 222.66,179.12" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.8" points="250.43,173.82 250.43,163.24 241.17,157.94 231.91,163.24 231.91,173.82 241.17,179.12" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.9" points="268.94,173.82 268.94,163.24 259.68,157.94 250.43,163.24 250.43,173.82 259.68,179.12" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.10" points="287.46,173.82 287.46,163.24 278.2,157.94 268.94,163.24 268.94,173.82 278.2,179.12" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.11" points="305.97,173.82 305.97,163.24 296.71,157.94 287.46,163.24 287.46,173.82 296.71,179.12" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.12" points="204.14,189.7 204.14,179.12 194.88,173.82 185.63,179.12 185.63,189.7 194.88,194.99" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.13" points="259.68,189.7 259.68,179.12 250.43,173.82 241.17,179.12 241.17,189.7 250.43,194.99" stroke="rgb(120,120,120)" fill="rgb(120,120,120)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.14" points="278.2,189.7 278.2,179.12 268.94,173.82 259.68,179.12 259.68,189.7 268.94,194.99" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.15" points="296.71,189.7 296.71,179.12 287.46,173.82 278.2,179.12 278.2,189.7 287.46,194.99" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.16" points="315.23,189.7 315.23,179.12 305.97,173.82 296.71,179.12 296.71,189.7 305.97,194.99" stroke="rgb(159,159,159)" fill="rgb(159,159,159)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.17" points="333.74,189.7 333.74,179.12 324.49,173.82 315.23,179.12 315.23,189.7 324.49,194.99" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.18" points="213.4,205.58 213.4,194.99 204.14,189.7 194.88,194.99 194.88,205.58 204.14,210.87" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.19" points="231.91,205.58 231.91,194.99 222.66,189.7 213.4,194.99 213.4,205.58 222.66,210.87" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.20" points="250.43,205.58 250.43,194.99 241.17,189.7 231.91,194.99 231.91,205.58 241.17,210.87" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.21" points="268.94,205.58 268.94,194.99 259.68,189.7 250.43,194.99 250.43,205.58 259.68,210.87" stroke="rgb(120,120,120)" fill="rgb(120,120,120)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.22" points="287.46,205.58 287.46,194.99 278.2,189.7 268.94,194.99 268.94,205.58 278.2,210.87" stroke="rgb(87,87,87)" fill="rgb(87,87,87)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.23" points="305.97,205.58 305.97,194.99 296.71,189.7 287.46,194.99 287.46,205.58 296.71,210.87" stroke="rgb(141,141,141)" fill="rgb(141,141,141)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.24" points="324.49,205.58 324.49,194.99 315.23,189.7 305.97,194.99 305.97,205.58 315.23,210.87" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.25" points="343,205.58 343,194.99 333.74,189.7 324.49,194.99 324.49,205.58 333.74,210.87" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.26" points="361.51,205.58 361.51,194.99 352.26,189.7 343,194.99 343,205.58 352.26,210.87" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.27" points="398.54,205.58 398.54,194.99 389.29,189.7 380.03,194.99 380.03,205.58 389.29,210.87" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.28" points="185.63,221.46 185.63,210.87 176.37,205.58 167.11,210.87 167.11,221.46 176.37,226.75" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.29" points="222.66,221.46 222.66,210.87 213.4,205.58 204.14,210.87 204.14,221.46 213.4,226.75" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.30" points="241.17,221.46 241.17,210.87 231.91,205.58 222.66,210.87 222.66,221.46 231.91,226.75" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.31" points="259.68,221.46 259.68,210.87 250.43,205.58 241.17,210.87 241.17,221.46 250.43,226.75" stroke="rgb(104,104,104)" fill="rgb(104,104,104)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.32" points="278.2,221.46 278.2,210.87 268.94,205.58 259.68,210.87 259.68,221.46 268.94,226.75" stroke="rgb(22,22,22)" fill="rgb(22,22,22)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.33" points="296.71,221.46 296.71,210.87 287.46,205.58 278.2,210.87 278.2,221.46 287.46,226.75" stroke="rgb(12,12,12)" fill="rgb(12,12,12)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.34" points="315.23,221.46 315.23,210.87 305.97,205.58 296.71,210.87 296.71,221.46 305.97,226.75" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.35" points="333.74,221.46 333.74,210.87 324.49,205.58 315.23,210.87 315.23,221.46 324.49,226.75" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.36" points="352.26,221.46 352.26,210.87 343,205.58 333.74,210.87 333.74,221.46 343,226.75" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.37" points="370.77,221.46 370.77,210.87 361.51,205.58 352.26,210.87 352.26,221.46 361.51,226.75" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.38" points="389.29,221.46 389.29,210.87 380.03,205.58 370.77,210.87 370.77,221.46 380.03,226.75" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.39" points="194.88,237.34 194.88,226.75 185.63,221.46 176.37,226.75 176.37,237.34 185.63,242.63" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.40" points="231.91,237.34 231.91,226.75 222.66,221.46 213.4,226.75 213.4,237.34 222.66,242.63" stroke="rgb(185,185,185)" fill="rgb(185,185,185)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.41" points="250.43,237.34 250.43,226.75 241.17,221.46 231.91,226.75 231.91,237.34 241.17,242.63" stroke="rgb(185,185,185)" fill="rgb(185,185,185)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.42" points="268.94,237.34 268.94,226.75 259.68,221.46 250.43,226.75 250.43,237.34 259.68,242.63" stroke="rgb(159,159,159)" fill="rgb(159,159,159)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.43" points="287.46,237.34 287.46,226.75 278.2,221.46 268.94,226.75 268.94,237.34 278.2,242.63" stroke="rgb(43,43,43)" fill="rgb(43,43,43)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.44" points="305.97,237.34 305.97,226.75 296.71,221.46 287.46,226.75 287.46,237.34 296.71,242.63" stroke="rgb(159,159,159)" fill="rgb(159,159,159)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.45" points="324.49,237.34 324.49,226.75 315.23,221.46 305.97,226.75 305.97,237.34 315.23,242.63" stroke="rgb(159,159,159)" fill="rgb(159,159,159)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.46" points="343,237.34 343,226.75 333.74,221.46 324.49,226.75 324.49,237.34 333.74,242.63" stroke="rgb(141,141,141)" fill="rgb(141,141,141)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.47" points="361.51,237.34 361.51,226.75 352.26,221.46 343,226.75 343,237.34 352.26,242.63" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.48" points="380.03,237.34 380.03,226.75 370.77,221.46 361.51,226.75 361.51,237.34 370.77,242.63" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.49" points="398.54,237.34 398.54,226.75 389.29,221.46 380.03,226.75 380.03,237.34 389.29,242.63" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.50" points="185.63,253.22 185.63,242.63 176.37,237.34 167.11,242.63 167.11,253.22 176.37,258.51" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.51" points="204.14,253.22 204.14,242.63 194.88,237.34 185.63,242.63 185.63,253.22 194.88,258.51" stroke="rgb(185,185,185)" fill="rgb(185,185,185)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.52" points="222.66,253.22 222.66,242.63 213.4,237.34 204.14,242.63 204.14,253.22 213.4,258.51" stroke="rgb(185,185,185)" fill="rgb(185,185,185)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.53" points="241.17,253.22 241.17,242.63 231.91,237.34 222.66,242.63 222.66,253.22 231.91,258.51" stroke="rgb(185,185,185)" fill="rgb(185,185,185)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.54" points="259.68,253.22 259.68,242.63 250.43,237.34 241.17,242.63 241.17,253.22 250.43,258.51" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.55" points="278.2,253.22 278.2,242.63 268.94,237.34 259.68,242.63 259.68,253.22 268.94,258.51" stroke="rgb(141,141,141)" fill="rgb(141,141,141)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.56" points="296.71,253.22 296.71,242.63 287.46,237.34 278.2,242.63 278.2,253.22 287.46,258.51" stroke="rgb(141,141,141)" fill="rgb(141,141,141)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.57" points="315.23,253.22 315.23,242.63 305.97,237.34 296.71,242.63 296.71,253.22 305.97,258.51" stroke="rgb(120,120,120)" fill="rgb(120,120,120)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.58" points="333.74,253.22 333.74,242.63 324.49,237.34 315.23,242.63 315.23,253.22 324.49,258.51" stroke="rgb(141,141,141)" fill="rgb(141,141,141)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.59" points="352.26,253.22 352.26,242.63 343,237.34 333.74,242.63 333.74,253.22 343,258.51" stroke="rgb(159,159,159)" fill="rgb(159,159,159)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.60" points="370.77,253.22 370.77,242.63 361.51,237.34 352.26,242.63 352.26,253.22 361.51,258.51" stroke="rgb(185,185,185)" fill="rgb(185,185,185)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.61" points="389.29,253.22 389.29,242.63 380.03,237.34 370.77,242.63 370.77,253.22 380.03,258.51" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.62" points="407.8,253.22 407.8,242.63 398.54,237.34 389.29,242.63 389.29,253.22 398.54,258.51" stroke="rgb(141,141,141)" fill="rgb(141,141,141)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.63" points="426.32,253.22 426.32,242.63 417.06,237.34 407.8,242.63 407.8,253.22 417.06,258.51" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.64" points="176.37,269.1 176.37,258.51 167.11,253.22 157.86,258.51 157.86,269.1 167.11,274.39" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.65" points="194.88,269.1 194.88,258.51 185.63,253.22 176.37,258.51 176.37,269.1 185.63,274.39" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.66" points="213.4,269.1 213.4,258.51 204.14,253.22 194.88,258.51 194.88,269.1 204.14,274.39" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.67" points="231.91,269.1 231.91,258.51 222.66,253.22 213.4,258.51 213.4,269.1 222.66,274.39" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.68" points="250.43,269.1 250.43,258.51 241.17,253.22 231.91,258.51 231.91,269.1 241.17,274.39" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.69" points="268.94,269.1 268.94,258.51 259.68,253.22 250.43,258.51 250.43,269.1 259.68,274.39" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.70" points="287.46,269.1 287.46,258.51 278.2,253.22 268.94,258.51 268.94,269.1 278.2,274.39" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.71" points="305.97,269.1 305.97,258.51 296.71,253.22 287.46,258.51 287.46,269.1 296.71,274.39" stroke="rgb(104,104,104)" fill="rgb(104,104,104)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.72" points="324.49,269.1 324.49,258.51 315.23,253.22 305.97,258.51 305.97,269.1 315.23,274.39" stroke="rgb(159,159,159)" fill="rgb(159,159,159)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.73" points="343,269.1 343,258.51 333.74,253.22 324.49,258.51 324.49,269.1 333.74,274.39" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.74" points="361.51,269.1 361.51,258.51 352.26,253.22 343,258.51 343,269.1 352.26,274.39" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.75" points="380.03,269.1 380.03,258.51 370.77,253.22 361.51,258.51 361.51,269.1 370.77,274.39" stroke="rgb(185,185,185)" fill="rgb(185,185,185)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.76" points="398.54,269.1 398.54,258.51 389.29,253.22 380.03,258.51 380.03,269.1 389.29,274.39" stroke="rgb(87,87,87)" fill="rgb(87,87,87)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.77" points="417.06,269.1 417.06,258.51 407.8,253.22 398.54,258.51 398.54,269.1 407.8,274.39" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.78" points="204.14,284.97 204.14,274.39 194.88,269.1 185.63,274.39 185.63,284.97 194.88,290.27" stroke="rgb(185,185,185)" fill="rgb(185,185,185)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.79" points="222.66,284.97 222.66,274.39 213.4,269.1 204.14,274.39 204.14,284.97 213.4,290.27" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.80" points="259.68,284.97 259.68,274.39 250.43,269.1 241.17,274.39 241.17,284.97 250.43,290.27" stroke="rgb(185,185,185)" fill="rgb(185,185,185)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.81" points="278.2,284.97 278.2,274.39 268.94,269.1 259.68,274.39 259.68,284.97 268.94,290.27" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.82" points="296.71,284.97 296.71,274.39 287.46,269.1 278.2,274.39 278.2,284.97 287.46,290.27" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.83" points="315.23,284.97 315.23,274.39 305.97,269.1 296.71,274.39 296.71,284.97 305.97,290.27" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.84" points="333.74,284.97 333.74,274.39 324.49,269.1 315.23,274.39 315.23,284.97 324.49,290.27" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.85" points="352.26,284.97 352.26,274.39 343,269.1 333.74,274.39 333.74,284.97 343,290.27" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.86" points="370.77,284.97 370.77,274.39 361.51,269.1 352.26,274.39 352.26,284.97 361.51,290.27" stroke="rgb(141,141,141)" fill="rgb(141,141,141)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.87" points="389.29,284.97 389.29,274.39 380.03,269.1 370.77,274.39 370.77,284.97 380.03,290.27" stroke="rgb(141,141,141)" fill="rgb(141,141,141)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.88" points="407.8,284.97 407.8,274.39 398.54,269.1 389.29,274.39 389.29,284.97 398.54,290.27" stroke="rgb(120,120,120)" fill="rgb(120,120,120)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.89" points="426.32,284.97 426.32,274.39 417.06,269.1 407.8,274.39 407.8,284.97 417.06,290.27" stroke="rgb(87,87,87)" fill="rgb(87,87,87)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.90" points="444.83,284.97 444.83,274.39 435.57,269.1 426.32,274.39 426.32,284.97 435.57,290.27" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.91" points="194.88,300.85 194.88,290.27 185.63,284.97 176.37,290.27 176.37,300.85 185.63,306.15" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.92" points="213.4,300.85 213.4,290.27 204.14,284.97 194.88,290.27 194.88,300.85 204.14,306.15" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.93" points="231.91,300.85 231.91,290.27 222.66,284.97 213.4,290.27 213.4,300.85 222.66,306.15" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.94" points="250.43,300.85 250.43,290.27 241.17,284.97 231.91,290.27 231.91,300.85 241.17,306.15" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.95" points="268.94,300.85 268.94,290.27 259.68,284.97 250.43,290.27 250.43,300.85 259.68,306.15" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.96" points="287.46,300.85 287.46,290.27 278.2,284.97 268.94,290.27 268.94,300.85 278.2,306.15" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.97" points="305.97,300.85 305.97,290.27 296.71,284.97 287.46,290.27 287.46,300.85 296.71,306.15" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.98" points="324.49,300.85 324.49,290.27 315.23,284.97 305.97,290.27 305.97,300.85 315.23,306.15" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.99" points="343,300.85 343,290.27 333.74,284.97 324.49,290.27 324.49,300.85 333.74,306.15" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.100" points="361.51,300.85 361.51,290.27 352.26,284.97 343,290.27 343,300.85 352.26,306.15" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.101" points="380.03,300.85 380.03,290.27 370.77,284.97 361.51,290.27 361.51,300.85 370.77,306.15" stroke="rgb(159,159,159)" fill="rgb(159,159,159)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.102" points="398.54,300.85 398.54,290.27 389.29,284.97 380.03,290.27 380.03,300.85 389.29,306.15" stroke="rgb(159,159,159)" fill="rgb(159,159,159)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.103" points="417.06,300.85 417.06,290.27 407.8,284.97 398.54,290.27 398.54,300.85 407.8,306.15" stroke="rgb(159,159,159)" fill="rgb(159,159,159)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.104" points="167.11,316.73 167.11,306.15 157.86,300.85 148.6,306.15 148.6,316.73 157.86,322.03" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.105" points="204.14,316.73 204.14,306.15 194.88,300.85 185.63,306.15 185.63,316.73 194.88,322.03" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.106" points="222.66,316.73 222.66,306.15 213.4,300.85 204.14,306.15 204.14,316.73 213.4,322.03" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.107" points="259.68,316.73 259.68,306.15 250.43,300.85 241.17,306.15 241.17,316.73 250.43,322.03" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.108" points="278.2,316.73 278.2,306.15 268.94,300.85 259.68,306.15 259.68,316.73 268.94,322.03" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.109" points="333.74,316.73 333.74,306.15 324.49,300.85 315.23,306.15 315.23,316.73 324.49,322.03" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.110" points="370.77,316.73 370.77,306.15 361.51,300.85 352.26,306.15 352.26,316.73 361.51,322.03" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.111" points="389.29,316.73 389.29,306.15 380.03,300.85 370.77,306.15 370.77,316.73 380.03,322.03" stroke="rgb(141,141,141)" fill="rgb(141,141,141)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.112" points="407.8,316.73 407.8,306.15 398.54,300.85 389.29,306.15 389.29,316.73 398.54,322.03" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.113" points="426.32,316.73 426.32,306.15 417.06,300.85 407.8,306.15 407.8,316.73 417.06,322.03" stroke="rgb(185,185,185)" fill="rgb(185,185,185)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.114" points="444.83,316.73 444.83,306.15 435.57,300.85 426.32,306.15 426.32,316.73 435.57,322.03" stroke="rgb(185,185,185)" fill="rgb(185,185,185)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.115" points="463.34,316.73 463.34,306.15 454.09,300.85 444.83,306.15 444.83,316.73 454.09,322.03" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.116" points="176.37,332.61 176.37,322.03 167.11,316.73 157.86,322.03 157.86,332.61 167.11,337.9" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.117" points="194.88,332.61 194.88,322.03 185.63,316.73 176.37,322.03 176.37,332.61 185.63,337.9" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.118" points="213.4,332.61 213.4,322.03 204.14,316.73 194.88,322.03 194.88,332.61 204.14,337.9" stroke="rgb(185,185,185)" fill="rgb(185,185,185)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.119" points="231.91,332.61 231.91,322.03 222.66,316.73 213.4,322.03 213.4,332.61 222.66,337.9" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.120" points="250.43,332.61 250.43,322.03 241.17,316.73 231.91,322.03 231.91,332.61 241.17,337.9" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.121" points="287.46,332.61 287.46,322.03 278.2,316.73 268.94,322.03 268.94,332.61 278.2,337.9" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.122" points="343,332.61 343,322.03 333.74,316.73 324.49,322.03 324.49,332.61 333.74,337.9" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.123" points="380.03,332.61 380.03,322.03 370.77,316.73 361.51,322.03 361.51,332.61 370.77,337.9" stroke="rgb(185,185,185)" fill="rgb(185,185,185)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.124" points="398.54,332.61 398.54,322.03 389.29,316.73 380.03,322.03 380.03,332.61 389.29,337.9" stroke="rgb(43,43,43)" fill="rgb(43,43,43)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.125" points="417.06,332.61 417.06,322.03 407.8,316.73 398.54,322.03 398.54,332.61 407.8,337.9" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.126" points="435.57,332.61 435.57,322.03 426.32,316.73 417.06,322.03 417.06,332.61 426.32,337.9" stroke="rgb(159,159,159)" fill="rgb(159,159,159)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.127" points="454.09,332.61 454.09,322.03 444.83,316.73 435.57,322.03 435.57,332.61 444.83,337.9" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.128" points="204.14,348.49 204.14,337.9 194.88,332.61 185.63,337.9 185.63,348.49 194.88,353.78" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.129" points="222.66,348.49 222.66,337.9 213.4,332.61 204.14,337.9 204.14,348.49 213.4,353.78" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.130" points="241.17,348.49 241.17,337.9 231.91,332.61 222.66,337.9 222.66,348.49 231.91,353.78" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.131" points="259.68,348.49 259.68,337.9 250.43,332.61 241.17,337.9 241.17,348.49 250.43,353.78" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.132" points="296.71,348.49 296.71,337.9 287.46,332.61 278.2,337.9 278.2,348.49 287.46,353.78" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.133" points="352.26,348.49 352.26,337.9 343,332.61 333.74,337.9 333.74,348.49 343,353.78" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.134" points="370.77,348.49 370.77,337.9 361.51,332.61 352.26,337.9 352.26,348.49 361.51,353.78" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.135" points="389.29,348.49 389.29,337.9 380.03,332.61 370.77,337.9 370.77,348.49 380.03,353.78" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.136" points="407.8,348.49 407.8,337.9 398.54,332.61 389.29,337.9 389.29,348.49 398.54,353.78" stroke="rgb(141,141,141)" fill="rgb(141,141,141)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.137" points="426.32,348.49 426.32,337.9 417.06,332.61 407.8,337.9 407.8,348.49 417.06,353.78" stroke="rgb(159,159,159)" fill="rgb(159,159,159)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.138" points="444.83,348.49 444.83,337.9 435.57,332.61 426.32,337.9 426.32,348.49 435.57,353.78" stroke="rgb(43,43,43)" fill="rgb(43,43,43)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.139" points="463.34,348.49 463.34,337.9 454.09,332.61 444.83,337.9 444.83,348.49 454.09,353.78" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.140" points="481.86,348.49 481.86,337.9 472.6,332.61 463.34,337.9 463.34,348.49 472.6,353.78" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.141" points="213.4,364.37 213.4,353.78 204.14,348.49 194.88,353.78 194.88,364.37 204.14,369.66" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.142" points="231.91,364.37 231.91,353.78 222.66,348.49 213.4,353.78 213.4,364.37 222.66,369.66" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.143" points="250.43,364.37 250.43,353.78 241.17,348.49 231.91,353.78 231.91,364.37 241.17,369.66" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.144" points="343,364.37 343,353.78 333.74,348.49 324.49,353.78 324.49,364.37 333.74,369.66" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.145" points="361.51,364.37 361.51,353.78 352.26,348.49 343,353.78 343,364.37 352.26,369.66" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.146" points="380.03,364.37 380.03,353.78 370.77,348.49 361.51,353.78 361.51,364.37 370.77,369.66" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.147" points="398.54,364.37 398.54,353.78 389.29,348.49 380.03,353.78 380.03,364.37 389.29,369.66" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.148" points="417.06,364.37 417.06,353.78 407.8,348.49 398.54,353.78 398.54,364.37 407.8,369.66" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.149" points="435.57,364.37 435.57,353.78 426.32,348.49 417.06,353.78 417.06,364.37 426.32,369.66" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.150" points="454.09,364.37 454.09,353.78 444.83,348.49 435.57,353.78 435.57,364.37 444.83,369.66" stroke="rgb(120,120,120)" fill="rgb(120,120,120)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.151" points="472.6,364.37 472.6,353.78 463.34,348.49 454.09,353.78 454.09,364.37 463.34,369.66" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.152" points="222.66,380.25 222.66,369.66 213.4,364.37 204.14,369.66 204.14,380.25 213.4,385.54" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.153" points="241.17,380.25 241.17,369.66 231.91,364.37 222.66,369.66 222.66,380.25 231.91,385.54" stroke="rgb(185,185,185)" fill="rgb(185,185,185)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.154" points="259.68,380.25 259.68,369.66 250.43,364.37 241.17,369.66 241.17,380.25 250.43,385.54" stroke="rgb(185,185,185)" fill="rgb(185,185,185)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.155" points="278.2,380.25 278.2,369.66 268.94,364.37 259.68,369.66 259.68,380.25 268.94,385.54" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.156" points="296.71,380.25 296.71,369.66 287.46,364.37 278.2,369.66 278.2,380.25 287.46,385.54" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.157" points="315.23,380.25 315.23,369.66 305.97,364.37 296.71,369.66 296.71,380.25 305.97,385.54" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.158" points="370.77,380.25 370.77,369.66 361.51,364.37 352.26,369.66 352.26,380.25 361.51,385.54" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.159" points="389.29,380.25 389.29,369.66 380.03,364.37 370.77,369.66 370.77,380.25 380.03,385.54" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.160" points="407.8,380.25 407.8,369.66 398.54,364.37 389.29,369.66 389.29,380.25 398.54,385.54" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.161" points="463.34,380.25 463.34,369.66 454.09,364.37 444.83,369.66 444.83,380.25 454.09,385.54" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.162" points="250.43,396.13 250.43,385.54 241.17,380.25 231.91,385.54 231.91,396.13 241.17,401.42" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.163" points="268.94,396.13 268.94,385.54 259.68,380.25 250.43,385.54 250.43,396.13 259.68,401.42" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.164" points="287.46,396.13 287.46,385.54 278.2,380.25 268.94,385.54 268.94,396.13 278.2,401.42" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.165" points="305.97,396.13 305.97,385.54 296.71,380.25 287.46,385.54 287.46,396.13 296.71,401.42" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.166" points="324.49,396.13 324.49,385.54 315.23,380.25 305.97,385.54 305.97,396.13 315.23,401.42" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.167" points="343,396.13 343,385.54 333.74,380.25 324.49,385.54 324.49,396.13 333.74,401.42" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.168" points="361.51,396.13 361.51,385.54 352.26,380.25 343,385.54 343,396.13 352.26,401.42" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.169" points="380.03,396.13 380.03,385.54 370.77,380.25 361.51,385.54 361.51,396.13 370.77,401.42" stroke="rgb(185,185,185)" fill="rgb(185,185,185)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.170" points="398.54,396.13 398.54,385.54 389.29,380.25 380.03,385.54 380.03,396.13 389.29,401.42" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.171" points="278.2,412.01 278.2,401.42 268.94,396.13 259.68,401.42 259.68,412.01 268.94,417.3" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.172" points="315.23,412.01 315.23,401.42 305.97,396.13 296.71,401.42 296.71,412.01 305.97,417.3" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.173" points="333.74,412.01 333.74,401.42 324.49,396.13 315.23,401.42 315.23,412.01 324.49,417.3" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.174" points="352.26,412.01 352.26,401.42 343,396.13 333.74,401.42 333.74,412.01 343,417.3" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.175" points="389.29,412.01 389.29,401.42 380.03,396.13 370.77,401.42 370.77,412.01 380.03,417.3" stroke="rgb(185,185,185)" fill="rgb(185,185,185)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.176" points="407.8,412.01 407.8,401.42 398.54,396.13 389.29,401.42 389.29,412.01 398.54,417.3" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.177" points="463.34,412.01 463.34,401.42 454.09,396.13 444.83,401.42 444.83,412.01 454.09,417.3" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.178" points="287.46,427.88 287.46,417.3 278.2,412.01 268.94,417.3 268.94,427.88 278.2,433.18" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.179" points="305.97,427.88 305.97,417.3 296.71,412.01 287.46,417.3 287.46,427.88 296.71,433.18" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.180" points="324.49,427.88 324.49,417.3 315.23,412.01 305.97,417.3 305.97,427.88 315.23,433.18" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.181" points="343,427.88 343,417.3 333.74,412.01 324.49,417.3 324.49,427.88 333.74,433.18" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.182" points="361.51,427.88 361.51,417.3 352.26,412.01 343,417.3 343,427.88 352.26,433.18" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.183" points="380.03,427.88 380.03,417.3 370.77,412.01 361.51,417.3 361.51,427.88 370.77,433.18" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.184" points="398.54,427.88 398.54,417.3 389.29,412.01 380.03,417.3 380.03,427.88 389.29,433.18" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.185" points="417.06,427.88 417.06,417.3 407.8,412.01 398.54,417.3 398.54,427.88 407.8,433.18" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.186" points="435.57,427.88 435.57,417.3 426.32,412.01 417.06,417.3 417.06,427.88 426.32,433.18" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.187" points="454.09,427.88 454.09,417.3 444.83,412.01 435.57,417.3 435.57,427.88 444.83,433.18" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.188" points="315.23,443.76 315.23,433.18 305.97,427.88 296.71,433.18 296.71,443.76 305.97,449.06" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.189" points="352.26,443.76 352.26,433.18 343,427.88 333.74,433.18 333.74,443.76 343,449.06" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.190" points="389.29,443.76 389.29,433.18 380.03,427.88 370.77,433.18 370.77,443.76 380.03,449.06" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.191" points="407.8,443.76 407.8,433.18 398.54,427.88 389.29,433.18 389.29,443.76 398.54,449.06" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.192" points="426.32,443.76 426.32,433.18 417.06,427.88 407.8,433.18 407.8,443.76 417.06,449.06" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.193" points="444.83,443.76 444.83,433.18 435.57,427.88 426.32,433.18 426.32,443.76 435.57,449.06" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.194" points="463.34,443.76 463.34,433.18 454.09,427.88 444.83,433.18 444.83,443.76 454.09,449.06" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.195" points="500.37,443.76 500.37,433.18 491.12,427.88 481.86,433.18 481.86,443.76 491.12,449.06" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.196" points="417.06,459.64 417.06,449.06 407.8,443.76 398.54,449.06 398.54,459.64 407.8,464.94" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.197" points="435.57,459.64 435.57,449.06 426.32,443.76 417.06,449.06 417.06,459.64 426.32,464.94" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.198" points="454.09,459.64 454.09,449.06 444.83,443.76 435.57,449.06 435.57,459.64 444.83,464.94" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.199" points="491.12,459.64 491.12,449.06 481.86,443.76 472.6,449.06 472.6,459.64 481.86,464.94" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.200" points="407.8,475.52 407.8,464.94 398.54,459.64 389.29,464.94 389.29,475.52 398.54,480.81" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.201" points="537.4,475.52 537.4,464.94 528.14,459.64 518.89,464.94 518.89,475.52 528.14,480.81" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+          <polygon id="GRID.polygon.305.1.202" points="528.14,491.4 528.14,480.81 518.89,475.52 509.63,480.81 509.63,491.4 518.89,496.69" stroke="rgb(212,212,212)" fill="rgb(212,212,212)" stroke-opacity="1" fill-opacity="1"/>
+        </g>
+      </g>
+      <g id="GRID.VP.20.1" class="pushedvp viewport">
+        <g id="GRID.polygon.306.1" class="polygon grob gDesc">
+          <polygon id="GRID.polygon.306.1.1" points="694.73,127.19 694.73,117.11 686,112.07 677.27,117.11 677.27,127.19 686,132.23" fill="rgb(212,212,212)" fill-opacity="1"/>
+        </g>
+        <g id="GRID.text.307.1" class="text grob gDesc">
+          <g id="GRID.text.307.1.1" transform="translate(726, 112.07)" stroke-width="0.1">
+            <g id="GRID.text.307.1.1.scale" transform="scale(1, -1)">
+              <text x="0" y="0" id="GRID.text.307.1.1.text" text-anchor="middle" fill="rgb(0,0,0)" fill-opacity="1" font-size="16.67">
+                <tspan id="GRID.text.307.1.1.tspan.1" dy="6.5" x="0">1</tspan>
+              </text>
+            </g>
+          </g>
+        </g>
+        <g id="GRID.polygon.308.1" class="polygon grob gDesc">
+          <polygon id="GRID.polygon.308.1.1" points="694.73,147.34 694.73,137.26 686,132.23 677.27,137.26 677.27,147.34 686,152.38" fill="rgb(185,185,185)" fill-opacity="1"/>
+        </g>
+        <g id="GRID.text.309.1" class="text grob gDesc">
+          <g id="GRID.text.309.1.1" transform="translate(726, 132.23)" stroke-width="0.1">
+            <g id="GRID.text.309.1.1.scale" transform="scale(1, -1)">
+              <text x="0" y="0" id="GRID.text.309.1.1.text" text-anchor="middle" fill="rgb(0,0,0)" fill-opacity="1" font-size="16.67">
+                <tspan id="GRID.text.309.1.1.tspan.1" dy="6.5" x="0">227</tspan>
+              </text>
+            </g>
+          </g>
+        </g>
+        <g id="GRID.polygon.310.1" class="polygon grob gDesc">
+          <polygon id="GRID.polygon.310.1.1" points="694.73,167.49 694.73,157.41 686,152.38 677.27,157.41 677.27,167.49 686,172.53" fill="rgb(164,164,164)" fill-opacity="1"/>
+        </g>
+        <g id="GRID.text.311.1" class="text grob gDesc">
+          <g id="GRID.text.311.1.1" transform="translate(726, 152.38)" stroke-width="0.1">
+            <g id="GRID.text.311.1.1.scale" transform="scale(1, -1)">
+              <text x="0" y="0" id="GRID.text.311.1.1.text" text-anchor="middle" fill="rgb(0,0,0)" fill-opacity="1" font-size="16.67">
+                <tspan id="GRID.text.311.1.1.tspan.1" dy="6.5" x="0">453</tspan>
+              </text>
+            </g>
+          </g>
+        </g>
+        <g id="GRID.polygon.312.1" class="polygon grob gDesc">
+          <polygon id="GRID.polygon.312.1.1" points="694.73,187.64 694.73,177.56 686,172.53 677.27,177.56 677.27,187.64 686,192.68" fill="rgb(145,145,145)" fill-opacity="1"/>
+        </g>
+        <g id="GRID.text.313.1" class="text grob gDesc">
+          <g id="GRID.text.313.1.1" transform="translate(726, 172.53)" stroke-width="0.1">
+            <g id="GRID.text.313.1.1.scale" transform="scale(1, -1)">
+              <text x="0" y="0" id="GRID.text.313.1.1.text" text-anchor="middle" fill="rgb(0,0,0)" fill-opacity="1" font-size="16.67">
+                <tspan id="GRID.text.313.1.1.tspan.1" dy="6.5" x="0">678</tspan>
+              </text>
+            </g>
+          </g>
+        </g>
+        <g id="GRID.polygon.314.1" class="polygon grob gDesc">
+          <polygon id="GRID.polygon.314.1.1" points="694.73,207.79 694.73,197.71 686,192.67 677.27,197.71 677.27,207.79 686,212.82" fill="rgb(124,124,124)" fill-opacity="1"/>
+        </g>
+        <g id="GRID.text.315.1" class="text grob gDesc">
+          <g id="GRID.text.315.1.1" transform="translate(726, 192.68)" stroke-width="0.1">
+            <g id="GRID.text.315.1.1.scale" transform="scale(1, -1)">
+              <text x="0" y="0" id="GRID.text.315.1.1.text" text-anchor="middle" fill="rgb(0,0,0)" fill-opacity="1" font-size="16.67">
+                <tspan id="GRID.text.315.1.1.tspan.1" dy="6.5" x="0">904</tspan>
+              </text>
+            </g>
+          </g>
+        </g>
+        <g id="GRID.polygon.316.1" class="polygon grob gDesc">
+          <polygon id="GRID.polygon.316.1.1" points="694.73,227.94 694.73,217.86 686,212.83 677.27,217.86 677.27,227.94 686,232.97" fill="rgb(108,108,108)" fill-opacity="1"/>
+        </g>
+        <g id="GRID.text.317.1" class="text grob gDesc">
+          <g id="GRID.text.317.1.1" transform="translate(726, 212.82)" stroke-width="0.1">
+            <g id="GRID.text.317.1.1.scale" transform="scale(1, -1)">
+              <text x="0" y="0" id="GRID.text.317.1.1.text" text-anchor="middle" fill="rgb(0,0,0)" fill-opacity="1" font-size="16.67">
+                <tspan id="GRID.text.317.1.1.tspan.1" dy="6.5" x="0">1130</tspan>
+              </text>
+            </g>
+          </g>
+        </g>
+        <g id="GRID.polygon.318.1" class="polygon grob gDesc">
+          <polygon id="GRID.polygon.318.1.1" points="694.73,248.09 694.73,238.01 686,232.97 677.27,238.01 677.27,248.09 686,253.12" fill="rgb(94,94,94)" fill-opacity="1"/>
+        </g>
+        <g id="GRID.text.319.1" class="text grob gDesc">
+          <g id="GRID.text.319.1.1" transform="translate(726, 232.97)" stroke-width="0.1">
+            <g id="GRID.text.319.1.1.scale" transform="scale(1, -1)">
+              <text x="0" y="0" id="GRID.text.319.1.1.text" text-anchor="middle" fill="rgb(0,0,0)" fill-opacity="1" font-size="16.67">
+                <tspan id="GRID.text.319.1.1.tspan.1" dy="6.5" x="0">1356</tspan>
+              </text>
+            </g>
+          </g>
+        </g>
+        <g id="GRID.polygon.320.1" class="polygon grob gDesc">
+          <polygon id="GRID.polygon.320.1.1" points="694.73,268.24 694.73,258.16 686,253.12 677.27,258.16 677.27,268.24 686,273.28" fill="rgb(78,78,78)" fill-opacity="1"/>
+        </g>
+        <g id="GRID.text.321.1" class="text grob gDesc">
+          <g id="GRID.text.321.1.1" transform="translate(726, 253.12)" stroke-width="0.1">
+            <g id="GRID.text.321.1.1.scale" transform="scale(1, -1)">
+              <text x="0" y="0" id="GRID.text.321.1.1.text" text-anchor="middle" fill="rgb(0,0,0)" fill-opacity="1" font-size="16.67">
+                <tspan id="GRID.text.321.1.1.tspan.1" dy="6.5" x="0">1582</tspan>
+              </text>
+            </g>
+          </g>
+        </g>
+        <g id="GRID.polygon.322.1" class="polygon grob gDesc">
+          <polygon id="GRID.polygon.322.1.1" points="694.73,288.39 694.73,278.31 686,273.28 677.27,278.31 677.27,288.39 686,293.43" fill="rgb(67,67,67)" fill-opacity="1"/>
+        </g>
+        <g id="GRID.text.323.1" class="text grob gDesc">
+          <g id="GRID.text.323.1.1" transform="translate(726, 273.28)" stroke-width="0.1">
+            <g id="GRID.text.323.1.1.scale" transform="scale(1, -1)">
+              <text x="0" y="0" id="GRID.text.323.1.1.text" text-anchor="middle" fill="rgb(0,0,0)" fill-opacity="1" font-size="16.67">
+                <tspan id="GRID.text.323.1.1.tspan.1" dy="6.5" x="0">1808</tspan>
+              </text>
+            </g>
+          </g>
+        </g>
+        <g id="GRID.polygon.324.1" class="polygon grob gDesc">
+          <polygon id="GRID.polygon.324.1.1" points="694.73,308.54 694.73,298.46 686,293.43 677.27,298.46 677.27,308.54 686,313.58" fill="rgb(56,56,56)" fill-opacity="1"/>
+        </g>
+        <g id="GRID.text.325.1" class="text grob gDesc">
+          <g id="GRID.text.325.1.1" transform="translate(726, 293.43)" stroke-width="0.1">
+            <g id="GRID.text.325.1.1.scale" transform="scale(1, -1)">
+              <text x="0" y="0" id="GRID.text.325.1.1.text" text-anchor="middle" fill="rgb(0,0,0)" fill-opacity="1" font-size="16.67">
+                <tspan id="GRID.text.325.1.1.tspan.1" dy="6.5" x="0">2033</tspan>
+              </text>
+            </g>
+          </g>
+        </g>
+        <g id="GRID.polygon.326.1" class="polygon grob gDesc">
+          <polygon id="GRID.polygon.326.1.1" points="694.73,328.69 694.73,318.61 686,313.57 677.27,318.61 677.27,328.69 686,333.73" fill="rgb(47,47,47)" fill-opacity="1"/>
+        </g>
+        <g id="GRID.text.327.1" class="text grob gDesc">
+          <g id="GRID.text.327.1.1" transform="translate(726, 313.58)" stroke-width="0.1">
+            <g id="GRID.text.327.1.1.scale" transform="scale(1, -1)">
+              <text x="0" y="0" id="GRID.text.327.1.1.text" text-anchor="middle" fill="rgb(0,0,0)" fill-opacity="1" font-size="16.67">
+                <tspan id="GRID.text.327.1.1.tspan.1" dy="6.5" x="0">2259</tspan>
+              </text>
+            </g>
+          </g>
+        </g>
+        <g id="GRID.polygon.328.1" class="polygon grob gDesc">
+          <polygon id="GRID.polygon.328.1.1" points="694.73,348.84 694.73,338.76 686,333.73 677.27,338.76 677.27,348.84 686,353.88" fill="rgb(39,39,39)" fill-opacity="1"/>
+        </g>
+        <g id="GRID.text.329.1" class="text grob gDesc">
+          <g id="GRID.text.329.1.1" transform="translate(726, 333.73)" stroke-width="0.1">
+            <g id="GRID.text.329.1.1.scale" transform="scale(1, -1)">
+              <text x="0" y="0" id="GRID.text.329.1.1.text" text-anchor="middle" fill="rgb(0,0,0)" fill-opacity="1" font-size="16.67">
+                <tspan id="GRID.text.329.1.1.tspan.1" dy="6.5" x="0">2485</tspan>
+              </text>
+            </g>
+          </g>
+        </g>
+        <g id="GRID.polygon.330.1" class="polygon grob gDesc">
+          <polygon id="GRID.polygon.330.1.1" points="694.73,368.99 694.73,358.91 686,353.88 677.27,358.91 677.27,368.99 686,374.03" fill="rgb(32,32,32)" fill-opacity="1"/>
+        </g>
+        <g id="GRID.text.331.1" class="text grob gDesc">
+          <g id="GRID.text.331.1.1" transform="translate(726, 353.88)" stroke-width="0.1">
+            <g id="GRID.text.331.1.1.scale" transform="scale(1, -1)">
+              <text x="0" y="0" id="GRID.text.331.1.1.text" text-anchor="middle" fill="rgb(0,0,0)" fill-opacity="1" font-size="16.67">
+                <tspan id="GRID.text.331.1.1.tspan.1" dy="6.5" x="0">2711</tspan>
+              </text>
+            </g>
+          </g>
+        </g>
+        <g id="GRID.polygon.332.1" class="polygon grob gDesc">
+          <polygon id="GRID.polygon.332.1.1" points="694.73,389.14 694.73,379.06 686,374.02 677.27,379.06 677.27,389.14 686,394.18" fill="rgb(26,26,26)" fill-opacity="1"/>
+        </g>
+        <g id="GRID.text.333.1" class="text grob gDesc">
+          <g id="GRID.text.333.1.1" transform="translate(726, 374.03)" stroke-width="0.1">
+            <g id="GRID.text.333.1.1.scale" transform="scale(1, -1)">
+              <text x="0" y="0" id="GRID.text.333.1.1.text" text-anchor="middle" fill="rgb(0,0,0)" fill-opacity="1" font-size="16.67">
+                <tspan id="GRID.text.333.1.1.tspan.1" dy="6.5" x="0">2937</tspan>
+              </text>
+            </g>
+          </g>
+        </g>
+        <g id="GRID.polygon.334.1" class="polygon grob gDesc">
+          <polygon id="GRID.polygon.334.1.1" points="694.73,409.29 694.73,399.21 686,394.18 677.27,399.21 677.27,409.29 686,414.32" fill="rgb(21,21,21)" fill-opacity="1"/>
+        </g>
+        <g id="GRID.text.335.1" class="text grob gDesc">
+          <g id="GRID.text.335.1.1" transform="translate(726, 394.18)" stroke-width="0.1">
+            <g id="GRID.text.335.1.1.scale" transform="scale(1, -1)">
+              <text x="0" y="0" id="GRID.text.335.1.1.text" text-anchor="middle" fill="rgb(0,0,0)" fill-opacity="1" font-size="16.67">
+                <tspan id="GRID.text.335.1.1.tspan.1" dy="6.5" x="0">3162</tspan>
+              </text>
+            </g>
+          </g>
+        </g>
+        <g id="GRID.polygon.336.1" class="polygon grob gDesc">
+          <polygon id="GRID.polygon.336.1.1" points="694.73,429.44 694.73,419.36 686,414.32 677.27,419.36 677.27,429.44 686,434.47" fill="rgb(17,17,17)" fill-opacity="1"/>
+        </g>
+        <g id="GRID.text.337.1" class="text grob gDesc">
+          <g id="GRID.text.337.1.1" transform="translate(726, 414.32)" stroke-width="0.1">
+            <g id="GRID.text.337.1.1.scale" transform="scale(1, -1)">
+              <text x="0" y="0" id="GRID.text.337.1.1.text" text-anchor="middle" fill="rgb(0,0,0)" fill-opacity="1" font-size="16.67">
+                <tspan id="GRID.text.337.1.1.tspan.1" dy="6.5" x="0">3388</tspan>
+              </text>
+            </g>
+          </g>
+        </g>
+        <g id="GRID.text.338.1" class="text grob gDesc">
+          <g id="GRID.text.338.1.1" transform="translate(726, 434.47)" stroke-width="0.1">
+            <g id="GRID.text.338.1.1.scale" transform="scale(1, -1)">
+              <text x="0" y="0" id="GRID.text.338.1.1.text" text-anchor="middle" fill="rgb(0,0,0)" fill-opacity="1" font-size="16.67">
+                <tspan id="GRID.text.338.1.1.tspan.1" dy="6.5" x="0">3614</tspan>
+              </text>
+            </g>
+          </g>
+        </g>
+        <g id="GRID.text.339.1" class="text grob gDesc">
+          <g id="GRID.text.339.1.1" transform="translate(706, 474.77)" stroke-width="0.1">
+            <g id="GRID.text.339.1.1.scale" transform="scale(1, -1)">
+              <text x="0" y="0" id="GRID.text.339.1.1.text" text-anchor="middle" fill="rgb(0,0,0)" fill-opacity="1" font-size="28.33">
+                <tspan id="GRID.text.339.1.1.tspan.1" dy="10.5" x="0">Counts</tspan>
+              </text>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

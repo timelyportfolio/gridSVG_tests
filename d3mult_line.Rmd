@@ -1,6 +1,31 @@
-<script src = "js/d3.v3.js"></script>
+---
+title: gridSVG, d3, and slidify
+author: Timely Portfolio
+framework: bootstrap
+mode: selfcontained
+highlighter: prettify
+hitheme: twitter-bootstrap
+assets:
+  js:
+  - "http://d3js.org/d3.v3.js"
+---
 
-```{r results = 'asis'}
+<a href="https://github.com/timelyportfolio/gridSVG_d3_multline"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png" alt="Fork me on GitHub"></a>
+  
+```{r echo=F, warning= F, message=F}
+opts_chunk$set(
+  message = TRUE,
+  warning = TRUE,
+  error = TRUE,
+  tidy = FALSE,
+  cache = FALSE,
+  results = 'asis'
+)
+```
+
+## FRED, Give Us Some Treasury Yield Data
+
+```{r}
 require(quantmod)
 require(rCharts)
 #now get the US bonds from FRED
@@ -34,11 +59,7 @@ xtsMelt <- function(data) {
   return(data.melt)
   #return(df2json(na.omit(data.melt)))
 }
-```
 
-Now let's use our new `xtsMelt` function on our data.  You might notice that we use `na.omit` to remove the pesky NAs that sometimes haunt FRED data.
-
-```{r}
 ust.melt <- na.omit( xtsMelt( ust.xts["2012::",] ) )
 
 ust.melt$date <- as.Date(ust.melt$date)
@@ -54,8 +75,14 @@ ust.melt$maturity <- as.numeric(
 ust.melt$country <- rep( "US", nrow( ust.melt ))
 ```
 
+## Draw A Graph with Lattice
+
 ```{r}
 require(latticeExtra)
+
+#set up height and width
+x11( width = 10, height = 6 )
+
 p1 <- xyplot(
   value ~ date | indexname,
   groups = indexname,
@@ -71,7 +98,7 @@ p1 <- xyplot(
 p1
 ```
 
-```{r results = 'asis'}
+```{r}
 require(rjson)
 require(gridSVG)
 
@@ -109,33 +136,27 @@ getlist <- function(p) {
       strips = p$condlevels,
       groups = unique(unlist(groups)),
       data = data
-#        rapply(
-#        data,
-#        f=function(x){
-#          return(
-#            if(is.factor(x)){
-#              factor(gsub(x, pattern="[.]", replacement=""))
-#            } else x
-#          )
-#        },
-#        how="replace"
-#      )
     )
   )
 }
 
-saveXML(grid.export("",addClasses = TRUE)$svg)
+#export our lattice chart
+exportlist <- grid.export( "", addClasses = TRUE )
 
-json_info <- toJSON(getlist(p1))
-c(
+#use our fancy function from above to get
+#all the data we will need to reverse data bind with d3
+data <- rjson::toJSON( getlist( p1 ) )
+
+jscode <- c(
   '
-      <script>
-        var data = 
-    ',
-    json_info
+  <script>
+  var data = 
+  ',
+  data
+)
+paste0(c(
+  saveXML(exportlist[[1]]),
+  jscode,
+  readLines("d3mult_line.js")
 )
 ```
-
-
-
-</script

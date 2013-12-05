@@ -21,8 +21,7 @@ ggplot(data=all) +
       scale_y_continuous(limits=c(10, 90),
                          name="Life Expectancy (at birth)") +
       scale_colour_manual(values=continentCols) +
-      opts(legend.position="none") +
-      scale_size(to=c(1, 20))
+      opts(legend.position="none")
 )
 
 xCols <- grep("[.]x$", names(all))
@@ -53,8 +52,7 @@ ggplot(data=all) +
                          name="Life Expectancy (at birth)") +
       scale_colour_manual(values=continentCols) +
       opts(legend.position="none") +
-      facet_wrap(~ continent) +
-      scale_size(to=c(1, 20))
+      facet_wrap(~ continent)
 )
 
 
